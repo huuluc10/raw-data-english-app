@@ -1,0 +1,162 @@
+{
+    "title": "Common Action - Hành Động Thông Dụng",
+    "description": "Tiếp tục học các hành động thông dụng trong tiếng Anh",
+    "content": [
+        {
+            "title": "Close - Đóng",
+            "text": "“Close” là động từ có nghĩa là di chuyển hai bên của một vật thể để chúng không còn cách xa nhau.",
+            "example": [
+                {
+                    "original": "I close the door when I leave.",
+                    "explanation": "Tôi đóng cửa khi ra ngoài."
+                }
+            ],
+            "image_url": "images/objects/common_action/close.png",
+            "video_url": null
+        },
+        {
+            "title": "Give - Đưa",
+            "text": "“Give” là động từ có nghĩa là chuyển một vật gì đó từ một người này sang người khác.",
+            "example": [
+                {
+                    "original": "I give my friend a book.",
+                    "explanation": "Tôi đưa sách cho bạn tôi."
+                }
+            ],
+            "image_url": "images/objects/common_action/give.png",
+            "video_url": null
+        },
+        {
+            "title": "Jump - Nhảy",
+            "text": "“Jump” là động từ có nghĩa là di chuyển lên không trung và rơi xuống.",
+            "example": [
+                {
+                    "original": "I jump over the fence.",
+                    "explanation": "Tôi nhảy qua hàng rào."
+                }
+            ],
+            "image_url": "images/objects/common_action/jump.png",
+            "video_url": null
+        },
+        {
+            "title": "Eat - Ăn",
+            "text": "“Eat” là động từ có nghĩa là đưa thức ăn vào miệng và nuốt.",
+            "example": [
+                {
+                    "original": "I eat breakfast at 7:00.",
+                    "explanation": "Tôi ăn sáng lúc 7:00."
+                }
+            ],
+            "image_url": "images/objects/common_action/eat.png",
+            "video_url": null
+        },
+        {
+            "title": "Drink - Uống",
+            "text": "“Drink” là động từ có nghĩa là chuyển nước từ cốc vào miệng và nuốt.",
+            "example": [
+                {
+                    "original": "I drink water when I am thirsty.",
+                    "explanation": "Tôi uống nước khi tôi khát."
+                }
+            ],
+            "image_url": "images/objects/common_action/drink.png",
+            "video_url": null
+        },
+        {
+            "title": "Cook - Nấu",
+            "text": "“Cook” là động từ có nghĩa là chế biến thức ăn.",
+            "example": [
+                {
+                    "original": "I cook dinner for my family.",
+                    "explanation": "Tôi nấu bữa tối cho gia đình tôi."
+                }
+            ],
+            "image_url": "images/objects/common_action/cook.png",
+            "video_url": null
+        },
+        {
+            "title": "Wash - Rửa",
+            "text": "“Wash” là động từ có nghĩa là làm sạch bằng nước.",
+            "example": [
+                {
+                    "original": "I wash my hands before eating.",
+                    "explanation": "Tôi rửa tay trước khi ăn."
+                }
+            ],
+            "image_url": "images/objects/common_action/wash.png",
+            "video_url": null
+        },
+        {
+            "title": "Wait - Chờ",
+            "text": "“Wait” là động từ có nghĩa là không làm gì cả cho đến khi một điều gì đó xảy ra.",
+            "example": [
+                {
+                    "original": "I wait for the bus.",
+                    "explanation": "Tôi chờ xe buýt."
+                }
+            ],
+            "image_url": "images/objects/common_action/wait.png",
+            "video_url": null
+        },
+        {
+            "title": "Climb - Leo",
+            "text": "“Climb” là động từ có nghĩa là di chuyển lên một vật gì đó.",
+            "example": [
+                {
+                    "original": "I climb the tree.",
+                    "explanation": "Tôi leo cây."
+                }
+            ],
+            "image_url": "images/objects/common_action/climb.png",
+            "video_url": null
+        },
+        {
+            "title": "Talk - Nói chuyện",
+            "text": "“Talk” là động từ có nghĩa là giao tiếp bằng cách nói.",
+            "example": [
+                {
+                    "original": "I talk to my friend.",
+                    "explanation": "Tôi nói chuyện với bạn tôi."
+                }
+            ],
+            "image_url": "images/objects/common_action/talk.png",
+            "video_url": null
+        },
+        {
+            "title": "Clap - Vỗ tay",
+            "text": "“Clap” là động từ có nghĩa là đập hai bàn tay lại với nhau.",
+            "example": [
+                {
+                    "original": "I clap my hands when I am happy.",
+                    "explanation": "Tôi vỗ tay khi tôi vui."
+                }
+            ],
+            "image_url": "images/objects/common_action/clap.png",
+            "video_url": null
+        },
+        {
+            "title": "Paint - Vẽ",
+            "text": "“Paint” là động từ có nghĩa là tạo ra hình ảnh bằng cách sử dụng màu.",
+            "example": [
+                {
+                    "original": "I paint a picture.",
+                    "explanation": "Tôi vẽ một bức tranh."
+                }
+            ],
+            "image_url": "images/objects/common_action/paint.png",
+            "video_url": null
+        },
+        {
+            "title": "Buy - Mua",
+            "text": "“Buy” là động từ có nghĩa là trao đổi tiền để có được một vật gì đó.",
+            "example": [
+                {
+                    "original": "I buy a book.",
+                    "explanation": "Tôi mua một quyển sách."
+                }
+            ],
+            "image_url": "images/objects/common_action/buy.png",
+            "video_url": null
+        }
+    ]
+}

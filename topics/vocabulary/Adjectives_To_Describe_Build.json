@@ -1,0 +1,66 @@
+{
+    "title": "Adjectives to Describe Build and Body Shape - Tính từ miêu tả dáng người và hình dáng cơ thể",
+    "description": "Học các tính từ phổ biến nhất để miêu tả dáng người và hình dáng cơ thể trong tiếng Anh.",
+    "content": [
+        {
+            "title": "Well-Built - Cơ bắp, cường tráng",
+            "text": null,
+            "example": [
+                {
+                    "original": "The athlete had a well-built physique with strong muscles and a toned body that showed the result of years of training.",
+                    "explanation": "Vận động viên có một thể hình cơ bắp với cơ bắp mạnh mẽ và cơ thể săn chắc thể hiện kết quả của nhiều năm tập luyện."
+                }
+            ],
+            "image_url": "images/objects/describe_build/well-built.png",
+            "video_url": null
+        },
+        {
+            "title": "Plump - Mập mạp",
+            "text": null,
+            "example": [
+                {
+                    "original": "The handmaiden was a cute plump woman.",
+                    "explanation": "Cô người hầu là một phụ nữ mập mạp dễ thương."
+                }
+            ],
+            "image_url": "images/objects/describe_build/plump.png",
+            "video_url": null
+        },
+        {
+            "title": "Thin - Ốm",
+            "text": null,
+            "example": [
+                {
+                    "original": "The model was very thin, with a slender figure and long legs that made her stand out on the runway.",
+                    "explanation": "Người mẫu rất ốm, với hình dáng mảnh mai và đôi chân dài giúp cô nổi bật trên sàn catwalk."
+                }
+            ],
+            "image_url": "images/objects/describe_build/thin.png",
+            "video_url": null
+        },
+        {
+            "title": "Fat - Béo",
+            "text": null,
+            "example": [
+                {
+                    "original": "I am getting fat because of sitting too much.",
+                    "explanation": "Tôi đang trở nên béo phì vì ngồi quá nhiều."
+                }
+            ],
+            "image_url": "images/objects/describe_build/fat.png",
+            "video_url": null
+        },
+        {
+            "title": "Slim - Thon gọn",
+            "text": null,
+            "example": [
+                {
+                    "original": "She has a slim figure.",
+                    "explanation": "Cô ấy có hình dáng thon gọn."
+                }
+            ],
+            "image_url": "images/objects/describe_build/slim.png",
+            "video_url": null
+        }
+    ]
+}

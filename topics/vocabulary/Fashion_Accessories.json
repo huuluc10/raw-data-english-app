@@ -1,0 +1,150 @@
+{
+    "title": "Accessories - Phụ kiện",
+    "description": "Phụ kiện là những món đồ được thêm vào trang phục để hoàn thiện vẻ ngoài. Chúng có thể có chức năng hoặc trang trí.",
+    "content": [
+        {
+            "tile": "Sunglasses - Kính râm",
+            "text": "Một cặp kính có tròng kính tối màu giúp bảo vệ mắt khỏi ánh nắng chói chang.",
+            "example": [
+                {
+                    "original": "She wore her favorite sunglasses to the beach.",
+                    "explanation": "Cô ấy đeo chiếc kính râm yêu thích của mình khi đi biển."
+                }
+            ],
+            "image_url": "images/objects/accessories/sunglasses.png",
+            "video_url": null
+        },
+        {
+            "title": "Apron - Tạp dề",
+            "text": "Một loại quần áo bảo hộ mặc bên ngoài quần áo, thường được buộc ở phía sau và che phía trước cơ thể, dùng để giữ quần áo sạch sẽ khi nấu ăn.",
+            "example": [
+                {
+                    "original": "The chef wore an apron to protect his clothes from getting dirty.",
+                    "explanation": "Đầu bếp đeo tạp dề để bảo vệ quần áo khỏi bị bẩn."
+                }
+            ],
+            "image_url": "images/objects/accessories/apron.png",
+            "video_url": null
+        },
+        {
+            "title": "Necklace - Dây chuyền",
+            "text": "Một món đồ trang sức đeo quanh cổ.",
+            "example": [
+                {
+                    "original": "She wore a beautiful necklace to the party.",
+                    "explanation": "Cô ấy đeo một chiếc dây chuyền đẹp khi đi dự tiệc."
+                }
+            ],
+            "image_url": "images/objects/accessories/necklace.png",
+            "video_url": null
+        },
+        {
+            "title": "Watch - Đồng hồ",
+            "text": "Một thiết bị đeo trên cổ tay để xem giờ.",
+            "example": [
+                {
+                    "original": "He wore a watch to keep track of time.",
+                    "explanation": "Anh ấy đeo đồng hồ để theo dõi thời gian."
+                }
+            ],
+            "image_url": "images/objects/accessories/watch.png",
+            "video_url": null
+        },
+        {
+            "title": "Socks - Tất",
+            "text": "Một loại vớ mặc ở chân.",
+            "example": [
+                {
+                    "original": "He wore a pair of socks to keep his feet warm.",
+                    "explanation": "Anh ấy đeo một đôi tất để giữ chân ấm."
+                }
+            ],
+            "image_url": "images/objects/accessories/socks.png",
+            "video_url": null
+        },
+        {
+            "title": "Tie - Cà vạt",
+            "text": "Một loại dây cài quần áo nam, thường được buộc ở cổ áo sơ mi hoặc áo vest.",
+            "example": [
+                {
+                    "original": "He wore a tie to look professional.",
+                    "explanation": "Anh ấy đeo cà vạt để trông chuyên nghiệp."
+                }
+            ],
+            "image_url": "images/objects/accessories/tie.png",
+            "video_url": null
+        },
+        {
+            "tile": "Purse - Cái ví",
+            "text": "Một loại túi nhỏ để đựng tiền, thẻ và các vật dụng cá nhân khác.",
+            "example": [
+                {
+                    "original": "She wore a purse to keep her belongings safe.",
+                    "explanation": "Cô ấy đeo túi xách để giữ an toàn đồ dùng cá nhân."
+                }
+            ],
+            "image_url": "images/objects/accessories/purse.png",
+            "video_url": null
+        },
+        {
+            "tile": "Ring - Nhẫn",
+            "text": "Một món đồ trang sức đeo ở ngón tay.",
+            "example": [
+                {
+                    "original": "She wore a ring to show her love.",
+                    "explanation": "Cô ấy đeo nhẫn để thể hiện tình yêu của mình."
+                }
+            ],
+            "image_url": "images/objects/accessories/ring.png",
+            "video_url": null
+        },
+        {
+            "tile": "Gloves - Găng tay",
+            "text": "Một loại găng tay đeo ở tay.",
+            "example": [
+                {
+                    "original": "He wore gloves to keep his hands warm.",
+                    "explanation": "Anh ấy đeo găng tay để giữ tay ấm."
+                }
+            ],
+            "image_url": "images/objects/accessories/gloves.png",
+            "video_url": null
+        },
+        {
+            "tile": "Scarf - Khăn quàng cổ",
+            "text": "Một loại khăn dài đeo ở cổ.",
+            "example": [
+                {
+                    "original": "She wore a scarf to keep her neck warm.",
+                    "explanation": "Cô ấy đeo khăn quàng cổ để giữ cổ ấm."
+                }
+            ],
+            "image_url": "images/objects/accessories/scarf.png",
+            "video_url": null
+        },
+        {
+            "tile": "Umbrella - Cái ô",
+            "text": "Một loại ô dùng để bảo vệ khỏi mưa hoặc nắng.",
+            "example": [
+                {
+                    "original": "She wore an umbrella to protect herself from the rain.",
+                    "explanation": "Cô ấy đeo cái ô để bảo vệ mình khỏi mưa."
+                }
+            ],
+            "image_url": "images/objects/accessories/umbrella.png",
+            "video_url": null
+        },
+        {
+            "tile": "Boots - Ủng",
+            "text": "Một loại giày cao cổ.",
+            "example": [
+                {
+                    "original": "She wore boots to keep her feet dry.",
+                    "explanation": "Cô ấy đeo ủng để giữ chân khô."
+                }
+            ],
+            "image_url": "images/objects/accessories/boots.png",
+            "video_url": null
+        }
+    ]
+}

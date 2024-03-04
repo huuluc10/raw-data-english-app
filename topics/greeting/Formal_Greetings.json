@@ -1,0 +1,48 @@
+{
+    "title": "Formal Greetings - Lời Chào Cực Kỳ Thân Thiện",
+    "description": "Những từ và cụm từ này chủ yếu được sử dụng bởi những người trẻ tuổi để chào hỏi bạn bè của họ khi họ đến một nơi nào đó như một bữa tiệc, một kỳ thi hoặc một lớp học. Một lần nữa, mặc dù một số lời chào này trông giống như câu hỏi, không có câu trả lời nào được mong đợi.",
+    "content": [
+        {
+            "title": "Hello!",
+            "text": "Trong các ví dụ về lời chào trang trọng, xin chào được ưu tiên hơn “hi” hoặc “hey”.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Hi there",
+            "text": "Đây là cách chào ít trang trọng hơn một chút nhưng vẫn phù hợp hơn so với cách sử dụng “hey”.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Good morning",
+            "text": "Câu chào này thường được sử dụng từ khoảng 6 giờ sáng đến 12 giờ trưa.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Good afternoon",
+            "text": "Câu chào này thường được sử dụng từ khoảng 12 giờ trưa đến 6 giờ chiều.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        }, 
+        {
+            "title": "Good evening",
+            "text": "Câu chào này thường được sử dụng từ khoảng 6 giờ chiều đến 12 giờ đêm.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "It’s nice to meet you",
+            "text": "Câu chào này thường được sử dụng khi bạn gặp một người lần đầu.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

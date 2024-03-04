@@ -1,0 +1,102 @@
+{
+    "title": "Types of Hats - Các loại mũ",
+    "description": "Tìm hiểu các loại mũ và tên mũ khác nhau bằng hình ảnh và ví dụ.",
+    "content": [
+        {
+            "tile": "Beanie - Mũ len",
+            "text": "Mũ len là một loại mũ nhỏ, mềm, thường được làm từ len. Mũ len thường không có viền và có thể được mặc trong nhà hoặc ngoài trời. Mũ len thường được mặc trong mùa đông để giữ ấm.",
+            "example": [
+                {
+                    "original": "I love wearing beanies in the winter.",
+                    "explanation": "Tôi thích đội mũ len vào mùa đông."
+                }
+            ],
+            "image_url": "images/objects/hats/beanie.png",
+            "video_url": null
+        },
+        {
+            "tile": "Cap - Mũ lưỡi trai",
+            "text": "Mũ lưỡi trai là một loại mũ có viền, thường được mặc trong mùa hè hoặc khi thể thao. Mũ lưỡi trai có thể được mặc bởi cả nam và nữ.",
+            "example": [
+                {
+                    "original": "I wear a cap when I play tennis.",
+                    "explanation": "Tôi đội mũ lưỡi trai khi chơi tennis."
+                }
+            ],
+            "image_url": "images/objects/hats/cap.png",
+            "video_url": null
+        },
+        {
+            "tile": "Beret",
+            "text": "Beret là một loại mũ tròn, mềm, thường được làm từ len hoặc vải. Beret thường không có viền và có thể được mặc bởi cả nam và nữ.",
+            "example": [
+                {
+                    "original": "I bought a beret when I visited France.",
+                    "explanation": "Tôi đã mua một chiếc mũ beret khi tôi đến thăm Pháp."
+                }
+            ],
+            "image_url": "images/objects/hats/beret.png",
+            "video_url": null
+        },
+        {
+            "tile": "Straw hat - Mũ rơm",
+            "text": "Mũ rơm là một loại mũ được làm từ rơm hoặc vật liệu tự nhiên khác. Mũ rơm thường có viền rộng và có thể được mặc trong mùa hè.",
+            "example": [
+                {
+                    "original": "I wear a straw hat when I go to the beach.",
+                    "explanation": "Tôi đội mũ rơm khi tôi đi biển."
+                }
+            ],
+            "image_url": "images/objects/hats/straw-hat.png",
+            "video_url": null
+        },
+        {
+            "tile": "Derby hat - Mũ derby",
+            "text": "Mũ derby là một loại mũ tròn, cứng, thường được làm từ vải hoặc len. Mũ derby thường có viền và có thể được mặc trong mùa xuân hoặc mùa thu.",
+            "example": [
+                {
+                    "original": "He wore a derby hat to the formal event.",
+                    "explanation": "Anh ấy đội mũ derby đến sự kiện trang trọng."
+                }
+            ],
+            "image_url": "images/objects/hats/derby-hat.png",
+            "video_url": null
+        },
+        {
+            "tile": "Helmet - Mũ bảo hiểm",
+            "text": "Mũ bảo hiểm là một loại mũ được thiết kế để bảo vệ đầu khi tham gia các hoạt động như lái xe máy, đạp xe, hoặc thể thao. Mũ bảo hiểm thường được làm từ nhựa hoặc kim loại.",
+            "example": [
+                {
+                    "original": "I always wear a helmet when I ride my bike.",
+                    "explanation": "Tôi luôn đội mũ bảo hiểm khi tôi đạp xe."
+                }
+            ],
+            "image_url": "images/objects/hats/helmet.png",
+            "video_url": null
+        },
+        {
+            "tile": "Top hat - Mũ chóp cao",
+            "text": "Mũ chóp là một chiếc mũ cao, có vương miện phẳng theo truyền thống gắn liền với trang phục trang trọng trong quy tắc ăn mặc của phương Tây, nghĩa là cà vạt trắng, váy buổi sáng hoặc áo choàng dài.",
+            "example": [
+                {
+                    "original": "He wore a top hat to the wedding as part of his formal attire.",
+                    "explanation": "Anh ấy đội một chiếc mũ chóp đến đám cưới như một phần của trang phục trang trọng."
+                }
+            ],
+            "image_url": "images/objects/hats/top-hat.png",
+            "video_url": null
+        },
+        {
+            "tile": "Mortar board - Mũ cử nhân",
+            "text": "Mortar board là một loại mũ cứng, có viền, thường được mặc trong lễ tốt nghiệp của sinh viên. Mũ cử nhân thường có màu đen và có một hình vuông phía trên.",
+            "example": [
+                {
+                    "original": "I wore a mortar board to my graduation.",
+                    "explanation": "Tôi đội mũ cử nhân trong lễ tốt nghiệp của mình."
+                }
+            ],
+            "image_url": "images/objects/hats/mortar-board.png",
+            "video_url": null
+        }
+    ]
+}

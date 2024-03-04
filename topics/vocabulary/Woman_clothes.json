@@ -1,0 +1,222 @@
+{
+    "title": "Woman’s Clothes List - Một số loại quần áo nữ",
+    "description": "Danh sách các loại quần áo nữ bằng tiếng Anh và hình ảnh minh họa. Các bạn có thể học từ vựng tiếng Anh về quần áo nữ qua hình ảnh.",
+    "content": [
+        {
+            "title": "Jeans - Quần bò",
+            "text": "Quần dài, thường được làm từ vải bò.",
+            "example": [
+                {
+                    "original": "She wore skinny jeans with her boots.",
+                    "explanation": "Cô ấy mặc quần jeans ôm với đôi boots của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-jeans.png",
+            "video_url": null
+        },
+        {
+            "title": "Long coat - Áo khoác dài",
+            "text": "Một chiếc áo khoác nặng kéo dài dưới thắt lưng.",
+            "example": [
+                {
+                    "original": "She wore a long coat to keep warm.",
+                    "explanation": "Cô ấy mặc áo khoác dài để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-long-coat.png",
+            "video_url": null
+        },
+        {
+            "title": "Uniform - Đồng phục",
+            "text": "Một bộ quần áo được thiết kế để mặc trong một cơ quan, trường học, hoặc tổ chức.",
+            "example": [
+                {
+                    "original": "She wore a uniform to school.",
+                    "explanation": "Cô ấy mặc đồng phục đến trường."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-uniform.png",
+            "video_url": null
+        },
+        {
+            "title": "Coat - Áo khoác",
+            "text": "Một chiếc áo dài, thường được mặc ngoài trang phục khác để giữ ấm.",
+            "example": [
+                {
+                    "original": "She wore a coat to keep warm.",
+                    "explanation": "Cô ấy mặc áo khoác để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-coat.png",
+            "video_url": null
+        },
+        {
+            "title": "Dress pants - Quần âu",
+            "text": "Quần dài được mặc với áo sơ mi hoặc áo vest.",
+            "example": [
+                {
+                    "original": "She wore dress pants to the interview.",
+                    "explanation": "Cô ấy mặc quần âu đến buổi phỏng vấn."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-dress-pants.png",
+            "video_url": null
+        },
+        {
+            "title": "Long-sleeve top - Áo dài tay",
+            "text": "Một chiếc áo có tay dài.",
+            "example": [
+                {
+                    "original": "She wore a long-sleeve top to keep warm.",
+                    "explanation": "Cô ấy mặc áo dài tay để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-long-sleeve-top.png",
+            "video_url": null
+        },
+        {
+            "title": "Skirt - Váy",
+            "text": "Trang phục mặc ở phần dưới cơ thể, che hông và dài xuống chân nhưng không chia thành từng phần riêng biệt cho mỗi chân.",
+            "example": [
+                {
+                    "original": "She wore a skirt to the party.",
+                    "explanation": "Cô ấy mặc váy đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-skirt.png",
+            "video_url": null
+        },
+        {
+            "title": "Hat - Mũ",
+            "text": "Một chiếc mũ đội trên đầu.",
+            "example": [
+                {
+                    "original": "She wore a hat to protect her head from the sun.",
+                    "explanation": "Cô ấy đội mũ để bảo vệ đầu khỏi ánh nắng mặt trời."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-hat.png",
+            "video_url": null
+        },
+        {
+            "title": "Necklace - Dây chuyền",
+            "text": "Một chuỗi đeo quanh cổ.",
+            "example": [
+                {
+                    "original": "She wore a necklace to the party.",
+                    "explanation": "Cô ấy đeo dây chuyền đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-necklace.png",
+            "video_url": null
+        },
+        {
+            "title": "Ring - Nhẫn",
+            "text": "Một chiếc vòng tròn mặc ở ngón tay.",
+            "example": [
+                {
+                    "original": "She wore a ring on her finger.",
+                    "explanation": "Cô ấy đeo nhẫn ở ngón tay."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-ring.png",
+            "video_url": null
+        },
+        {
+            "title": "Earrings - Bông tai",
+            "text": "Một chiếc vòng tròn mặc ở lỗ tai.",
+            "example": [
+                {
+                    "original": "She wore earrings to the party.",
+                    "explanation": "Cô ấy đeo bông tai đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-earrings.png",
+            "video_url": null
+        },
+        {
+            "title": "Perfume - Nước hoa",
+            "text": "Một loại hương thơm dùng để xịt lên cơ thể.",
+            "example": [
+                {
+                    "original": "She wore perfume to smell good.",
+                    "explanation": "Cô ấy xịt nước hoa để có mùi thơm."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-perfume.png",
+            "video_url": null
+        },
+        {
+            "title": "Sunglasses - Kính râm",
+            "text": "Một loại kính đeo trên mắt để bảo vệ khỏi ánh sáng mặt trời.",
+            "example": [
+                {
+                    "original": "She wore sunglasses to protect her eyes from the sun.",
+                    "explanation": "Cô ấy đeo kính râm để bảo vệ mắt khỏi ánh nắng mặt trời."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-sunglasses.png",
+            "video_url": null
+        },
+        {
+            "title": "Handbag - Túi xách",
+            "text": "Túi xách",
+            "example": [
+                {
+                    "original": "She wore a handbag to carry her stuff.",
+                    "explanation": "Cô ấy đeo túi xách để mang đồ của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-handbag.png",
+            "video_url": null
+        },
+        {
+            "title": "Purse - Ví",
+            "text": "Một chiếc túi nhỏ để đựng tiền và thẻ.",
+            "example": [
+                {
+                    "original": "She wore a purse to carry her money.",
+                    "explanation": "Cô ấy đeo ví để mang tiền của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-purse.png",
+            "video_url": null
+        },
+        {
+            "title": "High-heeled shoes - Giày cao gót",
+            "text": "Giày có đế cao.",
+            "example": [
+                {
+                    "original": "She wore high-heeled shoes to the party.",
+                    "explanation": "Cô ấy mặc giày cao gót đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-high-heeled-shoes.png",
+            "video_url": null
+        },
+        {
+            "title": "Flip-flops - Dép lê",
+            "text": "Giày không có quai đeo ở gót chân.",
+            "example": [
+                {
+                    "original": "She wore flip-flops to the beach.",
+                    "explanation": "Cô ấy mặc dép lê đến bãi biển."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-flip-flops.png",
+            "video_url": null
+        },
+        {
+            "title": "Jacket - Áo khoác",
+            "text": "Một chiếc áo dài, thường được mặc ngoài trang phục khác để giữ ấm.",
+            "example": [
+                {
+                    "original": "She wore a jacket to keep warm.",
+                    "explanation": "Cô ấy mặc áo khoác để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/woman-jacket.png",
+            "video_url": null
+        }
+    ]
+}

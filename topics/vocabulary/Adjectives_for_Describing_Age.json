@@ -1,0 +1,54 @@
+{
+    "title": "Adjectives for Describing Age - Tính từ miêu tả tuổi tác",
+    "description": "Tính từ miêu tả tuổi tác là những từ được sử dụng để miêu tả tuổi tác của một người hoặc một đồ vật. Trong tiếng Anh, có rất nhiều từ để miêu tả tuổi tác, từ những từ chỉ tuổi tác cụ thể như “young” và “old” đến những từ chỉ tuổi tác một cách chung chung như “mature” và “youthful”. Dưới đây là một số từ vựng tiếng Anh thường được sử dụng để miêu tả tuổi tác.",
+    "content": [
+        {
+            "title": "Young - Trẻ",
+            "text": null,
+            "example": [
+                {
+                    "original": "She was young and full of energy.",
+                    "explanation": "Cô ấy rất trẻ và đầy năng lượng."
+                },
+                {
+                    "original": "He is young and ambitious.",
+                    "explanation": "Anh ta trẻ và tham vọng."
+                }
+            ],
+            "image_url": "images/objects/age/young.png",
+            "video_url": null
+        },
+        {
+            "title": "Middle-aged - Trung niên",
+            "text": null,
+            "example": [
+                {
+                    "original": "He was middle-aged and had a few wrinkles.",
+                    "explanation": "Anh ấy rất trung niên và có một vài nếp nhăn."
+                },
+                {
+                    "original": "She is middle-aged and successful.",
+                    "explanation": "Cô ấy trung niên và thành công."
+                }
+            ],
+            "image_url": "images/objects/age/middle-age.png",
+            "video_url": null
+        },
+        {
+            "title": "Old - Già",
+            "text": null,
+            "example": [
+                {
+                    "original": "He was old and had a few gray hairs.",
+                    "explanation": "Ông ấy rất già và có một vài sợi tóc bạc."
+                },
+                {
+                    "original": "She is old but still active.",
+                    "explanation": "Cô ấy già nhưng vẫn năng động."
+                }
+            ],
+            "image_url": "images/objects/age/old.png",
+            "video_url": null
+        }
+    ]
+}

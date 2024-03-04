@@ -1,0 +1,77 @@
+{
+    "title": "Vị trí của các động từ trong tiếng Anh",
+    "description": "Sau động từ là gì? Trước động từ là gì? Hiểu được vị trí của các động từ tiếng Anh, bạn sẽ biết cách dùng sao cho thích hợp. Khác với danh từ, động từ trong tiếng Anh chỉ được dùng ở một số vị trí nhất định.",
+    "conten": [
+        {
+            "title": "Động từ đứng sau chủ ngữ",
+            "text": "Nếu động từ đứng ngay sau chủ ngữ trong tiếng Anh nó sẽ làm nhiệm vụ diễn tả một hành động/ trạng thái nào đó.",
+            "example": [
+                {
+                    "original": "She is reading book",
+                    "explanation": "Cô ấy đang đọc sách."
+                },
+                {
+                    "original": "They are playing football",
+                    "explanation": "Họ đang chơi bóng đá."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Động từ đứng sau trạng từ chỉ tần suất",
+            "text": "Trong tiếng Anh, động từ thường đứng sau trạng từ chỉ tần suất như: always, usually, often, sometimes, rarely, seldom, never, etc... để chỉ thói quen nào đó",
+            "example": [
+                {
+                    "original": "I always go to school by bus",
+                    "explanation": "Tôi luôn đi học bằng xe buýt."
+                },
+                {
+                    "original": "She usually goes to the market on Sunday",
+                    "explanation": "Cô ấy thường đi chợ vào Chủ Nhật."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Sau động từ là tân ngữ",
+            "text": "Có những trường hợp nhất định các động từ tiếng Anh sẽ đứng trước tân ngữ.",
+            "example": [
+                {
+                    "original": "Open your book, kid!",
+                    "explanation": "Các con mở sách ra nào!"
+                },
+                {
+                    "original": "Close the window it is raining heavily!",
+                    "explanation": "Đóng cửa sổ lại, trời đang mưa to đấy!"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Sau động từ là tính từ",
+            "text": "Trong tiếng Anh, chúng ta không còn xa lạ với động từ đứng trước tính từ. Đó chính là động từ tobe.",
+            "example": [
+                {
+                    "original": "She is very tall.",
+                    "explanation": "Cô ấy rất cao."
+                },
+                {
+                    "original": "Huy is short and fat.",
+                    "explanation": "Huy thấp và béo."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": null,
+            "example": null,
+            "image_url": "images/objects/verb/vi-tri.png",
+            "video_url": null
+        }
+    ]
+}

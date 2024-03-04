@@ -1,0 +1,318 @@
+{
+    "title": "Common Action - Hành Động Thông Dụng",
+    "description": "Các hành động thông dụng trong tiếng Anh",
+    "content": [
+        {
+            "title": "Ride - Lái",
+            "text": "“Ride” là động từ có nghĩa là di chuyển trên hoặc trên một phương tiện hoặc động vật.",
+            "example": [
+                {
+                    "original": "I ride my bike to work every day.",
+                    "explanation": "Tôi đạp xe đi làm hàng ngày."
+                }
+            ],
+            "image_url": "images/objects/common_action/ride.png",
+            "video_url": null
+        },
+        {
+            "title": "Run - Chạy",
+            "text": "“Run” là động từ có nghĩa là di chuyển nhanh bằng cách đặt một chân trước chân kia.",
+            "example": [
+                {
+                    "original": "I run every morning.",
+                    "explanation": "Tôi chạy mỗi sáng."
+                }
+            ],
+            "image_url": "images/objects/common_action/run.png",
+            "video_url": null
+        },
+        {
+            "title": "Sit down - Ngồi xuống",
+            "text": "“Sit down” là một cụm động từ có nghĩa là ngồi xuống hoặc hạ mình vào tư thế ngồi.",
+            "example": [
+                {
+                    "original": "Please sit down.",
+                    "explanation": "Xin hãy ngồi xuống."
+                }
+            ],
+            "image_url": "images/objects/common_action/sit-down.png",
+            "video_url": null
+        },
+        {
+            "title": "Stand up",
+            "text": "“Stand up” là một cụm động từ có nghĩa là đứng lên từ tư thế ngồi hoặc nằm và đảm nhận tư thế đứng.",
+            "example": [
+                {
+                    "original": "Please stand up.",
+                    "explanation": "Xin hãy đứng lên."
+                }
+            ],
+            "image_url": "images/objects/common_action/stand-up.png",
+            "video_url": null
+        },
+        {
+            "title": "Fight",
+            "text": "“Fight” là động từ có nghĩa là tham gia vào một cuộc chiến đấu hoặc tranh cãi.",
+            "example": [
+                {
+                    "original": "The two boxers will fight for the championship title next month.",
+                    "explanation": "Hai võ sĩ sẽ tranh đấu cho chức vô địch vào tháng tới."
+                }
+            ],
+            "image_url": "images/objects/common_action/fight.png",
+            "video_url": null
+        },
+        {
+            "title": "Laugh - Cười",
+            "text": "“Laugh” là động từ có nghĩa là phát ra tiếng cười.",
+            "example": [
+                {
+                    "original": "The children laughed at the clown.",
+                    "explanation": "Các em nhỏ cười trước chú hề."
+                }
+            ],
+            "image_url": "images/objects/common_action/laugh.png",
+            "video_url": null
+        },
+        {
+            "title": "Read - Đọc",
+            "text": "“Read” là động từ có nghĩa là nhìn và hiểu ý nghĩa của văn bản hoặc văn bản in bằng cách giải thích các ký tự hoặc ký hiệu.",
+            "example": [
+                {
+                    "original": "I read a book every night.",
+                    "explanation": "Tôi đọc sách mỗi tối."
+                }
+            ],
+            "image_url": "images/objects/common_action/read.png",
+            "video_url": null
+        },
+        {
+            "title": "Write - Viết",
+            "text": "“Write” là động từ có nghĩa là tạo ra văn bản bằng cách sử dụng bút hoặc bút máy.",
+            "example": [
+                {
+                    "original": "I write a letter to my friend.",
+                    "explanation": "Tôi viết thư cho bạn tôi."
+                }
+            ],
+            "image_url": "images/objects/common_action/write.png",
+            "video_url": null
+        },
+        {
+            "title": "Play - Chơi",
+            "text": "“Play” là động từ có nghĩa là tham gia vào một hoạt động giải trí hoặc thể thao.",
+            "example": [
+                {
+                    "original": "I play football every Sunday.",
+                    "explanation": "Tôi chơi bóng đá mỗi Chủ Nhật."
+                }
+            ],
+            "image_url": "images/objects/common_action/play.png",
+            "video_url": null
+        },
+        {
+            "title": "Listen - Nghe",
+            "text": "“Listen” là một động từ có nghĩa là tập trung sự chú ý của một người vào âm thanh hoặc lời nói.",
+            "example": [
+                {
+                    "original": "I listen to music every day.",
+                    "explanation": "Tôi nghe nhạc mỗi ngày."
+                }
+            ],
+            "image_url": "images/objects/common_action/listen.png",
+            "video_url": null
+        },
+        {
+            "title": "Cry - Khóc",
+            "text": "“Cry” là động từ có nghĩa là phát ra tiếng khóc.",
+            "example": [
+                {
+                    "original": "The baby cried all night.",
+                    "explanation": "Em bé khóc cả đêm."
+                }
+            ],
+            "image_url": "images/objects/common_action/cry.png",
+            "video_url": null
+        },
+        {
+            "title": "Think - Suy nghĩ",
+            "text": "“Think” là động từ có nghĩa là sử dụng trí óc để tạo ra ý tưởng hoặc suy nghĩ về một vấn đề.",
+            "example": [
+                {
+                    "original": "I think about my family every day.",
+                    "explanation": "Tôi suy nghĩ về gia đình mỗi ngày."
+                }
+            ],
+            "image_url": "images/objects/common_action/think.png",
+            "video_url": null
+        },
+        {
+            "title": "Sing - Hát",
+            "text": "“Sing” là động từ có nghĩa là tạo ra âm thanh bằng giọng nói.",
+            "example": [
+                {
+                    "original": "I sing in the shower.",
+                    "explanation": "Tôi hát trong phòng tắm."
+                }
+            ],
+            "image_url": "images/objects/common_action/sing.png",
+            "video_url": null
+        },
+        {
+            "title": "Watch TV - Xem TV",
+            "text": "“Watch TV” là một cụm động từ có nghĩa là xem chương trình truyền hình.",
+            "example": [
+                {
+                    "original": "I watch TV every night.",
+                    "explanation": "Tôi xem TV mỗi tối."
+                }
+            ],
+            "image_url": "images/objects/common_action/watch.png",
+            "video_url": null
+        },
+        {
+            "title": "Dance - Nhảy múa",
+            "text": "“Dance” là động từ có nghĩa là di chuyển theo nhạc.",
+            "examples": [
+                {
+                    "original": "I dance at parties.",
+                    "explanation": "Tôi nhảy múa tại các bữa tiệc."
+                }
+            ],
+            "image_url": "images/objects/common_action/dance.png",
+            "video_url": null
+        },
+        {
+            "title": "Turn on - Bật",
+            "text": "“Turn on” là một cụm động từ có nghĩa là bắt đầu hoạt động của một thiết bị điện hoặc điện tử.",
+            "examples": [
+                {
+                    "original": "I turn on the light when it gets dark.",
+                    "explanation": "Tôi bật đèn khi trời tối."
+                }
+            ],
+            "image_url": "images/objects/common_action/turn-on.png",
+            "video_url": null
+        },
+        {
+            "title": "Turn off - Tắt",
+            "text": "“Turn off” là một cụm động từ có nghĩa là dừng hoạt động của một thiết bị điện hoặc điện tử.",
+            "examples": [
+                {
+                    "original": "I turn off the TV when I go to bed.",
+                    "explanation": "Tôi tắt TV khi đi ngủ."
+                }
+            ],
+            "image_url": "images/objects/common_action/turn-off.png",
+            "video_url": null
+        },
+        {
+            "title": "Cut - Cắt",
+            "text": "“Cut” là động từ có nghĩa là chia nhỏ hoặc tách một vật thể.",
+            "examples": [
+                {
+                    "original": "I cut the cake into pieces.",
+                    "explanation": "Tôi cắt bánh thành từng miếng."
+                }
+            ],
+            "image_url": "images/objects/common_action/cut.png",
+            "video_url": null
+        },
+        {
+            "title": "Turn on - Bật",
+            "text": "“Turn on” là một cụm động từ có nghĩa là bắt đầu hoạt động của một thiết bị điện hoặc điện tử.",
+            "examples": [
+                {
+                    "original": "I turn on the light when it gets dark.",
+                    "explanation": "Tôi bật đèn khi trời tối."
+                }
+            ],
+            "image_url": "images/objects/common_action/turn-on.png",
+            "video_url": null
+        },
+        {
+            "title": "Turn off - Tắt",
+            "text": "“Turn off” là một cụm động từ có nghĩa là dừng hoạt động của một thiết bị điện hoặc điện tử.",
+            "examples": [
+                {
+                    "original": "I turn off the TV when I go to bed.",
+                    "explanation": "Tôi tắt TV khi đi ngủ."
+                }
+            ],
+            "image_url": "images/objects/common_action/turn-off.png",
+            "video_url": null
+        },
+        {
+            "title": "Cut - Cắt",
+            "text": "“Cut” là động từ có nghĩa là chia nhỏ hoặc tách một vật thể.",
+            "examples": [
+                {
+                    "original": "I cut the cake into pieces.",
+                    "explanation": "Tôi cắt bánh thành từng miếng."
+                }
+            ],
+            "image_url": "images/objects/common_action/cut.png",
+            "video_url": null
+        },
+        {
+            "title": "Throw away - Vứt bỏ",
+            "text": "“Throw away” là một cụm động từ có nghĩa là bỏ đi một vật thể không cần thiết.",
+            "examples": [
+                {
+                    "original": "I throw away the trash every day.",
+                    "explanation": "Tôi vứt rác mỗi ngày."
+                }
+            ],
+            "image_url": "images/objects/common_action/throw-away.png",
+            "video_url": null
+        },
+        {
+            "title": "Sleep - Ngủ",
+            "text": "“Sleep” là động từ có nghĩa là nghỉ ngơi trong thời gian dài.",
+            "examples": [
+                {
+                    "original": "I sleep at night.",
+                    "explanation": "Tôi ngủ vào ban đêm."
+                }
+            ],
+            "image_url": "images/objects/common_action/sleep.png",
+            "video_url": null
+        },
+        {
+            "title": "Cut - Cắt",
+            "text": "“Cut” là động từ có nghĩa là chia nhỏ hoặc tách một vật thể.",
+            "examples": [
+                {
+                    "original": "I cut the cake into pieces.",
+                    "explanation": "Tôi cắt bánh thành từng miếng."
+                }
+            ],
+            "image_url": "images/objects/common_action/cut.png",
+            "video_url": null
+        },
+        {
+            "title": "Throw away - Vứt bỏ",
+            "text": "“Throw away” là một cụm động từ có nghĩa là bỏ đi một vật thể không cần thiết.",
+            "examples": [
+                {
+                    "original": "I throw away the trash every day.",
+                    "explanation": "Tôi vứt rác mỗi ngày."
+                }
+            ],
+            "image_url": "images/objects/common_action/throw-away.png",
+            "video_url": null
+        },
+        {
+            "title": "Sleep - Ngủ",
+            "text": "“Sleep” là động từ có nghĩa là nghỉ ngơi trong thời gian dài.",
+            "examples": [
+                {
+                    "original": "I sleep at night.",
+                    "explanation": "Tôi ngủ vào ban đêm."
+                }
+            ],
+            "image_url": "images/objects/common_action/sleep.png",
+            "video_url": null
+        }
+    ]
+}

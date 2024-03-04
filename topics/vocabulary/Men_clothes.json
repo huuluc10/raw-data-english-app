@@ -1,0 +1,282 @@
+{
+    "title": "Men's Clothes List - Một số loại quần áo nam",
+    "description": "Danh sách các loại quần áo nam bằng tiếng Anh và hình ảnh minh họa. Các bạn có thể học từ vựng tiếng Anh về quần áo nam qua hình ảnh.",
+    "content": [
+        {
+            "title": "Sweater - Áo len",
+            "text": "Một chiếc áo dài tay, thường được làm từ len.",
+            "example": [
+                {
+                    "original": "He wore a sweater to keep warm.",
+                    "explanation": "Anh ấy mặc áo len để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-sweater.png",
+            "video_url": null
+        },
+        {
+            "title": "Shirt - Áo sơ mi",
+            "text": "Một chiếc áo dài tay, thường được mặc với quần dài.",
+            "example": [
+                {
+                    "original": "He wore a shirt to the party.",
+                    "explanation": "Anh ấy mặc áo sơ mi đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-shirt.png",
+            "video_url": null
+        },
+        {
+            "title": "Jeans - Quần bò",
+            "text": "Quần dài, thường được làm từ vải bò.",
+            "example": [
+                {
+                    "original": "He wore jeans to the party.",
+                    "explanation": "Anh ấy mặc quần bò đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-jeans.png",
+            "video_url": null
+        },
+        {
+            "title": "Gloves - Găng tay",
+            "text": "Lớp phủ cho bàn tay, thường được làm bằng vải hoặc da và có các phần riêng biệt cho mỗi ngón tay và ngón cái.",
+            "example": [
+                {
+                    "original": "He wore gloves to protect his hands.",
+                    "explanation": "Anh ấy đeo găng tay để bảo vệ tay của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-gloves.png",
+            "video_url": null
+        },
+        {
+            "title": "Cap - Mũ lưỡi trai",
+            "text": "Một chiếc mũ có lưỡi trai.",
+            "example": [
+                {
+                    "original": "He wore a cap to protect his head from the sun.",
+                    "explanation": "Anh ấy đội mũ lưỡi trai để bảo vệ đầu khỏi ánh nắng mặt trời."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-cap.png",
+            "video_url": null
+        },
+        {
+            "title": "Suit - Bộ vest",
+            "text": "Một bộ quần áo gồm áo vest và quần âu.",
+            "example": [
+                {
+                    "original": "He wore a suit to the party.",
+                    "explanation": "Anh ấy mặc bộ vest đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-suit.png",
+            "video_url": null
+        },
+        {
+            "title": "Singlet - Áo ba lỗ",
+            "text": "Một chiếc áo không tay.",
+            "example": [
+                {
+                    "original": "He wore a singlet to the beach.",
+                    "explanation": "Anh ấy mặc áo ba lỗ đến bãi biển."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-singlet.png",
+            "video_url": null
+        },
+        {
+            "title": "Business shoes - Giày công sở",
+            "text": "Giày công sở, thường được mặc với bộ vest.",
+            "example": [
+                {
+                    "original": "He wore business shoes to the party.",
+                    "explanation": "Anh ấy mặc giày công sở đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-business-shoes.png",
+            "video_url": null
+        },
+        {
+            "title": "Flip flops - Dép lê",
+            "text": "Giày không có quai đeo ở gót chân.",
+            "example": [
+                {
+                    "original": "He wore flip flops to the beach.",
+                    "explanation": "Anh ấy mặc dép lê đến bãi biển."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-flip-flops.png",
+            "video_url": null
+        },
+        {
+            "title": "Shorts - Quần soóc",
+            "text": "Quần ngắn, thường được mặc vào mùa hè.",
+            "example": [
+                {
+                    "original": "He wore shorts to the beach.",
+                    "explanation": "Anh ấy mặc quần soóc đến bãi biển."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-shorts.png",
+            "video_url": null
+        },
+        {
+            "title": "Cardigan - Áo len dệt kim có nút phía trước",
+            "text": "Một chiếc áo len dệt kim có nút phía trước.",
+            "example": [
+                {
+                    "original": "He wore a cardigan to keep warm.",
+                    "explanation": "Anh ấy mặc áo len dệt kim có nút phía trước để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-cardigan.png",
+            "video_url": null
+        },
+        {
+            "title": "Jacket - Áo khoác",
+            "text": "Một chiếc áo khoác ngắn, thường được mặc ngoài trời.",
+            "example": [
+                {
+                    "original": "He wore a jacket to keep warm.",
+                    "explanation": "Anh ấy mặc áo khoác để giữ ấm."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-jacket.png",
+            "video_url": null
+        },
+        {
+            "title": "Sport shoes - Giày thể thao",
+            "text": "Giày thể thao.",
+            "example": [
+                {
+                    "original": "He wore sport shoes to play football.",
+                    "explanation": "Anh ấy mặc giày thể thao để chơi bóng đá."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-sport-shoes.png",
+            "video_url": null
+        },
+        {
+            "title": "Vest - Áo ghi lê",
+            "text": "Một chiếc áo không tay, thường được mặc ngoài áo sơ mi.",
+            "example": [
+                {
+                    "original": "He wore a vest to the party.",
+                    "explanation": "Anh ấy mặc áo ghi lê đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-vest.png",
+            "video_url": null
+        },
+        {
+            "title": "Polo shirt - Áo thun cổ bẻ",
+            "text": "Một chiếc áo thun có cổ bẻ.",
+            "example": [
+                {
+                    "original": "He wore a polo shirt to the party.",
+                    "explanation": "Anh ấy mặc áo thun cổ bẻ đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-polo-shirt.png",
+            "video_url": null
+        },
+        {
+            "text": "Sport shoes - Giày thể thao",
+            "title": "Giày thể thao",
+            "example": [
+                {
+                    "original": "He wore sport shoes to play football.",
+                    "explanation": "Anh ấy mặc giày thể thao để chơi bóng đá."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-sport-shoes.png",
+            "video_url": null
+        },
+        {
+            "title": "Vest - Áo ghi lê",
+            "text": "Một chiếc áo không tay, thường được mặc ngoài áo sơ mi.",
+            "example": [
+                {
+                    "original": "He wore a vest to the party.",
+                    "explanation": "Anh ấy mặc áo ghi lê đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-vest.png",
+            "video_url": null
+        },
+        {
+            "title": "Polo shirt - Áo thun cổ bẻ",
+            "text": "Một chiếc áo thun có cổ bẻ.",
+            "example": [
+                {
+                    "original": "He wore a polo shirt to the party.",
+                    "explanation": "Anh ấy mặc áo thun cổ bẻ đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-polo-shirt.png",
+            "video_url": null
+        },
+        {
+            "title": "T-shirt - Áo thun",
+            "text": "Một chiếc áo thun không cổ.",
+            "example": [
+                {
+                    "original": "He wore a T-shirt to the party.",
+                    "explanation": "Anh ấy mặc áo thun đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-t-shirt.png",
+            "video_url": null
+        },
+        {
+            "title": "Belt",
+            "text": "Dây lưng, thường được mặc với quần âu.",
+            "example": [
+                {
+                    "original": "He wore a belt to hold up his pants.",
+                    "explanation": "Anh ấy mang dây lưng để giữ quần của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-belt.png",
+            "video_url": null
+        },
+        {
+            "title": "Tie - Cà vạt",
+            "text": "Một chiếc cà vạt, thường được mặc với áo sơ mi và áo vest.",
+            "example": [
+                {
+                    "original": "He wore a tie to the party.",
+                    "explanation": "Anh ấy mặc cà vạt đến buổi tiệc."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-tie.png",
+            "video_url": null
+        },
+        {
+            "title": "Wallet - Ví",
+            "text": "Một chiếc ví để đựng tiền và giấy tờ.",
+            "example": [
+                {
+                    "original": "He put his wallet in his pocket.",
+                    "explanation": "Anh ấy đặt ví của mình vào túi quần."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-wallet.png",
+            "video_url": null
+        },
+        {
+            "title": "Handbag - Túi xách",
+            "text": "Một chiếc túi để đựng đồ cá nhân.",
+            "example": [
+                {
+                    "original": "He carried his phone and keys in his handbag.",
+                    "explanation": "Anh ấy mang điện thoại và chìa khóa trong túi xách của mình."
+                }
+            ],
+            "image_url": "images/objects/clothes/men-handbag.png",
+            "video_url": null
+        }
+    ]
+}
