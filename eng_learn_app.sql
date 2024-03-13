@@ -99,6 +99,7 @@ create table if not exists user_lesson
 (
     username varchar(30) not null,
     lesson_id int not null,
+    date_learned datetime default current_timestamp,
     primary key(username, lesson_id),
     foreign key(username) references user(username),
     foreign key(lesson_id) references lesson(lesson_id)
@@ -141,21 +142,81 @@ create table if not exists user_question
     username varchar(30) not null,
     question_id int not null,
     is_correct tinyint not null,
+    date_done datetime default current_timestamp,
     primary key(username, question_id),
     foreign key(username) references user(username),
     foreign key(question_id) references question(question_id)
 );
 
+create table if not exists jwt_token_blacklist
+(
+    token varchar(255) primary key,
+    expire_at datetime not null
+);
+
+create table if not exists code_verification
+(
+    email varchar(30) not null ,
+    code varchar(6) not null,
+    expired_at datetime not null,
+    primary key(email, code)
+);
+
+DELIMITER $$
+CREATE TRIGGER IF NOT EXISTS delete_expired_code
+AFTER INSERT ON code_verification
+FOR EACH ROW
+BEGIN
+    DELETE FROM code_verification
+    WHERE expire_at < NOW() - INTERVAL 5 MINUTE ;
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE EVENT IF NOT EXISTS delete_expired_code
+ON SCHEDULE EVERY 30 MINUTE
+DO
+BEGIN
+  DELETE FROM jwt_token_blacklist
+  WHERE expire_at <= NOW();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE EVENT IF NOT EXISTS delete_expired_tokens
+ON SCHEDULE EVERY 30 MINUTE
+DO
+BEGIN
+  DELETE FROM jwt_token_blacklist
+  WHERE expire_at <= NOW();
+END$$
+DELIMITER ;
+
+DELIMITER $$
+CREATE PROCEDURE IF NOT EXISTS getExamResult(IN username VARCHAR(50), IN exam_id INT)
+BEGIN
+    IF EXISTS(select * from user_question us join question q on us.question_id = q.question_id where us.username = username and q.exam_id = exam_id) THEN
+        select (select count(us.question_id) from user_question us
+        join question q on us.question_id = q.question_id
+        where us.username = username and q.exam_id = exam_id and us.is_correct = 1) * 100 / (select count(us.question_id) from user_question us
+        join question q on us.question_id = q.question_id
+        where us.username = username and q.exam_id = exam_id) as result;
+    ELSE
+        select 0 as result;
+    END IF;
+END$$
+DELIMITER;
+
 insert into media_type(media_type_name) values ('Image'), ('Audio'), ('Video'), ('Json');
 
 insert into role(name) values ('Admin'), ('User');
 
-insert into level(level_name, experience_threshold) values ('Beginner', 0), ('Elementary', 300), ('Intermediate', 800),
-                                                           ('Upper Intermediate', 2000), ('Advanced', 4500);
+insert into level(level_name, experience_threshold) values ('Người bắt đầu', 0), ('Tiểu học', 300), ('Trung cấp', 800),
+                                                           ('Trên trung cấp', 2000), ('Trình độ cao', 4500);
 
 insert into mission_daily(mission_name, mission_content, mission_experience) values
-                                                                                 ('Daily Learning', 'Learn a lesson', 20),
-                                                                                 ('Daily Practice', 'Practice a lesson', 30);
+                                                                                 ('Daily Learning', 'Học một bài học', 20),
+                                                                                     ('Daily Practice', 'Luyện tập bằng cách làm ít nhất 5 câu hỏi', 30);
 
 insert into topic(topic_name) values ('Word - Từ vựng'), ('Greeting - Lời Chào'),('Verb - Động từ'), ('Phonetics - Ngữ âm'), ('Tenses - Thì'),
                                      ('Tag question - Câu hỏi đuôi'), ('Prepositions - Giới từ'),
@@ -192,8 +253,8 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (22, 'Position_Of_Verb.json', 4, 'topics/verb/Position_Of_Verb.json');
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
-value ('admin', 'admin', null, now(), 'admin', 1, 1, 0, 0),
-        ('huuluc10', 'huuluc10', 'lucnguyenhuu91@gmail.com', '2002-06-10', 'Nguyễn Hữu Lực', 2, 2, 0, 0);
+value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
+        ('huuluc10', '$2a$10$kM9U4SjW1bkX9AwC42P2NewpNdeXO.p3ydeHaf4CmUk1OqNfYE8Y6', 'lucnguyenhuu91@gmail.com', '2002-06-10', 'Nguyễn Hữu Lực', 2, 2, 0, 0);
 
 #     insert data into lesson table
 insert into lesson(lesson_name, topic_id, content, lesson_experience, level_id)
