@@ -3,7 +3,7 @@
     "description": "Phụ kiện là những món đồ được thêm vào trang phục để hoàn thiện vẻ ngoài. Chúng có thể có chức năng hoặc trang trí.",
     "content": [
         {
-            "tile": "Sunglasses - Kính râm",
+            "title": "Sunglasses - Kính râm",
             "text": "Một cặp kính có tròng kính tối màu giúp bảo vệ mắt khỏi ánh nắng chói chang.",
             "example": [
                 {
@@ -75,7 +75,7 @@
             "video_url": null
         },
         {
-            "tile": "Purse - Cái ví",
+            "title": "Purse - Cái ví",
             "text": "Một loại túi nhỏ để đựng tiền, thẻ và các vật dụng cá nhân khác.",
             "example": [
                 {
@@ -87,7 +87,7 @@
             "video_url": null
         },
         {
-            "tile": "Ring - Nhẫn",
+            "title": "Ring - Nhẫn",
             "text": "Một món đồ trang sức đeo ở ngón tay.",
             "example": [
                 {
@@ -99,7 +99,7 @@
             "video_url": null
         },
         {
-            "tile": "Gloves - Găng tay",
+            "title": "Gloves - Găng tay",
             "text": "Một loại găng tay đeo ở tay.",
             "example": [
                 {
@@ -111,7 +111,7 @@
             "video_url": null
         },
         {
-            "tile": "Scarf - Khăn quàng cổ",
+            "title": "Scarf - Khăn quàng cổ",
             "text": "Một loại khăn dài đeo ở cổ.",
             "example": [
                 {
@@ -123,7 +123,7 @@
             "video_url": null
         },
         {
-            "tile": "Umbrella - Cái ô",
+            "title": "Umbrella - Cái ô",
             "text": "Một loại ô dùng để bảo vệ khỏi mưa hoặc nắng.",
             "example": [
                 {
@@ -135,7 +135,7 @@
             "video_url": null
         },
         {
-            "tile": "Boots - Ủng",
+            "title": "Boots - Ủng",
             "text": "Một loại giày cao cổ.",
             "example": [
                 {

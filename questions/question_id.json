@@ -1,5 +1,5 @@
 {
-    "answer": [
+    "answers": [
         {
             "text": "Cảm ơn"
         },
@@ -13,5 +13,6 @@
             "text": "Xin lỗi"
         }
     ],
-    "correct_answer": "Cảm ơn"
+    "correct_answer": "Cảm ơn",
+    "explanation": null
 }

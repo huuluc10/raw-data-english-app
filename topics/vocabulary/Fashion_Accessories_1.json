@@ -3,7 +3,7 @@
     "description": "Hãy xemm video để biết cách phát âm của những từ vựng về phụ kiện nhé!",
     "content": [
         {
-            "tile": "Video",
+            "title": "Video",
             "text": null,
             "example": null,
             "image_url": null,

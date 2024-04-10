@@ -151,7 +151,7 @@ create table if not exists user_question
 create table if not exists jwt_token_blacklist
 (
     token varchar(255) primary key,
-    expire_at datetime not null
+    expired_at datetime not null
 );
 
 create table if not exists code_verification
@@ -163,14 +163,23 @@ create table if not exists code_verification
 );
 
 DELIMITER $$
-CREATE TRIGGER IF NOT EXISTS delete_expired_code
-AFTER INSERT ON code_verification
-FOR EACH ROW
+CREATE PROCEDURE if not exists sp_manage_code_verification
+(
+    IN p_email VARCHAR(30),
+  IN p_code VARCHAR(255),
+  IN p_expired_at DATETIME
+)
 BEGIN
-    DELETE FROM code_verification
-    WHERE expire_at < NOW() - INTERVAL 5 MINUTE ;
+  -- Thêm mã mới
+  INSERT INTO code_verification (email, code, expired_at) VALUES (p_email, p_code, p_expired_at);
+
+  -- Xóa mã đã hết hạn
+  DELETE FROM code_verification
+  WHERE expired_at < NOW() - INTERVAL 5 MINUTE;
 END$$
 DELIMITER ;
+
+call sp_manage_code_verification('lucnguyenhuu91@gmail.com', '123456', now());
 
 DELIMITER $$
 CREATE EVENT IF NOT EXISTS delete_expired_code
@@ -178,17 +187,7 @@ ON SCHEDULE EVERY 30 MINUTE
 DO
 BEGIN
   DELETE FROM jwt_token_blacklist
-  WHERE expire_at <= NOW();
-END$$
-DELIMITER ;
-
-DELIMITER $$
-CREATE EVENT IF NOT EXISTS delete_expired_tokens
-ON SCHEDULE EVERY 30 MINUTE
-DO
-BEGIN
-  DELETE FROM jwt_token_blacklist
-  WHERE expire_at <= NOW();
+  WHERE expired_at <= NOW();
 END$$
 DELIMITER ;
 
@@ -205,14 +204,28 @@ BEGIN
         select 0 as result;
     END IF;
 END$$
-DELIMITER;
+DELIMITER ;
+
+DELIMITER $$
+CREATE PROCEDURE IF NOT EXISTS getSummaryLessonOfTopic(IN username VARCHAR(50), IN topic_id INT)
+BEGIN
+  SELECT COUNT(ul.lesson_id) AS done,
+         (SELECT COUNT(*) FROM lesson l
+          INNER JOIN topic t ON l.topic_id = t.topic_id
+          WHERE t.topic_id = topic_id) AS total
+  FROM user_lesson ul
+  INNER JOIN lesson l ON ul.lesson_id = l.lesson_id
+  INNER JOIN topic t ON l.topic_id = t.topic_id
+  WHERE ul.username = username AND t.topic_id = topic_id;
+END$$
+DELIMITER ;
 
 insert into media_type(media_type_name) values ('Image'), ('Audio'), ('Video'), ('Json');
 
 insert into role(name) values ('Admin'), ('User');
 
-insert into level(level_name, experience_threshold) values ('Người bắt đầu', 0), ('Tiểu học', 300), ('Trung cấp', 800),
-                                                           ('Trên trung cấp', 2000), ('Trình độ cao', 4500);
+insert into level(level_name, experience_threshold) values ('Beginner', 0), ('Elementary', 300), ('Pre-Intermediate', 800),
+                                                           ('Intermediate', 2000), ('Advanced', 4500);
 
 insert into mission_daily(mission_name, mission_content, mission_experience) values
                                                                                  ('Daily Learning', 'Học một bài học', 20),
@@ -277,3 +290,6 @@ value ('Fashion Accessories - Phụ kiện', 1, 4, 10, 1),
     ('Informal Greetings - Lời chào hỏi không trang trọng', 2, 20, 10, 1),
     ('Definition - Định nghĩa', 3, 21, 10, 1),
     ('Position Of Verb - Vị trí của động từ', 3, 22, 10, 1);
+
+insert into question_type(question_type_name) values ('Multiple choice'), ('Fill in the blank'), ('Match up'),
+                                                     ('Sentence transformation'), ('Sentence unscramble'), ('Listening'), ('Speaking');
