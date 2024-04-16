@@ -37,6 +37,7 @@ create table if not exists user
     role_id tinyint not null,
     streak int not null,
     experience int not null,
+    date_created datetime default current_timestamp,
     foreign key(role_id) references role(role_id),
     foreign key(avatar) references media(media_id)
 );
