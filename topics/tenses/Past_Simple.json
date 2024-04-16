@@ -1,0 +1,132 @@
+{
+    "title": "Past Simple Tense - Thì Quá Khứ Đơn ",
+    "description": "Thì quá khứ đơn (Simple Past Tense) được sử dụng để diễn tả các hành động đã xảy ra và kết thúc trong quá khứ. Thì này thường được sử dụng khi ta muốn kể về những sự kiện đã xảy ra trong quá khứ hoặc mô tả trạng thái trong quá khứ.",
+    "content": [
+        {
+            "title": "Công thức thì quá khứ đơn (Past simple) ",
+            "text": null,
+            "image_url": "https://topicanative.edu.vn/wp-content/uploads/2019/11/unnamed.jpg",
+            "example":null,
+            "video_url": null
+        },
+        {
+            "title": "Một vài ví dụ về thì quá khứ đơn",
+            "text": "1. Câu khẳng định:",
+            "example": [
+                {
+                    "original": "My phone was broken yesterday.",
+                    "explanation": "Chiếc điện thoại của tôi đã bị hư ngày hôm qua."
+                },
+                {
+                    "original": "My family went to Sapa last month.",
+                    "explanation": "Gia đình tôi đã đi Sapa vào tháng trước."
+                },
+                {
+                    "original": "We were in DaLat on our summer vacation last week. ",
+                    "explanation": "Chúng tôi đã ở Đà Lạt trong ký nghỉ hè tuần trước. "
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Câu phủ định:",
+            "image_url":null,
+            "example": [
+                {
+                    "original": "Helen wasn’t happy yesterday because she didn't pass the exam.",
+                    "explanation": "Hôm qua cô ấy không vui vì cô ấy không đậu kỳ thi."
+                },
+                {
+                    "original": "I didn’t go to the party last night.",
+                    "explanation": "Tôi đã không đến buổi tiệc tối hôm qua."
+                },
+                {
+                    "original": "I was not you so I didn’t decide.",
+                    "explanation": "Tôi không phải bạn nên tôi không thể quyết định được"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "3.Câu nghi vấn:",
+            "image_url":null,
+            "example": [
+                {
+                    "original": "Did you see that movie in the cinema?",
+                    "explanation": "Bạn đã xem bộ phim đó ở rạp chiếu phim chưa?"
+                },
+                {
+                    "original": "Yes, I did / No, I didn't",
+                    "explanation": "Rồi / Chưa"
+                },
+                {
+                    "original": "Was he a dentist last year?",
+                    "explanation": "Anh ta đã làm nha sĩ vào năm ngoái à?"
+                },
+                {
+                    "original": "Yes, he was / No, he wasn't.",
+                    "explanation": "Đúng / Không"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": "Lưu ý",
+            "text": "Thì quá khứ đơn còn dùng để diễn tả 1 hành động đột ngột xen vào 1 hành động khác đang diễn ra trong quá khứ.",
+            "example": [
+                {
+                    "original": "When we were having dinner, the phone rang.",
+                    "explanation": "Khi chúng tôi đang ăn tối thì chuông reo."
+                },
+                {
+                    "original": "When he came home I was reading a book.",
+                    "explanation": "Khi anh ta về nhà thì tôi đang đọc một quyển sách"
+                },
+                {
+                    "original": "She cried when she was watching a movie.",
+                    "explanation": "Cô ấy đã bật khóc khi đang xem một bộ phim"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Dấu hiệu nhận biết Thì Quá Khứ Đơn",
+            "text": null,
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trong câu có các từ như: yesterday, in the past, the day before, ago, last (week, year, month) hoặc những khoảng thời gian đã qua trong ngày (today, this morning, this afternoon).",
+            "example": [
+                {
+                    "original": "I didn’t go to school yesterday because of the heavy rain.",
+                    "explanation": "Tôi đã không tới trường vào ngày hôm qua vì mưa rất to "
+                },
+                {
+                    "original": "The plane took off an hour ago.",
+                    "explanation": "Cái máy bay đã cất cánh được 1 giờ rồi"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trong một số cấu trúc nhất định: It’s + (high) time + S + Ved, It + is + khoảng thời gian + since + thì quá khứ, câu điều kiện loại 2,...",
+            "example": [
+                {
+                    "original": "It is high time I started to learn English seriously.",
+                    "explanation": "Đã đến lúc tôi phải bắt đầu học tiếng Anh một cách nghiêm túc rồi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

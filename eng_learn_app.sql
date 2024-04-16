@@ -232,7 +232,7 @@ insert into mission_daily(mission_name, mission_content, mission_experience) val
                                                                                  ('Daily Learning', 'Học một bài học', 20),
                                                                                      ('Daily Practice', 'Luyện tập bằng cách làm ít nhất 5 câu hỏi', 30);
 
-insert into topic(topic_name) values ('Word - Từ vựng'), ('Greeting - Lời Chào'),('Verb - Động từ'), ('Phonetics - Ngữ âm'), ('Tenses - Thì'),
+insert into topic(topic_name) values ('Word - Từ vựng'), ('Greeting - Lời Chào'), ('Verb - Động từ'), ('Phonetics - Ngữ âm'), ('Tenses - Thì'),
                                      ('Tag question - Câu hỏi đuôi'), ('Prepositions - Giới từ'),
                                      ('Adjectives - Tính từ'), ('Adverbs - Trạng từ'), ('Nouns - Danh từ'),
                                      ('Pronouns - Đại từ'), ('Articles - Mạo từ'), ('Quantifiers - Từ chỉ số lượng'),
@@ -264,7 +264,9 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (19, 'Formal_Greetings.json', 4, 'topics/greeting/Formal_Greetings.json'),
     (20, 'Informal_Greetings.json', 4, 'topics/greeting/Informal_Greetings.json'),
     (21, 'Definition.json', 4, 'topics/verb/Definition.json'),
-    (22, 'Position_Of_Verb.json', 4, 'topics/verb/Position_Of_Verb.json');
+    (22, 'Position_Of_Verb.json', 4, 'topics/verb/Position_Of_Verb.json'),
+    (23, 'Classify_Verbs_According_to_Meaning.json', 4, 'topics/verb/Classify_Verbs_According_to_Meaning.json'),
+    (24, 'Past_Simple.json', 4, 'topic/');
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
 value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
@@ -290,7 +292,8 @@ value ('Fashion Accessories - Phụ kiện', 1, 4, 10, 1),
     ('Formal Greetings - Lời chào hỏi trang trọng', 2, 19, 10, 1),
     ('Informal Greetings - Lời chào hỏi không trang trọng', 2, 20, 10, 1),
     ('Definition - Định nghĩa', 3, 21, 10, 1),
-    ('Position Of Verb - Vị trí của động từ', 3, 22, 10, 1);
+    ('Position Of Verb - Vị trí của động từ', 3, 22, 10, 1),
+    ('Classify Verbs According to Meaning - Phân loại động từ theo nghĩa', 3, 23, 10, 1);
 
 insert into question_type(question_type_name) values ('Multiple choice'), ('Fill in the blank'), ('Match up'),
                                                      ('Sentence transformation'), ('Sentence unscramble'), ('Listening'), ('Speaking');
