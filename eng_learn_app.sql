@@ -266,7 +266,11 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (21, 'Definition.json', 4, 'topics/verb/Definition.json'),
     (22, 'Position_Of_Verb.json', 4, 'topics/verb/Position_Of_Verb.json'),
     (23, 'Classify_Verbs_According_to_Meaning.json', 4, 'topics/verb/Classify_Verbs_According_to_Meaning.json'),
-    (24, 'Past_Simple.json', 4, 'topic/');
+    (24, 'Present_Simple.json', 4, 'topic/tenses/Present_Simple.json'),
+    (25, 'Present_Continuous.json', 4, 'topic/tenses/Present_Continuous.json'),
+    (26, 'Present_Perfect.json', 4, 'topic/tenses/Present_Perfect.json'),
+    (27, 'Past_Simple.json', 4, 'topic/tenses/Past_Simple.json'),
+    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.jsonn');
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
 value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
@@ -293,7 +297,12 @@ value ('Fashion Accessories - Phụ kiện', 1, 4, 10, 1),
     ('Informal Greetings - Lời chào hỏi không trang trọng', 2, 20, 10, 1),
     ('Definition - Định nghĩa', 3, 21, 10, 1),
     ('Position Of Verb - Vị trí của động từ', 3, 22, 10, 1),
-    ('Classify Verbs According to Meaning - Phân loại động từ theo nghĩa', 3, 23, 10, 1);
+    ('Classify Verbs According to Meaning - Phân loại động từ theo nghĩa', 3, 23, 10, 1),
+    ('Present Simple - Hiện tại đơn', 5, 24, 10, 1),
+    ('Present Continuous - Hiện tại tiếp diễn', 5, 25, 10, 1),
+    ('Present Perfect - Hiện tại hoàn thành', 5, 26, 10, 1),
+    ('Past Simple - Quá khứ đơn', 5, 27, 10, 1),
+    ('Past Continuous - Quá khứ tiếp diễn', 5, 28, 10, 1);
 
 insert into question_type(question_type_name) values ('Multiple choice'), ('Fill in the blank'), ('Match up'),
                                                      ('Sentence transformation'), ('Sentence unscramble'), ('Listening'), ('Speaking');
