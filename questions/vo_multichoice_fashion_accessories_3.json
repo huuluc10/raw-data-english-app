@@ -1,0 +1,25 @@
+{
+    "question": "What accessory is used to keep your feet warm?",
+    "question_image": null,
+    "answers": [
+        {
+            "text": null,
+            "answer_image": "images/objects/accessories/sunglasses.png"
+        },
+        {
+            "text": null,
+            "answer_image": "images/objects/accessories/apron.png"
+        },
+        {
+            "text": null,
+            "answer_image": "images/objects/accessories/socks.png"
+        },
+        {
+            "text": null,
+            "answer_image": "images/objects/accessories/scarf.png"
+        }
+    ],
+    "correct_answer": null,
+    "correct_image": "images/objects/accessories/socks.png",
+    "explanation": "Socks are worn on the feet to keep them warm."
+}

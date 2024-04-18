@@ -1,0 +1,25 @@
+{
+    "question": "What accessory is used to carry small belongings?",
+    "question_image": null,
+    "answers": [
+        {
+            "text": "Purse",
+            "answer_image": null
+        },
+        {
+            "text": "Hat",
+            "answer_image": null
+        },
+        {
+            "text": "Backpack",
+            "answer_image": null
+        },
+        {
+            "text": "Wallet",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Purse",
+    "correct_image": null,
+    "explanation": "A purse is a small bag used to carry small belongings. It is often carried by"
+}

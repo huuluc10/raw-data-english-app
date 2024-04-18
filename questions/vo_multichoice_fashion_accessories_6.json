@@ -1,0 +1,25 @@
+{
+    "question": "What do you wear on your wrist to tell time?",
+    "question_image": null,
+    "answers": [
+        {
+            "text": "Watch",
+            "answer_image": null
+        },
+        {
+            "text": "Ring",
+            "answer_image": null
+        },
+        {
+            "text": "Purse",
+            "answer_image": null
+        },
+        {
+            "text": "Sunglasses",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Watch",
+    "correct_image": null,
+    "explanation": "A watch is a timepiece that is worn on the wrist or carried in a pocket. It is used to tell time."
+}
