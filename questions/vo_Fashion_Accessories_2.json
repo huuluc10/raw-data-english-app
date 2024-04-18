@@ -1,0 +1,21 @@
+{
+    "question": "Choose the accessory that best describes the following sentence: “She wore it to protect her eyes from the sun.”",
+    "question_image": null,
+    "answers": [
+        {
+            "text": "A necklace",
+            "answer_image": null
+        },
+        {
+            "text": "A pair of gloves",
+            "answer_image": null
+        },
+        {
+            "text": "Sunglasses",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Sunglasses",
+    "correct_image": null,
+    "explanation": "Sunglasses are worn to protect the eyes from the sun."
+}

@@ -126,7 +126,6 @@ create table if not exists question_type
 create table if not exists question
 (
     question_id int primary key auto_increment,
-    question_content varchar(100) not null,
     question_type_id tinyint not null,
     belong_to ENUM ('LESSON', 'EXAM') default 'LESSON',
     lesson_id int null,
