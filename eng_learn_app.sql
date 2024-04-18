@@ -269,7 +269,19 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (25, 'Present_Continuous.json', 4, 'topic/tenses/Present_Continuous.json'),
     (26, 'Present_Perfect.json', 4, 'topic/tenses/Present_Perfect.json'),
     (27, 'Past_Simple.json', 4, 'topic/tenses/Past_Simple.json'),
-    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.jsonn');
+    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.jsonn'),
+
+        # insert data question
+    (29, 'vo_multichoice_fashion_accessories_1.json',4, 'questions/accessories/vo_multichoice_fashion_accessories_1.json'),
+    (30, 'vo_multichoice_fashion_accessories_2.json',4, 'questions/accessories/vo_multichoice_fashion_accessories_2.json'),
+    (31, 'vo_multichoice_fashion_accessories_3.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_3.json'),
+    (32, 'vo_multichoice_fashion_accessories_4.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_4.json'),
+    (33, 'vo_multichoice_fashion_accessories_5.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_5.json'),
+    (34, 'vo_multichoice_fashion_accessories_6.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_6.json'),
+    (35, 'vo_multichoice_fashion_accessories_7.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_7.json'),
+    (36, 'vo_multichoice_fashion_accessories_8.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_8.json'),
+    (37, 'vo_multichoice_fashion_accessories_9.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_9.json'),
+    (38, 'vo_multichoice_fashion_accessories_10.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_10.json');
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
 value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
@@ -303,5 +315,19 @@ value ('Fashion Accessories - Phụ kiện', 1, 4, 10, 1),
     ('Past Simple - Quá khứ đơn', 5, 27, 10, 1),
     ('Past Continuous - Quá khứ tiếp diễn', 5, 28, 10, 1);
 
-insert into question_type(question_type_name) values ('Multiple choice'), ('Fill in the blank'), ('Match up'),
-                                                     ('Sentence transformation'), ('Sentence unscramble'), ('Listening'), ('Speaking');
+insert into question_type(question_type_name) values ('Multiple choice'), ('Fill in the blank'), ('Sentence transformation'),
+                                                      ('Sentence unscramble'), ('Listening'), ('Speaking');
+
+insert into question(question_type_id, lesson_id, answer)
+value
+    # multiple choice of fashion accessories
+    (1, 1, 29),
+    (1, 1, 30),
+    (1, 1, 31),
+    (1, 1, 32),
+    (1, 1, 33),
+    (1, 1, 34),
+    (1, 1, 35),
+    (1, 1, 36),
+    (1, 1, 37),
+    (1, 1, 38);
