@@ -269,7 +269,7 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (25, 'Present_Continuous.json', 4, 'topic/tenses/Present_Continuous.json'),
     (26, 'Present_Perfect.json', 4, 'topic/tenses/Present_Perfect.json'),
     (27, 'Past_Simple.json', 4, 'topic/tenses/Past_Simple.json'),
-    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.jsonn'),
+    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.json'),
 
         # insert data question
     (29, 'vo_multichoice_fashion_accessories_1.json',4, 'questions/accessories/vo_multichoice_fashion_accessories_1.json'),

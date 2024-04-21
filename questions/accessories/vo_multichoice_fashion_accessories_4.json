@@ -1,0 +1,25 @@
+{
+    "question": "What is the object in the image?",
+    "question_image": "images/objects/accessories/ring.png",
+    "answers": [
+        {
+            "text": "Ring",
+            "answer_image": null
+        },
+        {
+            "text": "Necklace",
+            "answer_image": null
+        },
+        {
+            "text": "Purse",
+            "answer_image": null
+        },
+        {
+            "text": "Watch",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Ring",
+    "correct_image": null,
+    "explanation": "Vật trong ảnh là một chiếc nhẫn. Nhẫn là một vòng tròn nhỏ, thường bằng kim loại quý, được đeo trên ngón tay như một vật trang trí hoặc biểu tượng của hôn nhân, lễ đính hôn hoặc quyền lực."
+}
