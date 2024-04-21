@@ -1,0 +1,17 @@
+{
+  "question": "Do/Does she cook in the morning?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Do",
+      "answer_image": null
+    },
+    {
+      "text": "Does",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Does",
+  "correct_image": null,
+  "explanation": "We use 'Does' because 'she' is singular."
+}

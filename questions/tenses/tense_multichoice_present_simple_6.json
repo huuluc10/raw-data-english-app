@@ -1,0 +1,17 @@
+{
+  "question": "We don’t/doesn't do homework at the weekend.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "don't",
+      "answer_image": null
+    },
+    {
+      "text": "doesn't",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "don’t",
+  "correct_image": null,
+  "explanation": null
+}

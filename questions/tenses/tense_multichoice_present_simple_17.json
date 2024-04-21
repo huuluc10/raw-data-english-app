@@ -1,0 +1,17 @@
+{
+  "question": "My brother go / goes to the park on Sundays.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "go",
+      "answer_image": null
+    },
+    {
+      "text": "goes",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "goes",
+  "correct_image": null,
+  "explanation": "'My Brother' là ngôi thứ ba số ít nên động từ cần phải ở ngôi thứ ba số ít 'go'."
+}

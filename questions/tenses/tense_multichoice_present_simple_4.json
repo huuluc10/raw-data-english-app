@@ -1,0 +1,17 @@
+{
+  "question": "They do/does not have dinner at school.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "do",
+      "answer_image": null
+    },
+    {
+      "text": "does",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "do",
+  "correct_image": null,
+  "explanation": null
+}

@@ -1,0 +1,17 @@
+{
+  "question": "I have / has lunch at quarter past one.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have",
+      "answer_image": null
+    },
+    {
+      "text": "has",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have",
+  "correct_image": null,
+  "explanation": "'I' là số ít nên động từ cần phải ở dạng số ít 'have'."
+},

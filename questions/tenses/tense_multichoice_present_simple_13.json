@@ -1,0 +1,17 @@
+{
+  "question": "Do/Does we do homework at the weekend?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Do",
+      "answer_image": null
+    },
+    {
+      "text": "Does",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Do",
+  "correct_image": null,
+  "explanation": "We use 'Do' because 'we' is plural."
+}

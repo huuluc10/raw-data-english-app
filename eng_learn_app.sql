@@ -271,7 +271,8 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (27, 'Past_Simple.json', 4, 'topic/tenses/Past_Simple.json'),
     (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.json'),
 
-        # insert data question
+    # insert data question
+    # insert vocabulary multiple choice question
     (29, 'vo_multichoice_fashion_accessories_1.json',4, 'questions/accessories/vo_multichoice_fashion_accessories_1.json'),
     (30, 'vo_multichoice_fashion_accessories_2.json',4, 'questions/accessories/vo_multichoice_fashion_accessories_2.json'),
     (31, 'vo_multichoice_fashion_accessories_3.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_3.json'),
@@ -281,7 +282,29 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (35, 'vo_multichoice_fashion_accessories_7.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_7.json'),
     (36, 'vo_multichoice_fashion_accessories_8.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_8.json'),
     (37, 'vo_multichoice_fashion_accessories_9.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_9.json'),
-    (38, 'vo_multichoice_fashion_accessories_10.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_10.json');
+    (38, 'vo_multichoice_fashion_accessories_10.json', 4, 'questions/accessories/vo_multichoice_fashion_accessories_10.json'),
+
+    # insert tenses multiple choice question
+    (39, 'tense_multichoice_present_simple_1.json', 4, 'question/tenses/tense_multichoice_present_simple_1.json'),
+    (40, 'tense_multichoice_present_simple_2.json', 4, 'question/tenses/tense_multichoice_present_simple_2.json'),
+    (41, 'tense_multichoice_present_simple_3.json', 4, 'question/tenses/tense_multichoice_present_simple_3.json'),
+    (42, 'tense_multichoice_present_simple_4.json', 4, 'question/tenses/tense_multichoice_present_simple_4.json'),
+    (43, 'tense_multichoice_present_simple_5.json', 4, 'question/tenses/tense_multichoice_present_simple_5.json'),
+    (44, 'tense_multichoice_present_simple_6.json', 4, 'question/tenses/tense_multichoice_present_simple_6.json'),
+    (45, 'tense_multichoice_present_simple_7.json', 4, 'question/tenses/tense_multichoice_present_simple_7.json'),
+    (46, 'tense_multichoice_present_simple_8.json', 4, 'question/tenses/tense_multichoice_present_simple_8.json'),
+    (47, 'tense_multichoice_present_simple_9.json', 4, 'question/tenses/tense_multichoice_present_simple_9.json'),
+    (48, 'tense_multichoice_present_simple_10.json', 4, 'question/tenses/tense_multichoice_present_simple_10.json'),
+    (49, 'tense_multichoice_present_simple_11.json', 4, 'question/tenses/tense_multichoice_present_simple_11.json'),
+    (50, 'tense_multichoice_present_simple_12.json', 4, 'question/tenses/tense_multichoice_present_simple_12.json'),
+    (51, 'tense_multichoice_present_simple_13.json', 4, 'question/tenses/tense_multichoice_present_simple_13.json'),
+    (52, 'tense_multichoice_present_simple_14.json', 4, 'question/tenses/tense_multichoice_present_simple_14.json'),
+    (53, 'tense_multichoice_present_simple_15.json', 4, 'question/tenses/tense_multichoice_present_simple_15.json'),
+    (54, 'tense_multichoice_present_simple_16.json', 4, 'question/tenses/tense_multichoice_present_simple_16.json'),
+    (55, 'tense_multichoice_present_simple_17.json', 4, 'question/tenses/tense_multichoice_present_simple_17.json'),
+    (56, 'tense_multichoice_present_simple_18.json', 4, 'question/tenses/tense_multichoice_present_simple_18.json'),
+    (57, 'tense_multichoice_present_simple_19.json', 4, 'question/tenses/tense_multichoice_present_simple_19.json'),
+    (58, 'tense_multichoice_present_simple_20.json', 4, 'question/tenses/tense_multichoice_present_simple_20.json');
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
 value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
@@ -321,6 +344,7 @@ insert into question_type(question_type_name) values ('Multiple choice'), ('Fill
 insert into question(question_type_id, lesson_id, answer)
 value
     # multiple choice of fashion accessories
+    # vacabulary
     (1, 1, 29),
     (1, 1, 30),
     (1, 1, 31),
@@ -330,4 +354,25 @@ value
     (1, 1, 35),
     (1, 1, 36),
     (1, 1, 37),
-    (1, 1, 38);
+    (1, 1, 38),
+    # tenses
+    (1, 5, 39),
+    (1, 5, 40),
+    (1, 5, 41),
+    (1, 5, 42),
+    (1, 5, 43),
+    (1, 5, 44),
+    (1, 5, 45),
+    (1, 5, 46),
+    (1, 5, 47),
+    (1, 5, 48),
+    (1, 5, 49),
+    (1, 5, 50),
+    (1, 5, 51),
+    (1, 5, 52),
+    (1, 5, 53),
+    (1, 5, 54),
+    (1, 5, 55),
+    (1, 5, 56),
+    (1, 5, 57),
+    (1, 5, 58);

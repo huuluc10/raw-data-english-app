@@ -1,0 +1,17 @@
+{
+  "question": "You wash / washes your face in the morning.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "wash",
+      "answer_image": null
+    },
+    {
+      "text": "washes",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "wash",
+  "correct_image": null,
+  "explanation": "'You' (số ít) là cách xưng hô thân mật với ai đó, vì vậy động từ cần phải ở dạng số ít 'wash'."
+}

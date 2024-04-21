@@ -1,0 +1,17 @@
+{
+  "question": "They catch / catches a bus to school.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "catch",
+      "answer_image": null
+    },
+    {
+      "text": "catches",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "catch",
+  "correct_image": null,
+  "explanation": "'They' là số nhiều nên động từ cần phải ở dạng số nhiều 'catch'."
+}

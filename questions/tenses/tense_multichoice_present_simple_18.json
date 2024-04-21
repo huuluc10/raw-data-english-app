@@ -1,0 +1,17 @@
+{
+  "question": "We get / gets up at seven o’clock.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "get",
+      "answer_image": null
+    },
+    {
+      "text": "gets",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "get",
+  "correct_image": null,
+  "explanation": "'We' là số nhiều nên động từ cần phải ở dạng số nhiều 'get'."
+}

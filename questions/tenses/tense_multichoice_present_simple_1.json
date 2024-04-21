@@ -1,0 +1,17 @@
+{
+  "question": "We don’t/doesn't go to bed late on Sundays!",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "don’t",
+      "answer_image": null
+    },
+    {
+      "text": "doesn't",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "don’t",
+  "correct_image": null,
+  "explanation": "Chúng ta dùng don’t với I, you, we, they và Does not với he, she, it. Trong câu này, chúng ta dùng don’t vì chúng ta đang nói về chúng ta (we)."
+}

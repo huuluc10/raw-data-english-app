@@ -1,0 +1,17 @@
+{
+  "question": "I walk / walks to school at half past eight.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "walk",
+      "answer_image": null
+    },
+    {
+      "text": "walks",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "walk",
+  "correct_image": null,
+  "explanation": "'I' là số ít nên động từ cần phải ở dạng số ít 'walk'."
+},
