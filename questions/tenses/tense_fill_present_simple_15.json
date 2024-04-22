@@ -1,8 +1,8 @@
 {
-  "question": "They (be) _____ (not/be) late.",
+  "question": "They (be not) _____ late.",
   "question_image": null,
   "answers": null,
-  "correct_answer": "are not",
+  "correct_answer": "are not/aren't",
   "correct_image": null,
   "explanation": "Chủ ngữ là they nên dùng are not."
 }
