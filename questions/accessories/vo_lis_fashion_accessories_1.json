@@ -1,0 +1,25 @@
+{
+  "question": "Đâu là từ bạn nghe được?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Apron",
+      "answer_image": null
+    },
+    {
+      "text": "Scarf",
+      "answer_image": null
+    },
+    {
+      "text": "Boots",
+      "answer_image": null
+    },
+    {
+      "text": "Tie",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Apron",
+  "correct_image": null,
+  "explanation": null
+}

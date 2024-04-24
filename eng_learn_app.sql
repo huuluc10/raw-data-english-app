@@ -265,11 +265,11 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (21, 'Definition.json', 4, 'topics/verb/Definition.json'),
     (22, 'Position_Of_Verb.json', 4, 'topics/verb/Position_Of_Verb.json'),
     (23, 'Classify_Verbs_According_to_Meaning.json', 4, 'topics/verb/Classify_Verbs_According_to_Meaning.json'),
-    (24, 'Present_Simple.json', 4, 'topic/tenses/Present_Simple.json'),
-    (25, 'Present_Continuous.json', 4, 'topic/tenses/Present_Continuous.json'),
-    (26, 'Present_Perfect.json', 4, 'topic/tenses/Present_Perfect.json'),
-    (27, 'Past_Simple.json', 4, 'topic/tenses/Past_Simple.json'),
-    (28, 'Past_Continuous.json', 4, 'topic/tenses/Past_Continuous.json'),
+    (24, 'Present_Simple.json', 4, 'topics/tenses/Present_Simple.json'),
+    (25, 'Present_Continuous.json', 4, 'topics/tenses/Present_Continuous.json'),
+    (26, 'Present_Perfect.json', 4, 'topics/tenses/Present_Perfect.json'),
+    (27, 'Past_Simple.json', 4, 'topics/tenses/Past_Simple.json'),
+    (28, 'Past_Continuous.json', 4, 'topics/tenses/Past_Continuous.json'),
 
     # insert data question
     # insert vocabulary multiple choice question
@@ -326,7 +326,25 @@ value (1, 'Avartar', 1, 'images/avatars/avatar.jpg'),
     (75, 'tense_sentence_um_present_simple_2.json', 4, 'questions/tenses/tense_sentence_um_present_simple_2.json'),
     (76, 'tense_sentence_um_present_simple_3.json', 4, 'questions/tenses/tense_sentence_um_present_simple_3.json'),
     (77, 'tense_sentence_um_present_simple_4.json', 4, 'questions/tenses/tense_sentence_um_present_simple_4.json'),
-    (78, 'tense_sentence_um_present_simple_5.json', 4, 'questions/tenses/tense_sentence_um_present_simple_5.json');
+    (78, 'tense_sentence_um_present_simple_5.json', 4, 'questions/tenses/tense_sentence_um_present_simple_5.json'),
+    (79, 'tenses_sentence_tran_present_simple_1.json', 4, 'questions/tenses/tenses_sentence_tran_present_simple_1.json'),
+    (80, 'tenses_sentence_tran_present_simple_2.json', 4, 'questions/tenses/tenses_sentence_tran_present_simple_2.json'),
+    (81, 'tenses_sentence_tran_present_simple_3.json', 4, 'questions/tenses/tenses_sentence_tran_present_simple_3.json'),
+    (82, 'tenses_sentence_tran_present_simple_4.json', 4, 'questions/tenses/tenses_sentence_tran_present_simple_4.json'),
+    (83, 'tenses_sentence_tran_present_simple_5.json', 4, 'questions/tenses/tenses_sentence_tran_present_simple_5.json'),
+
+    # insert fashion accessories listening question
+    (84, 'vo_lis_fashion_accessories_1.json', 4, 'questions/accessories/vo_lis_fashion_accessories_1.json'),
+    (85, 'vo_lis_fashion_accessories_2.json', 4, 'questions/accessories/vo_lis_fashion_accessories_2.json'),
+    (86, 'vo_lis_fashion_accessories_3.json', 4, 'questions/accessories/vo_lis_fashion_accessories_3.json'),
+    (87, 'vo_lis_fashion_accessories_4.json', 4, 'questions/accessories/vo_lis_fashion_accessories_4.json'),
+    (88, 'vo_lis_fashion_accessories_5.json', 4, 'questions/accessories/vo_lis_fashion_accessories_5.json'),
+    (89, 'vo_lis_fashion_accessories_6.json', 4, 'questions/accessories/vo_lis_fashion_accessories_6.json'),
+    (90, 'vo_lis_fashion_accessories_7.json', 4, 'questions/accessories/vo_lis_fashion_accessories_7.json'),
+    (91, 'vo_lis_fashion_accessories_8.json', 4, 'questions/accessories/vo_lis_fashion_accessories_8.json'),
+    (92, 'vo_lis_fashion_accessories_9.json', 4, 'questions/accessories/vo_lis_fashion_accessories_9.json'),
+    (93, 'vo_lis_fashion_accessories_10.json', 4, 'questions/accessories/vo_lis_fashion_accessories_10.json');
+
 
 insert into user (username, password, email, date_of_birth, full_name, role_id, avatar, streak, experience)
 value ('admin', '$2a$12$pF29DXtRmQEOsykpT6s2luBJkEqsyBtdJSXczwkvPGeWuc1/vE/su', null, now(), 'admin', 1, 1, 0, 0),
@@ -377,6 +395,17 @@ value
     (1, 1, 36),
     (1, 1, 37),
     (1, 1, 38),
+    # listening
+    (5, 1, 84),
+    (5, 1, 85),
+    (5, 1, 86),
+    (5, 1, 87),
+    (5, 1, 88),
+    (5, 1, 89),
+    (5, 1, 90),
+    (5, 1, 91),
+    (5, 1, 92),
+    (5, 1, 93),
     # tenses
     # multiple choice
     (1, 21, 39),
@@ -420,4 +449,10 @@ value
     (4, 21, 75),
     (4, 21, 76),
     (4, 21, 77),
-    (4, 21, 78);
+    (4, 21, 78),
+    #sentence transformation
+    (3, 21, 79),
+    (3, 21, 80),
+    (3, 21, 81),
+    (3, 21, 82),
+    (3, 21, 83);
