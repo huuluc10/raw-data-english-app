@@ -1,0 +1,69 @@
+{
+    "title": "Câu tường thuật cho câu hỏi ",
+    "description": "Để chuyển câu hỏi từ câu trực tiếp sang câu tường thuật cũng sử dụng các từ giới thiệu như \"asked\", \"wondered\", \"inquired\", \"wanted to know\", ... tùy thuộc vào ngữ cảnh.",
+    "content": [
+        {
+            "title": "Để tạo thành câu tường thuật câu hỏi, chúng ta cần lưu ý các điểm sau:",
+            "text": "Chuyển từ \"Will\" trong câu hỏi thành \"Would\" hoặc \"Was/Were going to\" trong câu tường thuật.\nChuyển đổi thứ tự từ (subject) và động từ (verb) trong câu để phù hợp với câu tường thuật.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cấu trúc: ",
+            "text": "Câu hỏi Wh/H: từ tường thuật + từ để hỏi (Wh/H) + mệnh đề",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: \"What time is it?\" she asked.",
+                    "explanation": "Cô ấy hỏi: “Mấy giờ rồi?”"
+                },
+                {
+                    "original": "Câu tường thuật: She asked what time it was.",
+                    "explanation": "Cô ấy hỏi mấy giờ rồi."
+                },
+                {
+                    "original": "Câu trực tiếp: \"Where are you going?\" he wondered.",
+                    "explanation": "Anh ấy tự hỏi: “Bạn đi đâu vậy?”"
+                },
+                {
+                    "original": "Câu tường thuật: He wondered where I/you/he/she/they were going.",
+                    "explanation": "Anh ấy tự hỏi tôi/bạn/anh ấy/cô ấy/họ đi đâu."
+                },
+                {
+                    "original": "Câu trực tiếp: \"Why did you do that?\" they inquired.",
+                    "explanation": "Họ hỏi: “Tại sao bạn lại làm vậy?”"
+                },
+                {
+                    "original": "Câu tường thuật: They inquired why I/you/he/she/they had done that.",
+                    "explanation": "Họ hỏi tại sao tôi/bạn/anh ấy/cô ấy/họ lại làm vậy."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Câu hỏi Yes/No: từ tường thuật + if/whether + mệnh đề",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: \"Can I borrow your pen?\" she wanted to know.",
+                    "explanation": "\"Tôi có thể mượn cây bút của bạn không? \" cô ấy hỏi"
+                },
+                {
+                    "original": "Câu tường thuật: She wanted to know if she could borrow my pen.",
+                    "explanation": "Cô ấy muốn biết liệu cô ấy có thể mượn bút của tôi không."
+                },
+                {
+                    "original": "Câu trực tiếp: \"Are you coming to the party?\" he wondered.",
+                    "explanation": "\"Bạn có đến dự tiệc không?\" anh ấy hỏi"
+                },
+                {
+                    "original": "Câu tường thuật: He wondered if he was coming to the party.",
+                    "explanation": "Anh ấy tự hỏi liệu tôi có đến dự tiệc không."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

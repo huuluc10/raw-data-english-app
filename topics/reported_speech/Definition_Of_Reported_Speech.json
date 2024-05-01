@@ -1,0 +1,37 @@
+{
+    "title": "CÂU TƯỜNG THUẬT (REPORTED SPEECH)",
+    "description": "Có 3 dạng cấu trúc câu tường thuật thường gặp nhất là cấu trúc tường thuật câu hỏi, dạng câu kể và dạng câu ra lệnh. Trong bài học này sẽ tổng hợp những kiến thức quan trọng về dạng câu này để bạn dễ dàng ôn tập và tham khảo nhé. Cùng bắt đầu ngay nào!",
+    "content": [
+        {
+            "title": "Câu tường thuật là gì?",
+            "text": "Câu tường thuật (Reported speech) là một loại câu trong ngữ pháp tiếng Anh, thường dùng để diễn đạt thông tin, lời nói hoặc suy nghĩ của ai đó một cách gián tiếp thông qua việc trích dẫn lại những gì người đó đã nói mà không sử dụng các dấu ngoặc kép như trong câu trực tiếp. ",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Khi chuyển đổi từ câu trực tiếp (direct speech) sang câu tường thuật (reported speech), các động từ tường thuật thường thay đổi để phù hợp với ngữ cảnh trong câu tường thuật. Các thay đổi này bao gồm thì, các đại từ, và những từ chỉ thời gian trong câu.",
+            "example": [
+                {
+                    "original": "Câu trực tiếp (direct speech): \"I am studying English now\", she said.",
+                    "explanatiom": "Cô ấy nói: “Bây giờ tôi đang học tiếng Anh”"
+                },
+                {
+                    "original": "Câu tường thuật (reported speech): She said that she was studying English then.",
+                    "explanatiom": "Cô ấy nói rằng lúc đó cô ấy đang học tiếng Anh."
+                },
+                {
+                    "original": "Câu trực tiếp (direct speech): John said, \"I will be there on time.\"",
+                    "explanation": "John nói : “Tôi sẽ đến đúng giờ”"
+                },
+                {
+                    "original": "Câu tường thuật (reported speech): John said that he would be there on time.",
+                    "explanation": "John nói rằng anh ấy sẽ đến đúng giờ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

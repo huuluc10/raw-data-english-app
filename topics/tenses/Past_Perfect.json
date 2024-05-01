@@ -1,0 +1,184 @@
+{
+    "title":"Past Perfect Tense - Thì Quá Khứ Hoàn Thành",
+    "description": "Thì quá khứ hoàn thành (Past perfect) là thì được sử dụng nhằm diễn tả hành động, sự việc nào đó xảy ra trước một hành động, sự việc trong quá khứ. Hành động xảy ra trước sẽ dùng thì quá khứ hoàn thành, hành động xảy ra sau sẽ dùng thì quá khứ đơn.",
+    "content":[
+        {
+            "title": "Công thức Thì Quá Khứ Hoàn Thành",
+            "text": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/14/thi-qua-khu-hoan-thanh-past-perfect.webp",
+            "example": null,
+            "video_url": null
+        },
+        {
+            "title": " 1. Positive sentences (Câu khẳng định): ",
+            "text": " Cấu trúc:  S + had + V3 + O",
+            "example": [
+                {
+                    "original": "My mother had gone out when shipper delivered to",
+                    "explanation": "Mẹ tôi đã ra ngoài khi shipper giao hàng đến"
+                },
+                {
+                    "original": "I had finished my homework just before the deadline last Thursday",
+                    "explanation": "Tôi đã hoàn thành bài tập ngay trước hạn chót vào thứ 5 tuần trước"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": " 2. Negative sentences (Câu phủ định): ",
+            "text": " Cấu trúc:S + had not (hadn’t) + V3 + O",
+            "example": [
+                {
+                    "original": "I hadn’t finished my homework just before the deadline last Thursday ",
+                    "explanation": "Tôi đã không hoàn thành bài tập trước hạn chót vào thứ 5 tuần trước"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": " 3. Question sentences (Câu nghi vấn): ",
+            "text": " Cấu trúc: Had (not) + S + V3 + O?",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+       {
+            "title": null,
+            "text": "Cấu trúc: Wh + had + S + V3 + O?",
+            "example": [
+                {
+                    "original": "Had the film ended when you arrived at the cinema?",
+                    "explanation": "Bộ phim đã kết thúc khi bạn tới rạp chiếu phim phải không?"
+                },
+                {
+                    "original": "What had you eaten for breakfast before you left for work?",
+                    "explanation": "Bạn đã ăn gì vào bữa sáng trước khi bạn đi làm?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cách dùng thì quá khứ hoàn thành",
+            "text": "1. Khi hai hành động cùng xảy ra trong quá khứ, hành động xảy ra trước dùng quá khứ hoàn thành và hành động xảy ra sau sử dụng thì quá khứ đơn.",
+            "example":  [
+                {
+                    "original": "I went to the movies with my friends after my mother had came back",
+                    "explanation": "Tôi đã đi xem phim cùng bạn sau khi mẹ tôi về"
+                },
+                {
+                    "original": "I met him after he had graduated from college ",
+                    "explanation": "Tôi gặp anh ấy sau khi anh ấy tốt nghiệp đại học"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Sử dụng để diễn tả hành động đã xảy ra và kéo dài đến một thời điểm nhất định trong quá khứ hoặc trước một thời điểm nhất định trong quá khứ.",
+            "example": [
+                {
+                    "original": "By the time we arrived, Lan had gone out",
+                    "explanation": "Vào thời điểm chúng tôi đến, Lan đã đi ra ngoài"
+                },
+                {
+                    "original": "I had never played soccer until last week",
+                    "explanation": "Tôi đã không chơi bóng đá cho đến cuối tuần trước"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "3. Diễn tả hành động xảy ra như là điều kiện đầu tiên cho một hành động khác",
+            "example":  [
+                {
+                    "original": "I had prepared for the exams and was ready to do well.",
+                    "explanation": "Tôi đã chuẩn bị cho bài kiểm tra và sẵn sàng để làm tốt"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "4. Dùng trong câu điều kiện loại ba để diễn ra điều kiện không có thực ở quá khứ",
+            "example": [
+                {
+                    "original": "If I had enough money, I could have bought a new iphone.",
+                    "explanation": "Nếu tôi có đủ tiền, tôi đã có thể mua một chiếc iphone mới"
+                },
+                {
+                    "original": "If she had followed my advice, she wouldn't have had to sell her favorite car ",
+                    "explanation": "Nếu cô ấy làm theo lời khuyên của tôi, cô ấy đã không phải bán cái xe yêu thích của mình"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },,
+        {
+            "title":null,
+            "text": "5. Sử dụng đi kèm với thì quá khứ đơn khi sử dụng các giới từ, liên từ như: before, after, when, until, as soon as,...",
+            "example":  [
+                {
+                    "original": " When my brother graduated from university, he had gone abroad to work",
+                    "explanation": "Khi anh trai tôi tốt nghiệp đại học, anh ấy đi nước ngoài làm việc"
+                },
+                {
+                    "original": "I had waited here for 3 hours until the train left ",
+                    "explanation": "Tôi đã đợi ở đây 3 tiếng đến khi tàu chạy"
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/09/16/qua-khu-hoan-thanh-53.webp",
+            "video_url": null
+        },
+        {
+            "title": "Dấu hiệu thì quá khứ hoàn thành",
+            "text": "1. Qua các từ nhận biết thông qua các từ như: before, after, until, by the time, when by, for, as soon as, by the end of + time in past,...",
+            "example": [
+                {
+                    "original": "Before I went to work, my mother packed lunch for me ",
+                    "explanation": "Trước khi tôi đi làm, mẹ tôi đã đóng gói bữa trưa cho tôi"
+                },
+                {
+                    "original": "My boyfriend hadn't recognized me until I took off my mask ",
+                    "explanation": "Bạn trai tôi đã không nhận ra tôi cho đến khi tôi cởi khẩu trang ra"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Qua vị trí của các liên từ ",
+            "example": [
+                {
+                    "original": "When I arrived at the airport, my flight had taken off before 2 hours.",
+                    "explanation": "Khi tôi tới sân bay, chuyến bay của tôi đã cất cánh trước 2 tiếng đồng hồ"
+                },
+                {
+                    "original": "Before I had parted with him, we went around the world together",
+                    "explanation": "Trước khi tôi chia tay anh ấy, chúng tôi đã cùng nhau đi vòng quanh thế giới"
+                },
+                {
+                    "original": "We went home after we had arrived in sapa 2 days 1 night",
+                    "explanation": "Chúng tôi về nhà sau khi chúng tôi đến sapa 2 ngày 1 đêm"
+                },
+                {
+                    "original": "I had finished my homework by the time the teacher checked it",
+                    "explanation": "Tôi đã làm bài tập về nhà xong vào thời điểm cô giáo kiểm tra"
+                },
+                {
+                    "original": "Hardly had I gone out when it rained",
+                    "explanation": "Tôi vừa mới ra ngoài thì trời mưa."
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/16/qua-khu-hoan-thanh-4.webp",
+            "video_url": null
+        }
+    ]
+}

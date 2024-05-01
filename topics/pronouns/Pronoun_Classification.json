@@ -1,0 +1,207 @@
+{
+    "title": " Các loại đại từ trong tiếng Anh và cách sử dụng",
+    "description": "Trong tiếng Anh, đại từ được chia thành 7 dạng khác nhau. Mỗi một dạng đại từ sẽ có chức năng riêng và dùng để thay thế cho một từ loại nhất định.",
+    "content": [
+        {
+            "title": "1. Đại từ chủ ngữ hay đại từ nhân xưng(Subject Pronouns)",
+            "text": "Đại từ chủ ngữ hay đại từ nhân xưng (Subject Pronouns) là từ dùng để xưng hô trong tiếng Anh. Nó dùng để thay thế cho từ chỉ người, sự vật, sự việc… Đại từ nhân xưng trong tiếng Anh thường được dùng làm chủ ngữ trong câu. Đại từ nhân xưng trong tiếng Anh được chia thành 3 ngôi.",
+            "image_url": "https://patadovietnam.edu.vn/wp-content/uploads/2021/02/word-image-20.jpeg",
+            "example": [
+                {
+                    "original": "Do you like coffee?",
+                    "explanation": "Bạn có thích uống cà phê không?"
+                },
+                {
+                    "original": "I am reading book.",
+                    "explanation": "Tôi đang đọc sách"
+                },
+                {
+                    "original": "He is very tall. ",
+                    "explanation": "Anh ấy thật là cao"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": "2. Đại từ tân ngữ (Objective Pronouns)",
+            "text": "Đại từ tân ngữ trong tiếng Anh (Objective Pronouns) là đại từ chỉ người hoặc vật, bị chịu tác động bởi một hành động nào đó. Vị trí của đại từ tân ngữ trong câu là sau động từ hoặc giới từ. Cách biến đổi tương ứng từ đại từ chủ ngữ sang đại từ tân ngữ cụ thể như sau:",
+            "image_url": "images/objects/pronouns/dai_tu.png",
+            "example": [
+                {
+                    "original": "They can’t see her.",
+                    "explanation": "Họ không thể thấy cô ấy."
+                },
+                {
+                    "original": "I go out with him.",
+                    "explanation": "Tôi ra ngoài với anh ấy."
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": "3. Đại từ sở hữu (Possessive pronouns)",
+            "text": "Đại từ sở hữu (Possessive pronouns) có tác dụng thay thế cho những danh từ dùng để chỉ người, chỉ vật được nhắc đến trong câu có đi kèm với tính từ sở hữu trước đó. Đại từ sở hữu có thể làm chủ ngữ hoặc tân ngữ trong câu. Cũng có một số trường hợp, đại từ sở hữu đứng sau giới từ được gọi là sở hữu kép.",
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/15/dai-tu-trong-tieng-anh-2.webp",
+            "example": [
+                {
+                    "original": "This book is mine. Yours is over there!",
+                    "explanation": "Quyển sách này là đồ của tôi. Đồ của cậu ở đằng kia kìa!"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": "4. Đại từ chỉ định (Demonstrative pronouns)",
+            "text": "Đại từ chỉ định (demonstrative pronouns) có tác dụng biểu thị cho danh từ chỉ người/ vật đã được nhắc đến trước đó. Để có thể hiểu được chính xác ngữ nghĩa của từng đại từ bạn cần đặt nó vào trong ngữ cảnh của câu. Trong câu, đại từ chỉ định có thể được dùng làm chủ ngữ hoặc tân ngữ. Những đại từ chỉ định thường gặp như: This, That, These, Those.",
+            "example": [
+                {
+                    "original": "This is my sister.",
+                    "explanation": "Đó là chị gái của tôi."
+                },
+                {
+                    "original": "These are people in my family.",
+                    "explanation": "Đây là những người trong gia đình tôi"
+                },
+                {
+                    "original": "This is Ha Long Bay, it’s my favorite place to go on holiday.",
+                    "explanation": "Đây là vịnh Hạ Long, nó là điểm đến yêu thích mỗi khi tới dịp nghỉ lễ"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "5. Đại từ nghi vấn (Interrogative pronouns)",
+            "text": "Đại từ nghi vấn (interrogative pronouns) trong tiếng Anh là những từ được dùng để hỏi. Nó thường xuất hiện trong các câu hỏi như ai, cái gì… Đại từ nghi vấn thường đứng ở đầu câu. Những đại từ nghi vấn thường gặp như: Who, Which, What, Whose. Trong đó đại từ whose vừa được coi là đại từ sở hữu, vừa được dùng là đại từ nghi vấn.",
+            "example": [
+                {
+                    "original": " What is your name?",
+                    "explanation": "Tên của bạn là gì?"
+                },
+                {
+                    "original": "Which is the film that you like?",
+                    "explanation": "Cái nào là bộ phim mà bạn thích?"
+                },
+                {
+                    "original": "Whose pens are these?",
+                    "explanation": "Những chiếc bút này của ai?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "6. Đại từ quan hệ (Relative Pronouns)",
+            "text": "Đại từ quan hệ (Relative Pronouns) trong tiếng Anh là từ dùng để nối hai hay nhiều mệnh đề với nhau. Thông thường, người ta dùng đại từ quan hệ để nối một mệnh đề độc lập (mệnh đề chính) với mệnh đề quan hệ (mệnh đề phụ) trong câu. Những đại từ quan hệ thông dụng: What, which, who, whom, that. ",
+            "example": [
+                {
+                    "original": " The person who called me last night is my father. ",
+                    "explanation": "Người mà đã gọi điện cho tôi tối qua là anh bố tôi"
+                },
+                {
+                    "original": "The man who is standing next to her is her husband.",
+                    "explanation": "Người đàn ông đang đứng cạnh cô ấy là chồng cô ấy"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/15/dai-tu-trong-tieng-anh-4.webp",
+            "video_url": null
+        },
+        {
+            "title": "7. Đại từ bất định (Indefinite pronouns)",
+            "text": "Đại từ bất định (Indefinite pronouns) là địa từ dùng để chỉ một nhóm người hoặc sự vật chung chung, không rõ ràng.Đại từ này có thể được dùng ở dạng số ít hoặc số nhiều. Trong đó: ",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Đại từ bất định số ít gồm các từ: another, much, other, either, neither, one, anyone, anybody, anything, somebody, something, everybody,everything, no one, nothing; each; someone, everyone, nobody",
+            "example": [
+                {
+                    "original": "Do you want beer or coffee? Either, I don’t mind.",
+                    "explanation": "Bạn muốn bia hay cà phê? Một trong hai đều được, tôi không phiền"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Đại từ bất định số nhiều: few many, several; both; other",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Đại từ bất định có thể dùng cho cả số nhiều và số ít: any, more, none, some, all, most",
+            "example": [
+                {
+                    "original": "I invited 6 friends but none have come. ",
+                    "explanation": "Tôi đã mời 6 người bạn nhưng không ai đến cả"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "8. Đại từ phản thân (Reflexive pronouns)",
+            "text": "Đại từ phản thân (reflexive pronouns) được dùng trong câu mà cả chủ ngữ và tân ngữ cùng nói đến một người hoặc một vật. Đại từ phản thân trong câu không bao giờ đứng đầu câu làm chủ ngữ. Nó chỉ được dùng làm tân ngữ cho thấy chủ thể vừa cho lại vừa nhận hành động.",
+            "example": [
+                {
+                    "original": "Quan bought himself a new mobile phone.",
+                    "explanation": "Quân mua cho chính anh ấy một chiếc điện thoại di động mới"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/18/dai-tu-phan-than-1.webp",
+            "video_url": null
+        },
+        {
+            "title": "Các lưu ý khi sử dụng đại từ trong tiếng Anh",
+            "text": "1. Không được thêm dấu ( ‘ ) vào các đại từ sở hữu ",
+            "example": [
+                {
+                    "original": "Those cars are nice. They look expensive. (Những chiếc xe này rất đẹp. Chúng khá là đắt đỏ.)",
+                    "explanation": "Ở ví dụ này: Đại từ nhân xưng hay chủ ngữ là Those cars, đây là danh từ số nhiều nên động từ to be được chia theo dạng số nhiều 'are'"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Động từ đứng sau đại từ nhân xưng phụ thuộc vào danh từ mà đại từ thay thế.",
+            "example": [
+                {
+                    "original": "I invited 6 friends but none have come. ",
+                    "explanation": "Tôi đã mời 6 người bạn nhưng không ai đến cả"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "3. Một số đại từ luôn luôn được dùng ở số ít. Vì vậy động từ cũng được chia theo số ít.",
+            "example": [
+                {
+                    "original": "Everybody is tired after the exam.",
+                    "explanation": "Mọi người đều mệt sau kỳ thi"
+                },
+                {
+                    "original": "She is reading a book.",
+                    "explanation": "Cô ấy đang đọc sách."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Vị trí của đại từ trong tiếng Anh",
+            "text": "Đại từ trong tiếng Anh là những từ chỉ người, vật, có vai trò thay thế cho một danh từ vì vậy đại từ có thể đứng đầu câu làm chủ ngữ, đứng sau động từ làm tân ngữ hoặc đứng sau danh từ để nhấn mạnh. Vị trí của đại từ trong tiếng Anh tùy thuộc vào chức năng của mỗi loại đại từ.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

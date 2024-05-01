@@ -1,0 +1,87 @@
+{
+    "title": "Tìm hiểu về các loại tính từ, trạng từ trong câu so sánh",
+    "description": "Đầu tiên, để hiểu và vận dụng tốt các cấu trúc so sánh, chúng ta cần tìm hiểu các loại tính từ, trạng từ trong tiếng Anh.",
+    "content": [
+        {
+            "title": "1. Tính từ ngắn, tính từ dài",
+            "text": "Tính từ ngắn và tính từ dài là hai khái niệm được sử dụng trong ngữ pháp để mô tả đặc điểm về độ dài của tính từ trong tiếng Anh.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Tính từ ngắn (short adjectives) là những tính từ có một âm tiết",
+            "example": [
+                {
+                    "original": "big, fast, old, tall, hot,... "
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Tính từ dài (long adjectives) là những tính từ có hai âm tiết trở lên",
+            "example": [
+                {
+                    "original": "beautiful, interesting, delicious, expensive, important, difficult,… "
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lưu ý: Tính từ có 2 âm tiết nhưng kết thúc bằng các đuôi -y, -le, -ow, -er, -et vẫn được xem là tính từ ngắn, ví dụ: happy, noble, narrow, clever, quiet,...",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Trạng từ ngắn, trạng từ dài",
+            "text": "Trạng từ ngắn (short adverbs) là những trạng từ có một âm tiết",
+            "example": [
+                {
+                    "original": "soon, fast, now, here, well, late,..."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trạng từ dài (long adverbs) là những trạng từ có hai âm tiết trở lên",
+            "example": [
+                {
+                    "original": "carefully, beautifully, deliberately, happily,...."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Tính từ/trạng từ bất quy tắc",
+            "text": "Những tính từ này không tuân theo quy tắc thêm đuôi như tính từ/trạng từ ngắn hay đứng sau các cụm từ “the most”, “more” như tính từ/trạng từ dài.",
+            "example": [
+                {
+                    "original": "Good/Well → Better → Best"
+                },
+                {
+                    "original": "Bad → Worse → Worst"
+                },
+                {
+                    "original": "Far → Farther → The farthest/the furthest"
+                },
+                {
+                    "original": "Little → Less → Least"
+                },
+                {
+                    "original": "Much/Many → More → Most "
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2023/07/07/so-sanh-nhat.webp",
+            "video_url": null
+        }
+    ]
+}

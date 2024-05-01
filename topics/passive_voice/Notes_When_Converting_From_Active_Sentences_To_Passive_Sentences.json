@@ -1,0 +1,91 @@
+{
+    "title": "Các lưu ý khi chuyển từ câu chủ động sang câu bị động",
+    "description": null,
+    "content": [
+        {
+            "title": "Dưới đây là một vài lưu ý khi chuyển sang câu bị động trong Tiếng Anh.",
+            "text": null,
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2023/11/23/luu-y-khi-chuyen-sang-cau-bi-dong.webp",
+            "video_url": null
+        },
+        {
+            "title": "1. Chuyển đại từ tân ngữ thành đại từ chủ ngữ",
+            "text": "Trong trường hợp tân ngữ (đối tượng chịu tác động) ở các chủ động là một đại từ tân ngữ sẽ trở thành chủ ngữ cho câu bị động, ta cần chuyển những từ này thành một đại từ chủ ngữ, cụ thể như sau: ",
+            "example":null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/10/tan-ngu-trong-tieng-anh-2.webp",
+            "video_url": null
+        },
+        {
+            "title": "2. Các động từ Crowd, Fill, Cover",
+            "text": "Đối với ba động từ crowd, fill, cover, khi chuyển sang bị động, phía trước tân ngữ, ta sử dụng with thay cho by.",
+            "example": [
+                {
+                  "original": "Strawberry jam fills the jar.",
+                  "explanation": "Mứt dâu làm đầy chiếc lọ."
+                },
+                {
+                  "original": "➤ The jar is filled with strawberry jam.",
+                  "explanation": "Chiếc lọ được làm đầy với mứt dâu."
+                },
+                {
+                  "original": "People crowd the street to watch colorful fireworks on New Year’s Eve.",
+                  "explanation": "Mọi người tụ tập ở con phố để xem pháo hoa rực rỡ vào đêm Giao thừa."
+                },
+                {
+                  "original": "➤ The street is crowded with people watching colorful fireworks on New Year’s Eve.",
+                  "explanation": "Con phố ùn tắc với người xem pháo hoa rực rỡ vào đêm Giao thừa."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Thứ tự của by…, nơi chốn và thời gian trong câu bị động",
+            "text": "Trong các câu bị động thứ tự của by…, nơi chốn, và thời gian sắp xếp cố định như sau: nơi chốn ⇒ by… ⇒ thời gian",
+            "example": [
+                {
+                  "original": "A beautiful bouquet of roses was left by someone (by…) in front of my house (nơi chốn) this morning (thời gian).",
+                  "explanation": "Một bó hoa hồng tuyệt đẹp được để lại bởi ai đó trước cửa nhà tôi vào sáng nay."
+                },
+                {
+                  "original": "A beautiful bouquet of roses was left in front of my house (nơi chốn) this morning (thời gian).",
+                  "explanation": "Một bó hoa hồng tuyệt đẹp được để lại trước cửa nhà tôi vào sáng nay."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "4. Một số tình huống không dùng được bị động",
+            "text": "Tân ngữ là đại từ phản thân hay tính từ sở hữu giống hệt với chủ ngữ (chủ thể hành động).Một vài đại từ phản thân khác bao gồm: myself, himself, herself, themselves, ourselves,.",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nội động từ đóng vai trò là động từ chính trong câu như live, exist, appear, die, cry,... không thể thể biến đổi thành câu bị động.",
+            "example": [
+                {
+                  "original": "The birds fly on the sky.(Những chú chim bay trên bầu trời)",
+                  "explanation": "Trong ví dụ trên, “fly” là một nội động từ nên không có tân ngữ theo sau. Vì vậy, câu này không tồn tại dạng bị động."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Một số động từ: have (khi mang nghĩa “có” - sở hữu), lack, belong to, resemble, seem, appear, look, be",
+            "example": [
+                {
+                  "original": "He looks at his puppy.(Anh ấy nhìn vào con cún của anh ấy)",
+                  "explanation": "Câu trên không có dạng bị động sau: A puppy is looked at by him."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

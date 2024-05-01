@@ -1,0 +1,289 @@
+{
+    "title": " Simple future - Thì tương lai đơn",
+    "description": " Thì tương lai đơn (Simple future tense) là một trong những thì cơ bản của tiếng Anh. Ta dùng thì này khi không có kế hoạch hay quyết định làm gì nào trước khi chúng ta nói mà chúng ta ra quyết định tự phát tại thời điểm nói.",
+    "content": [
+        {
+            "title": "Công thức thì tương lai đơn",
+            "text": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/06/thi-tuong-lai-don-simple-future.webp",
+            "example": null,
+            "video_url": null
+        },
+        {
+            "title": " 1. Thể khẳng định: ",
+            "text": " Đối với động từ “to be”: Cấu trúc :   S + will +  be + N/Adj",
+            "example": [
+                {
+                    "original": "Everything will be fine",
+                    "explanation": "Mọi thứ sẽ ổn thôi."
+                },
+                {
+                    "original": " The party will be great",
+                    "explanation": "Bữa tiệc sẽ rất vui đây."
+                },
+                {
+                    "original": "You will be the princess this night ",
+                    "explanation": "Bạn sẽ là công chúa trong đêm nay."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Đối với động từ thường:Cấu trúc:   S + will + V (bare-inf)",
+            "example": [
+                {
+                    "original": "Don’t worry, I will take you home",
+                    "explanation": "Đừng lo lắng, tôi sẽ đưa bạn về nhà."
+                },
+                {
+                    "original": "I will finish my homework in 2 hours ",
+                    "explanation": "Tôi sẽ hoàn thành bài tập về nhà trong 2 giờ tới."
+                },
+                {
+                    "original": "She will travel around the world ",
+                    "explanation": "Cô ấy sẽ du lịch vòng quanh thế giới."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": " 2. Thể phủ định: ",
+            "text": " Đối với động từ “to be”: Cấu trúc :   S + will not +  be + N/Adj",
+            "example": [
+                {
+                    "original": "I won’t be happy if I can't finish my task",
+                    "explanation": "Tôi sẽ không vui nếu như tôi không hoàn thành nhiệm vụ của mình."
+                },
+                {
+                    "original": "You won’t be late if you get up earlier ",
+                    "explanation": "Bạn sẽ không muộn nếu bạn dậy sớm hơn."
+                },
+                {
+                    "original": "The weather won’t be nice this weekend ",
+                    "explanation": "Thời tiết vào cuối tuần sẽ không đẹp."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Đối với động từ thường:Cấu trúc:   S + will not + V (bare-inf)",
+            "example": [
+                {
+                    "original": "I won’t go to school tomorrow because tomorrow is Sunday",
+                    "explanation": "Tôi sẽ không đến trường vào ngày mai vì mai là chủ nhật."
+                },
+                {
+                    "original": "He won’t stay at home ",
+                    "explanation": "Anh ấy sẽ không ở nhà."
+                },
+                {
+                    "original": "I won’t tell you the truth ",
+                    "explanation": "Tôi sẽ không nói cho bạn sự thật."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": " 3. Thể nghi vấn ",
+            "text": " Cấu trúc: Will + S + be +... ? (Đối với động từ tobe) hoặc Will + S + V (bare-inf)? (Đối với động từ thường)",
+            "example": [
+                {
+                    "original": " Will you be at the factory at 9 a.m. tomorrow?",
+                    "explanation": "Bạn có ở nhà máy vào 9 giờ sáng mai không?"
+                },
+                {
+                    "original": "Will you go to the party tonight?",
+                    "explanation": "Bạn có đến buổi tiệc tối nay không?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "4. Thể nghi vấn dùng Wh-question",
+            "text": "Cấu trúc: Wh-word + will + S + V (bare-inf)?",
+            "example":  [
+                {
+                    "original": "What will you do tonight?",
+                    "explanation": "Bạn sẽ làm gì vào tối mai?"
+                },
+                {
+                    "original": " How will she come home next month?",
+                    "explanation": "Cô ấy sẽ về nhà vào cuối tháng bằng cách nào?"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "Cách dùng của thì tương lai đơn",
+            "text": "1.Diễn tả 1 quyết định ngay thời điểm nói",
+            "example":  [
+                {
+                    "original": "I will go home after finishing the work",
+                    "explanation": "Tôi sẽ về nhà sau khi hoàn thành công việc"
+                },
+                {
+                    "original": " I will visit my grandfather this weekend",
+                    "explanation": "Tôi sẽ thăm ông tôi vào cuối tuần."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Diễn tả 1 dự đoán không có căn cứ rõ ràng",
+            "example": [
+                {
+                    "original": "I guess Jim won’t tell the truth",
+                    "explanation": "Tôi nghĩ Jim sẽ không nói sự thật đâu"
+                },
+                {
+                    "original": "I think she won’t join our party ",
+                    "explanation": "Tôi nghĩ cô ấy sẽ không tham gia bữa tiệc của chúng ta đâu"
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/11/04/186519041-308440654187391-4510832390176680672-n.webp",
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "3. Dùng để đưa ra lời mời hoặc yêu cầu",
+            "example":  [
+                {
+                    "original": "Will you go out for dinner with us? ",
+                    "explanation": "Bạn sẽ ra ngoài ăn tối với chúng tôi chứ?"
+                },
+                {
+                    "original": " Will you bring me a cup of tea?",
+                    "explanation": "Bạn có thể đem cho tôi 1 tách trà được không?"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "4. Đưa ra một lời hứa",
+            "example":  [
+                {
+                    "original": " I promise I will be home on time ",
+                    "explanation": "Tôi hứa là tôi se về nhà đúng giờ."
+                },
+                {
+                    "original": "My friend will never tell anyone about this",
+                    "explanation": "Bạn tôi sẽ không nói với ai về việc này đâu."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "5. Đưa ra lời cảnh báo",
+            "example":  [
+                {
+                    "original": " Hurry up! We will be late for the meeting",
+                    "explanation": "Nhanh lên, chúng ta sẽ trễ họp mất."
+                },
+                {
+                    "original": " Stop talking, or the teacher will send you out",
+                    "explanation": "Ngừng nói chuyện đi, nếu không giáo viên sẽ đuổi bạn ra khỏi lớp"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "6. Đưa ra lời đề nghị giúp đỡ",
+            "example":  [
+                {
+                    "original": "Shall I carry this handbag for you? ",
+                    "explanation": "Để tôi mang giúp bạn cái túi cầm tay này nhé?"
+                },
+                {
+                    "original": "Shall I bring your luggage to your room? ",
+                    "explanation": "Tôi mang hành lý cho bạn lên phòng được không?"
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/10/06/thi-tuong-lai-don-1.webp",
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "7. Đưa ra lời gợi ý hoặc ý tưởng nào đó",
+            "example":  [
+                {
+                    "original": "Shall we have Korean food?",
+                    "explanation": "Chúng ta ăn đồ Hàn nhé!"
+                },
+                {
+                    "original": "Shall we go out for a meal?",
+                    "explanation": "Chúng ta ra ngoài ăn nhé?"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "8. Sử dụng trong câu điều kiện loại 1",
+            "example":  [
+                {
+                    "original": "If you go to bed early, you will have good health",
+                    "explanation": "Nếu bạn đi ngủ sớm, bạn sẽ có 1 sức khỏe tốt"
+                },
+                {
+                    "original": "If she learns hard, she will pass the exam",
+                    "explanation": "Nếu mà cô ấy học hành chăm chỉ thì cô ấy sẽ thi đỗ kỳ thi."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "Dấu hiệu thì tương lai đơn trong tiếng Anh",
+            "text": "Trong câu có chứa trạng từ thời gian: in + thời gian;  Next day/week/month/year; Tomorrow",
+            "example": [
+                {
+                    "original": "We’ll meet at school tomorrow",
+                    "explanation": "Ngày mai chúng ta sẽ gặp nhau ở trường."
+                },
+                {
+                    "original": "I will finish my work in 1 hour",
+                    "explanation": "Tôi sẽ hoàn thành công việc trong 1 giờ nữa."
+                },
+                {
+                    "original": "We will go to the beach next month",
+                    "explanation": "Chúng tôi sẽ đi biển vào tháng sau."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": " Trong câu có những động từ chỉ khả năng xảy ra: Think/suppose/believe/guess/Promise/Probably/Perhaps/Hope, expect",
+            "example":[
+                {
+                    "original": "I hope I will live abroad in the future ",
+                    "explanation": "Tôi hi vọng sau này sẽ sống ở nước ngoài."
+                },
+                {
+                    "original": "I promise I will go to school on time",
+                    "explanation": "Tôi hứa sẽ đi học đúng giờ."
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/06/thi-tuong-lai-don-5.webp",
+            "video_url": null
+        }
+    ]
+}

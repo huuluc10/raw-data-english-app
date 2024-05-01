@@ -1,0 +1,94 @@
+{
+    "title": "Cách rút gọn mệnh đề quan hệ",
+    "description": "Trong các câu mệnh đề quan hệ, dù văn nói hoặc văn viết thì bạn cũng có thể rút gọn câu. Dưới đây là cách rút gọn mệnh đề quan hệ đơn giản để bạn tham khảo.",
+    "content": [
+        {
+            "title": "1 Nếu đại từ quan hệ đóng vai trò là tân ngữ",
+            "text": "Đối với các mệnh đề quan hệ đóng vai trò là tân ngữ trong câu thì sẽ lược bỏ đại từ quan hệ, nếu có giới từ trước đại từ quan hệ thì đảo giới từ ra cuối mệnh đề.",
+            "example": [
+                {
+                    "original": "It is the best movie that my friend has ever seen"
+                },
+                {
+                    "original": "-> It is the best movie my friend has ever seen.",
+                    "explanation": "Đó là bộ phim hay nhất mà bạn tôi từng xem."
+                },
+                {
+                    "original": "I saw the boy whom my parents talked to yesterday"
+                },
+                {
+                    "original": "-> I saw the boy my parents talked to yesterday.",
+                    "explanation": "Đó là bộ phim hay nhất mà bạn tôi từng xem."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2 Nếu đại từ quan hệ đóng vai trò là chủ ngữ",
+            "text": "a. Rút gọn bằng cách dùng V-ing: Đối với trường hợp này, nếu mệnh đề quan hệ là mệnh đề chủ động thì sử dụng V-ing.",
+            "example": [
+                {
+                    "original": "The man who is standing over there is my father."
+                },
+                {
+                    "original": " -> The man standing over there is my father.",
+                    "explanation": "Người đàn ông đứng đằng kia là bố tôi."
+                },
+                {
+                    "original": "The couple who live next door to me are professors."
+                },
+                {
+                    "original": "-> The couple living next door to me are professors.",
+                    "explanation": "Cặp vợ chồng sống cạnh nhà tôi là giáo sư."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "b. Rút gọn bằng cách dùng V3/ed: Nếu mệnh đề quan hệ là mệnh đề bị động thì rút thành cụm quá khứ phân từ (V3/ed). ",
+            "example": [
+                {
+                    "original": "The instructions that are given on the front page are very important."
+                },
+                {
+                    "original": " -> The instructions given on the front page are very important.",
+                    "explanation": "Các hướng dẫn được đưa ra ở trang đầu là rất quan trọng."
+                },
+                {
+                    "original": "The book which was bought by my mother is interesting."
+                },
+                {
+                    "original": "-> The book bought by my mother is interesting.",
+                    "explanation": "Cuốn sách mẹ tôi mua rất thú vị."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "c.Rút gọn bằng cách dùng to Verb: Mệnh đề quan hệ được rút thành cụm động từ nguyên mẫu (To-infinitive) khi trước đại từ quan hệ có các cụm từ: the first, the second, the last, the only hoặc hình thức so sánh bậc nhất. ",
+            "example": [
+                {
+                    "original": "John was the last person that got the news"
+                },
+                {
+                    "original": "-> John was the last person to get the news.",
+                    "explanation": "John là người cuối cùng nhận được tin này."
+                },
+                {
+                    "original": "He was the best player that we admire"
+                },
+                {
+                    "original": "-> He was the best player to be admired.",
+                    "explanation": "Anh ấy là cầu thủ giỏi nhất được ngưỡng mộ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

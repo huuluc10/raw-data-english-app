@@ -1,0 +1,66 @@
+{
+    "title": "Vị trí của trạng từ trong tiếng Anh ",
+    "description": "Theo ngữ pháp tiếng Anh, trạng từ có thể xuất hiện ở các vị trí khác nhau trong câu. Dù không có vị trí cố định, nhưng cũng có quy tắc xác định vị trí của trạng từ trong câu. Vị trí của trạng từ trong tiếng Anh phụ thuộc nó bổ nghĩa cho tính từ, động từ hay trạng từ khác. ",
+    "content": [
+        {
+            "title": "Vị trí của trạng từ so với động từ",
+            "text": "Trạng từ trong tiếng anh đứng sau động từ để bổ trợ ý nghĩa cho động từ đó. Trường hợp này, trạng từ thường sẽ đứng ở cuối câu. ",
+            "example": [
+                {
+                    "original": "Nam drives the car carelessly.",
+                    "explanation": "Nam lái xe rất ẩu"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Một số trạng từ chỉ tần suất có thể đứng trước động từ nó bổ nghĩa.",
+            "example": [
+                {
+                    "original": "We often go to Vung Tau in the summertime.",
+                    "explanation": "Chúng tôi thường đến Vũng Tàu vào mùa hè"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Vị trí của trạng từ so với tính từ và trạng từ khác",
+            "text": "Trạng từ nằm trước tính từ làm gia tăng mức độ hoặc miêu tả bổ trợ cho tính từ.",
+            "example": [
+                {
+                    "original": "It’s a reasonably cheap restaurant, and the food was extremely good. ",
+                    "explanation": "Đó là nhà hàng rẻ hợp lý và đồ ăn thì đặc biệt ngon"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trạng từ đứng trước trạng từ khác nhằm cung cấp thêm thông tin cho động từ trước đó.",
+            "example": [
+                {
+                    "original": "Tom learns cooking terribly quickly.",
+                    "explanation": "Tom học nấu ăn nhanh kinh khủng"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Vị trí của trạng từ với cả câu",
+            "text": "Các trạng từ trong tiếng Anh đứng ở đầu câu bổ nghĩa cho cả câu",
+            "example": [
+                {
+                    "original": "Unfortunately, the restaurant was closed by the time I got here.",
+                    "explanation": "Thật đáng tiếc, nhà hàng đã đóng cửa khi tôi tới đó."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

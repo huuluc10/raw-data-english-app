@@ -1,0 +1,170 @@
+{
+    "title": "So sánh nhất (Superlative)",
+    "description": "So sánh nhất trong tiếng Anh (Superlative) được sử dụng để so sánh một người hoặc vật trong một nhóm đối tượng và đối tượng được nhắc đến sở hữu tính chất nổi bật, đặc biệt nhất. Để sử dụng công thức so sánh nhất, nhóm đối tượng so sánh cần có ít nhất 3 đối tượng trở lên.",
+    "content": [
+      {
+        "title": "1. So sánh nhất với tính từ/trạng từ ngắn",
+        "text": "Cấu trúc: S + V + the + Adj/adv + est",
+        "example": [
+          {
+            "original": "She is the tallest girl in the class.",
+            "explanation": "Cô ấy là cô gái cao nhất trong lớp."
+          },
+          {
+            "original": "He runs the fastest in the team.",
+            "explanation": "Anh ấy chạy nhanh nhất trong đội."
+          }
+        ],
+        "image_url": null,
+        "video_url": null
+      },
+      {
+        "title": "Lưu ý: Cách thêm đuôi -est sẽ khác nhau tùy theo từng trường hợp kết cấu của tính từ/trạng từ ngắn:",
+        "text": "Thêm đuôi -est vào sau các tính từ/trạng từ ngắn",
+        "example": [
+              {
+                "original": "Cold → coldest",
+                "explanation": "Lạnh → lạnh nhất"
+              },
+              {
+                "original": "Tall → tallest",
+                "explanation": "Cao → cao nhất"
+              }
+            ],
+        "image_url": null,
+        "video_url": null
+          },
+          {
+            "title": null,
+            "text": "Tính từ/trạng từ ngắn kết thúc bằng “e”, ta chỉ cần thêm đuôi -st:",
+            "examples": [
+              {
+                "original": "Large → largest",
+                "explanation": "Lớn → lớn nhất"
+              },
+              {
+                "original": "Nice → nicest",
+                "explanation": "Đẹp → đẹp nhất"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+          },
+          {
+            "title": null,
+            "text": "Tính từ/Trạng từ có 2 âm tiết kết thúc bằng phụ âm \"y\", ta đổi \"y\" thành \"i\" và thêm đuôi -est:",
+            "examples": [
+              {
+                "original": "Happy → happiest",
+                "explanation": "Hạnh phúc → hạnh phúc nhất"
+              },
+              {
+                "original": "Funny → funniest",
+                "explanation": "Hài hước → hài hước nhất"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+      },
+      {
+        "title": "2. So sánh nhất với tính từ/trạng từ dài",
+        "text": "Cấu trúc: S + V + the most + Adj/adv",
+        "example": [
+          {
+            "original": "She is the most beautiful girl in the room.",
+            "explanation": "Cô ấy là cô gái xinh đẹp nhất trong phòng."
+          },
+          {
+            "original": "He plays the piano the most skillfully in the orchestra.",
+            "explanation": "Anh ấy chơi piano thành thạo nhất trong dàn nhạc."
+          }
+        ],
+        "image_url": null,
+        "video_url": null
+      },
+      {
+        "title": "Lưu ý",
+        "text": "Khi muốn nhấn mạnh, chúng ta có thể thêm “by far” vào công thức so sánh nhất:",
+        "example": [
+          {
+            "original": "He speaks English the most fluently among all the students by far.",
+            "explanation": "Anh ấy nói tiếng Anh thành thạo nhất trong số tất cả các sinh viên một cách rõ rệt."
+          }
+        ],
+        "image_url": null,
+        "video_url": null
+      },
+      {
+        "title": "3. So sánh kém nhất",
+        "text": "Tương tự như so sánh hơn, so sánh nhất cũng bao gồm so sánh kém nhất. Để hình thành cấu trúc so sánh kém nhất, ta chỉ cần thay “the most” thành “the least”",
+        "example": [
+          {
+            "original": "She is the least patient person I know.",
+            "explanation": "Cô ấy là người ít kiên nhẫn nhất mà tôi biết."
+          },
+          {
+            "original": "He runs the least quickly among all the athletes.",
+            "explanation": "Anh ấy chạy nhanh nhất ít nhất trong số tất cả các vận động viên."
+          }
+        ],
+        "image_url": null,
+        "video_url": null
+      },
+      {
+        "title": "Ngoài ra, bạn cũng cần lưu ý một số trường hợp đặc biệt sau:",
+        "text": "Một số tính từ bất quy tắc trong so sánh nhất:",
+        "example": [
+              {
+                "original": "good → best",
+                "explanation": "Tốt → tốt nhất"
+              },
+              {
+                "original": "bad → worst",
+                "explanation": "Xấu → tệ nhất"
+              },
+              {
+                "original": "far → farthest/furthest",
+                "explanation": "Xa → xa nhất/xa nhất"
+              },
+              {
+                "original": "near → nearest/nearest",
+                "explanation": "Gần → gần nhất/gần nhất"
+              }
+            ],
+        "image_url": null,
+        "video_url": null
+          },
+          {
+            "title": "So sánh nhất với tính từ kép:",
+            "examples": [
+              {
+                "original": "more careful → most careful",
+                "explanation": "Cẩn thận hơn → cẩn thận nhất"
+              },
+              {
+                "original": "most interesting",
+                "explanation": "Thú vị nhất"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+          },
+          {
+            "title": "So sánh nhất với những từ chỉ số lượng:",
+            "examples": [
+              {
+                "original": "the most people",
+                "explanation": "Nhiều người nhất"
+              },
+              {
+                "original": "the most money",
+                "explanation": "Nhiều tiền nhất"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+          }
+        ]
+      }
+
+  

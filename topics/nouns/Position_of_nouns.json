@@ -1,0 +1,76 @@
+{
+    "title": " Vị trí của danh từ trong câu",
+    "description": "Khi đã hiểu chức năng của các danh từ trong tiếng Anh, bạn cần biết cách sử dụng chúng,  trước danh từ là gì và sau danh từ là từ loại gì trong tiếng Anh. Danh từ có thể đứng nhiều vị trí khác nhau trong câu. ",
+    "content": [
+        {
+            "title": "1. Đứng sau mạo từ",
+            "text": "Danh từ đứng sau mạo từ như a, an, the. Trong trường hợp này thì giữa mạo từ và danh từ thường sẽ có tính từ bổ nghĩa.",
+            "example": [
+                {
+                    "original": "A lovely girl.",
+                    "explanation": "Một cô gái dễ thương"
+                }, {
+                    "original": "A good boy.",
+                    "explanation": "Một chàng trai tốt"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Đứng sau tính từ sở hữu",
+            "text": "Danh từ đứng sau tính từ sở hữu cách như your, my, his, her, its, our, their,… Ở giữa tính từ sở hữu với danh từ thường sẽ có tính từ bổ nghĩa đi kèm.",
+            "example": [
+                {
+                    "original": "My old computer",
+                    "explanation": "Máy tính cũ của tôi"
+                }, {
+                    "original": "Her black hat.",
+                    "explanation": "Chiếc nón đen của cô ấy"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Đứng sau từ chỉ số lượng",
+            "text": "Danh từ đứng sau từ chỉ số lượng. Các từ đó có thể là little, few, some, many, any all…",
+            "example": [
+                {
+                    "original": "I need some milk.",
+                    "explanation": "Tôi cần một chút sữa"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":"4. Đứng sau giới từ",
+            "text": "Vị trí của danh từ trong tiếng Anh là đứng sau giới từ như in, for, of, under,… Chức năng của danh từ lúc này là bổ nghĩa cho giới từ.",
+            "example": [
+                {
+                    "original": "We need a good solution to that problem.",
+                    "explanation": "Chúng tôi cần một giải pháp tốt cho vấn đề đó."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "5. Đứng sau từ hạn định",
+            "text": "Danh từ có thể được đặt đứng sau một vài từ hạn định. Các từ đó là this, that, these, those, both,…",
+            "example": [
+                {
+                    "original": "That girl look so cute.",
+                    "explanation": "Cô gái đó trông thật dễ thương."
+                },
+                {
+                    "original": "I like this book.",
+                    "explanation": "Tôi thích quyển sách này."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

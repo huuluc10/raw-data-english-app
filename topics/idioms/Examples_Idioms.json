@@ -1,0 +1,186 @@
+{
+    "title": "Một vài thành ngữ thường gặp trong tiếng Anh",
+    "description": null,
+    "content": [
+        {
+            "title": "To take after someone",
+            "text": "Giống ai đó, thường là về ngoại hình hoặc tính cách. ",
+            "example": [
+                {
+                    "original": "My son takes after his father in his love of music.",
+                    "explanation": "Con trai tôi giống cha ở chỗ yêu thích âm nhạc."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "The apple doesn't fall far from the tree",
+            "text": "Con cái thường giống cha mẹ.",
+            "example": [
+                {
+                    "original": "It's no surprise she's a talented artist - the apple doesn't fall far from the tree.",
+                    "explanation": "Không có gì ngạc nhiên khi cô ấy là một nghệ sĩ tài năng - con cái thường giống cha mẹ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "A penny for your thoughts",
+            "text": "Nghĩ gì thế?",
+            "example": [
+                {
+                    "original": "You've been staring at that painting for ages. A penny for your thoughts?",
+                    "explanation": "Bạn nhìn chằm chằm vào bức tranh đó cả tiếng rồi. Nghĩ gì thế?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Beat around the bush",
+            "text": "Nói vòng vo, né tránh vấn đề",
+            "example": [
+                {
+                    "original": "Just tell me the truth, don't beat around the bush.",
+                    "explanation": "Hãy nói cho tôi sự thật, đừng nói vòng vo."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Break a leg",
+            "text": "Chúc may mắn",
+            "example": [
+                {
+                    "original": "Break a leg in your presentation tomorrow!",
+                    "explanation": "Chúc may mắn cho bài thuyết trình của bạn ngày mai!"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cost an arm and a leg",
+            "text": "Rất đắt",
+            "example": [
+                {
+                    "original": "That car costs an arm and a leg, I can't afford it.",
+                    "explanation": "Chiếc xe đó rất đắt, tôi không đủ tiền mua."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cut corners",
+            "text": "Làm ẩu, làm cho nhanh",
+            "example": [
+                {
+                    "original": "We need to be careful not to cut corners when building this house.",
+                    "explanation": "Chúng ta cần cẩn thận không được làm ẩu khi xây dựng ngôi nhà này."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Get off on the wrong foot",
+            "text": "Bắt đầu không tốt",
+            "example": [
+                {
+                    "original": "She got off on the wrong foot with her new boss by being late for her first day of work.",
+                    "explanation": "Cô ấy đã bắt đầu không tốt với ông chủ mới bằng cách đi làm muộn vào ngày đầu tiên làm việc."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Give up the ghost",
+            "text": "Chết, bỏ cuộc",
+            "example": [
+                {
+                    "original": "The old car finally gave up the ghost after years of faithful service.",
+                    "explanation": "Chiếc ô tô cũ cuối cùng cũng hỏng hóc sau nhiều năm phục vụ tận tâm."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Go off on one",
+            "text": "Bỗng nhiên nổi giận, cáu kỉnh",
+            "example": [
+                {
+                    "original": "He's always going off on one when things don't go his way.",
+                    "explanation": "Anh ấy luôn nổi giận khi mọi việc không theo ý anh ấy."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "In a nutshell",
+            "text": "Tóm lại",
+            "example": [
+                {
+                    "original": "In a nutshell, the movie was a disappointment.",
+                    "explanation": "Tóm lại, bộ phim là một sự thất vọng."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Jump the gun",
+            "text": "Hành động vội vàng",
+            "example": [
+                {
+                    "original": "He jumped the gun and started answering the questions before the teacher had even finished asking them.",
+                    "explanation": "Anh ấy đã vội vàng trả lời các câu hỏi trước khi giáo viên kịp hỏi xong."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Keep your chin up",
+            "text": "Vui vẻ lên, đừng nản lòng",
+            "example": [
+                {
+                    "original": "Things are tough right now, but keep your chin up. It will get better.",
+                    "explanation": "Mọi việc đang khó khăn, nhưng hãy vui vẻ lên. Nó sẽ tốt hơn."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Let the cat out of the bag",
+            "text": "Tiết lộ bí mật",
+            "example": [
+                {
+                    "original": "Be careful not to let the cat out of the bag about the surprise party.",
+                    "explanation": "Hãy cẩn thận không tiết lộ bí mật về bữa tiệc bất ngờ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Make a mountain out of a molehill",
+            "text": "Làm quá toáng chuyện nhỏ",
+            "example": [
+                {
+                    "original": "Don't make a mountain out of a molehill. It's not a big deal.",
+                    "explanation": "Đừng làm quá toáng chuyện nhỏ. Đó không phải là vấn đề lớn."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

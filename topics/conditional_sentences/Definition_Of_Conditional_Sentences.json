@@ -1,0 +1,42 @@
+{
+    "title": "Câu Điều Kiện trong Tiếng Anh",
+    "description": "Câu điều kiện (Conditional sentences) là dạng câu được sử dụng để diễn tả một giả thiết về một sự việc có thể xảy ra trong trường hợp có một điều kiện cụ thể nào đó.",
+    "content": [
+        {
+            "title": "Định nghĩa",
+            "text": "Câu điều kiện là dạng câu sử dụng để diễn tả một giả thiết về một sự việc có thể xảy ra trong trường hợp có một điều kiện cụ thể nào đó. Cấu trúc cơ bản của câu điều kiện bao gồm hai mệnh đề: mệnh đề điều kiện và mệnh đề kết quả.",
+            "example": [
+                {
+                    "original": "If the weather is nice, we will go to the beach.",
+                    "explanation": " Nếu thời tiết đẹp, chúng ta sẽ đi biển."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cấu trúc",
+            "text": "Câu điều kiện thường có cấu trúc là một câu phức gồm hai mệnh đề: Mệnh đề \"Nếu\" - mô tả tình huống một điều có thể xảy ra hoặc không xảy ra. Mệnh đề này còn được gọi là 'if clause' .Mệnh đề \"thì\" - thể hiện kết quả kéo theo. Mệnh đề này còn được gọi là 'main clause'",
+            "example": [
+                {
+                    "original": "If you study hard, you will get good grades.",
+                    "explanation": " Nếu bạn học tập chăm chỉ, bạn sẽ đạt điểm cao."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Lưu ý",
+            "text": "Trong nhiều trường hợp, mệnh đề chính có thể được đảo lên trước mà không làm thay đổi ngữ nghĩa của câu. Lúc này, giữa hai mệnh đề sẽ không còn dấu phẩy.",
+            "example": [
+                {
+                    "original": "The football match will be canceled if it rains.",
+                    "explanation": "Trận bóng đá sẽ bị huỷ nếu trời mưa."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

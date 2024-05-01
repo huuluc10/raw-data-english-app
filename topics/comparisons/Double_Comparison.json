@@ -1,0 +1,51 @@
+{
+    "title": "Cấu trúc So sánh Kép :Càng...Càng ",
+    "description": "Cấu trúc so sánh kép  Càng...Càng  được sử dụng để diễn tả sự thay đổi của một đặc điểm, tính chất hoặc hành động theo hai hướng: tăng dần hoặc giảm dần.",
+    "content": [
+      {
+        "title": "Đặc điểm",
+        "text": "Cấu trúc  Càng...Càng  bao gồm hai mệnh đề, trong đó hai sự việc được diễn tả trong hai mệnh đề này có liên quan đến nhau: Sự thay đổi của hiện tượng ở vế đầu dẫn đến sự thay đổi ở hiện tượng vế sau. Cả hai vế câu đều bắt đầu bằng từ  The .",
+        "example": [
+          {
+            "original": "The faster he runs, the closer he gets to the finish line.",
+            "explanation": "Càng chạy nhanh hơn, anh ấy càng gần đến đích."
+          },
+          {
+            "original": "The hotter the weather gets, the thirstier I become. ",
+            "explanation": "Thời tiết càng nóng, tôi càng khát nước."
+          }
+        ],
+        "image_url":"https://langmaster.edu.vn/storage/images/2022/08/18/so-sanh-kep-1.webp",
+        "video_url": null
+      },
+      {
+        "title": "Cấu trúc",
+        "text": "Đối với tính từ/trạng từ ngắn:The Adj/adv - er + S1 + V, The Adj/adv - er + S2 + V",
+        "example": [
+          {
+            "original": "The more enthusiastically you are, the more rewarding the outcomes will be.",
+            "explanation": "Càng nhiệt tình tiếp cận những thách thức, kết quả càng đáng khen ngợi."
+          },
+          {
+            "original": "The more passionate she becomes, the more inspiring her speeches are.",
+            "explanation": "Càng đam mê hơn, bài diễn thuyết của cô ấy càng truyền cảm hứng hơn."
+          }
+        ],
+        "image_url":"https://langmaster.edu.vn/storage/images/2022/08/18/so-sanh-kep-2.webp",
+        "video_url": null
+      },
+      {
+        "title": "Lưu ý",
+        "text": "Hai vế trong câu không bắt buộc phải bao gồm một loại tính từ/trạng từ ngắn hoặc dài. Chúng ta có thể sử dụng tính từ/trạng từ ngắn ở vế trước, tính từ/trạng từ dài ở vế sau và ngược lại. Tuy nhiên, luôn đảm bảo hai vế câu đều ở dạng so sánh hơn.",
+        "example": [
+          {
+            "original": "The more I learn about history, the more fascinated I become by the complexities of human nature.",
+            "explanation": "Càng học về lịch sử, tôi càng bị cuốn hút bởi sự phức tạp của bản chất con người."
+          }
+        ],
+        "image_url": null,
+        "video_url": null
+      }
+    ]
+  }
+  

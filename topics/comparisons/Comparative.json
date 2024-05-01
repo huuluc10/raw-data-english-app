@@ -1,0 +1,128 @@
+{
+    "title": "So sánh hơn (Comparative)",
+    "description": "So sánh hơn trong tiếng Anh (Comparative) được sử dụng khi muốn so sánh một đối tượng này với một đối tượng khác và biểu thị rằng một trong số chúng có đặc điểm nào đó vượt trội hơn so với cái kia, ví dụ như to hơn, đẹp hơn, cao hơn,...",
+    "content": [
+        {
+            "title": "1. So sánh hơn với tính từ/trạng từ ngắn",
+            "text": "Cấu trúc:  S + V + Adj/Adv + -er + than + mệnh đề/ tân ngữ/ danh từ",
+            "example":null,
+            "image_url":"https://langmaster.edu.vn/storage/images/2023/07/07/cong-thuc-so-sanh-hon.webp",
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Mô tả chung: big, nice, intelligent, smart, beautiful, tall, small,...",
+            "example":[
+                {
+                    "original": " Jenny is taller than her brother.",
+                    "explanation": "Jenny cao hơn anh trai cô ấy."
+                },
+                {
+                    "original": "She sings louder than him. ",
+                    "explanation": "Cô ấy hát to hơn anh ta."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lưu ý: Cần biến đổi thêm “er” phù hợp với các trường hợp tính từ/trạng từ ngắn khác nhau, cụ thể bao gồm những trường hợp sau:",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Những tính từ/trạng từ ngắn có 1 âm tiết, chúng ta chỉ cần thêm “er” vào sau từ đó để đúng với cấu trúc câu so sánh hơn",
+            "example":[
+                {
+                    "original":"fast → faster, old → older"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ/trạng từ ngắn kết thúc bằng một phụ âm đơn và có một nguyên âm trước nó, nhân đôi phụ âm đơn và thêm hậu tố -er.",
+            "example":[
+                {
+                    "original":"big → bigger, hot → hotter"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ/trạng từ ngắn kết thúc bằng -e, chỉ cần thêm hậu tố -r vào cuối tính từ/trạng từ đó. ",
+            "example":[
+                {
+                    "original":"large → larger, fine → finer "
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ/trạng từ 2 âm tiết kết thúc bằng -y, ta chuyển -y thành -i sau đó thêm đuôi -er. ",
+            "example": [
+                {
+                    "original": " easy → easier, lucky → luckier"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "2. So sánh hơn với tính từ/trạng từ dài",
+            "text": "Cấu trúc: S + V + more + Adj/ Adv + than",
+            "example":[
+                {
+                    "original": "The movie is more interesting than the book.",
+                    "explanation": "Bộ phim thú vị hơn cuốn sách."
+                },
+                {
+                    "original": "He speaks more fluently than his brother.",
+                    "explanation": "Anh ấy nói lưu loát hơn anh trai mình."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lưu ý: Để nhấn mạnh sự so sánh, chúng ta có thể thêm các từ “far”, “much”, “a lot” vào trước “more”",
+            "example":[
+                {
+                    "original": "This car is far more expensive than that one. ",
+                    "explanation": "Chiếc xe này đắt hơn rất nhiều so với chiếc kia."
+                },
+                {
+                    "original": "The new smartphone is a lot more advanced than the old one.",
+                    "explanation": "Chiếc điện thoại thông minh mới này tiên tiến hơn rất nhiều so với chiếc cũ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. So sánh kém hơn",
+            "text": "Cấu trúc: S + V + less + Adj/ Adv + than",
+            "example":[
+                {
+                    "original": "The novel is less captivating than the movie.",
+                    "explanation": "Cuốn tiểu thuyết không hấp dẫn hơn bộ phim."
+                },
+                {
+                    "original": "The novel is less captivating than the movie. ",
+                    "explanation": "Cuốn tiểu thuyết không hấp dẫn hơn bộ phim."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

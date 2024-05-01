@@ -1,0 +1,37 @@
+{
+    "title": "Mệnh đề quan hệ (Relative clause)",
+    "description": "Mệnh đề quan hệ (Relative clause) là một thành phần quan trọng trong cấu trúc câu, thường gặp trong các kỳ thi THPT Quốc gia hoặc thi Toeic, IELTS. Tuy nhiên, mệnh đề quan hệ là gì? Cách rút gọn mệnh đề quan hệ như thế nào? Hãy cùng tìm hiểu ngay dưới đây.",
+    "content": [
+        {
+            "title": "Định nghĩa mệnh đề quan hệ (Relative clause)",
+            "text": "Mệnh đề quan hệ (Relative clause) là mệnh đề phụ dùng để nối với mệnh đề chính thông qua các đại từ quan hệ, trạng từ quan hệ. Mệnh đề quan hệ thường đứng sau các đại từ, danh từ nhằm bổ nghĩa và giải thích rõ hơn cho danh từ, đại từ đó. ",
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/06/menh-de-quan-he-1.webp",
+            "video_url": null
+        },
+        {
+            "title": "Trong 1 câu, chủ ngữ (S) và tân ngữ (O) sẽ là các đại từ hoặc danh từ, do đó mệnh đề quan hệ sẽ đứng sau chủ ngữ hoặc tân ngữ",
+            "text": "Cấu trúc câu với mệnh đề quan hệ đứng sau chủ ngữ: S + MĐQH + V + O",
+            "example": [
+                {
+                    "original": " The man who is working so hard is my boss (Người đàn ông người mà đang làm việc rất chăm chỉ là sếp của tôi).",
+                    "explanation": "=> Cụm: “who is working so hard” là mệnh đề quan hệ, bổ nghĩa cho chủ ngữ “the man”, để người đọc có thể hiểu người đàn ông đó là người nào và như thế nào."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Cấu trúc câu với mệnh đề quan hệ đứng sau tân ngữ: S + V + O +MĐQH",
+            "example": [
+                {
+                    "original": "I really like the dress which my friend gave me for my 18th birthday. (Tôi thực sự rất thích chiếc váy mà bạn tôi tặng tôi vào sinh nhật năm 18 tuổi.)",
+                    "explanation": "=> Cụm: “which my friend gave me for my 18th birthday” là mệnh đề quan hệ, bổ nghĩa cho tân ngữ “the dress”, để người đọc có thể hiểu đó là chiếc váy nào."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

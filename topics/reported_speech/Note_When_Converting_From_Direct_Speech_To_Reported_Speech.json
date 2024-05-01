@@ -1,0 +1,64 @@
+{
+    "title": "Lưu ý khi chuyển từ câu trực tiếp sang câu tường thuật",
+    "description": null,
+    "content": [
+        {
+            "title": "1. Nếu động từ tường thuật ở thì hiện tại",
+            "text": "Trong trường hợp các động từ tường thuật được chia ở nhóm thì hiện tại, chúng ta sẽ giữ nguyên thì của động từ chính, đại từ chỉ định, trạng từ chỉ nơi chốn và trạng từ chỉ thời gian khi chuyển chúng sang cấu trúc câu tường thuật.",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"He says: “I’m going to New York next weekend.\"",
+                  "explanation": "Anh ấy nói: “Tôi sẽ đến New York vào cuối tuần tới.”"
+                },
+                {
+                  "original": "Câu tường thuật: He says he is going to New York next weekend.",
+                  "explanation": "Anh ấy nói rằng anh ấy sẽ đến New York vào cuối tuần tới."
+                }
+              ]
+              ,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Nếu động từ tường thuật ở thì quá khứ",
+            "text": "Nếu động từ tường thuật trong câu lại ở thì quá khứ, thì khi viết câu tường thuật, động từ chính sẽ lùi 1 bậc về quá khứ theo nguyên tắc sau: ",
+            "image_url": "https://thuvientoan.net/upload/images/bang%201.png",
+            "example":[
+                {
+                  "original": "Câu trực tiếp: \"I’ll talk to your boss,\" he said.",
+                  "explanation": "Anh ấy nói: “Tôi sẽ nói chuyện với sếp của bạn.”"
+                },
+                {
+                  "original": "Câu tường thuật: He said he would talk to my boss.",
+                  "explanation": "Anh ấy nói rằng anh ấy sẽ nói chuyện với sếp của tôi."
+                }
+              ]
+              ,
+            "video_url": null
+        },
+        {
+            "title": "3. Các động từ đặc biệt",
+            "text": "Trong các câu tường thuật thông thường, vẫn có một số động từ không thay đổi khi chuyển sang lời nói gián tiếp như would, could, might, should, ought to.",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "4. Chuyển đổi trạng từ thời gian và nơi chốn",
+            "text": "Trong trường hợp động từ tường thuật ở thì quá khứ thì khi chuyển sang cấu trúc câu tường thuật trong Tiếng Anh, các trạng từ chỉ thời gian, nơi chốn và đại từ chỉ định sẽ thay đổi như sau:",
+            "image_url": "https://langmaster.edu.vn/storage/images/2023/07/18/tong-hop-bai-tap-cau-gian-tiep-hay-nhat-co-dap-an-4.webp",
+            "example":[
+                {
+                  "original": "Câu trực tiếp: “I’m leaving here tomorrow,” said Jane.",
+                  "explanation": "Jane nói: “Tôi sẽ rời khỏi đây vào ngày mai”"
+                },
+                {
+                  "original": "Câu tường thuật: Jane said (that) she was leaving there the next day.",
+                  "explanation": "Jane nói rằng cô ấy sẽ rời khỏi đó vào ngày mai."
+                }
+              ]
+              ,
+            "video_url": null
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "title": "Tục ngữ tiếng Anh (Proverb)",
+    "description": "Cũng giống như tiếng Việt, kho tàng tục ngữ tiếng Anh vô cùng phong phú và ý nghĩa.",
+    "content": [
+        {
+            "title": "Ca dao tục ngữ tiếng Anh là gì?",
+            "text": "Tục ngữ tiếng Anh (Proverb) là những câu nói ngắn gọn, trực tiếp diễn tả về một sự thật, một điều mang ý nghĩa khuyên nhủ, răn dạy và hướng mọi người cư xử, hành động đúng đắn theo đạo đức.",
+            "example": [
+                {
+                    "original": "In rome do as Romans do. ",
+                    "explanation": "Nhập gia tùy tục."
+                },
+                {
+                    "original": "It never rains but it pours.",
+                    "explanation": "Phúc bất trùng lai - Họa vô đơn chí."
+                },
+                {
+                    "original": "Silence is gold.",
+                    "explanation": "Im lặng là vàng."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }
+    ]
+}

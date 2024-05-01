@@ -1,0 +1,347 @@
+{
+    "title": "Một số dạng đặc biệt của câu bị động trong Tiếng Anh",
+    "description": "Ngoài những dạng thức thông thường, câu bị động cũng có một số dạng đặc biệt mà bạn cần lưu ý.",
+    "content": [
+        {
+            "title": "Dưới đây là một số cấu trúc câu bị động đặc biệt trong Tiếng Anh.",
+            "text": null,
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2023/11/23/cau-truc-cau-bi-dong-dac-biet.webp",
+            "video_url": null
+        },
+        {
+            "title": "1. Câu bị động với 2 tân ngữ: S + V + O1 + O2",
+            "text": " TH1: Đưa tân ngữ gián tiếp lên làm chủ ngữ trong câu bị động:S + be + Vpp + O1",
+            "example": [
+                {
+                    "original": "Tommy bought his wife a trench coat yesterday.",
+                    "explanation": " Tommy mua cho vợ của anh ấy một chiếc áo khoác dáng dài tuyệt đẹp vào hôm qua."
+                },
+                {
+                    "original": "➤ A beautiful trench coat was bought for Tommy's wife yesterday.",
+                    "explanation": "Một chiếc áo khoác dáng dài tuyệt đẹp được mua cho vợ của Tommy vào hôm qua."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "TH2: Đưa tân ngữ trực tiếp lên làm chủ ngữ trong câu bị động:S + be + Vpp + giới từ + O2",
+            "example": [
+                {
+                    "original": "Tommy bought his wife a trench coat yesterday.",
+                    "explanation": " Tommy mua cho vợ của anh ấy một chiếc áo khoác dáng dài tuyệt đẹp vào hôm qua."
+                },
+                {
+                    "original": "➤  Tommy's wife was bought a beautiful trench coat yesterday.",
+                    "explanation": "Vợ của Tommy được mua cho một chiếc áo khoác dáng dài tuyệt đẹp vào hôm qua."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2.Câu bị động với V + V-ing: V + somebody + V-ing",
+            "text": "⟶ Công thức ở dạng bị động: V +somebody/something + being + V(P2)",
+            "example": [
+                {
+                  "original": "John loves trying new things.",
+                  "explanation": "John thích thử những thứ mới lạ."
+                },
+                {
+                  "original": "➤ John loves new things being tried.",
+                  "explanation": "John thích những thứ mới lạ được thử."
+                },
+                {
+                  "original": "I regret not eating a lot of vegetables.",
+                  "explanation": "Tôi hối tiếc đã không ăn thật nhiều rau."
+                },
+                {
+                  "original": "➤ I regret a lot of vegetables not being eaten.",
+                  "explanation": "Tôi hối tiếc thật nhiều rau đã không được ăn."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Câu bị động với động từ tri giác: see, watch, notice, hear, look…",
+            "text": "Công thức ở dạng chủ động: S + V + somebody + V-ing/to V-inf ⟶ Công thức ở dạng bị động: S + to be + V(P2) + V-ing/to V-inf",
+            "example": [
+                {
+                  "original": "My sister saw me leaving the house early today.",
+                  "explanation": "Chị gái tôi thấy tôi rời khỏi nhà sớm vào hôm nay."
+                },
+                {
+                  "original": "➤ I was seen leaving the house early by my sister today.",
+                  "explanation": "Tôi bị thấy rời khỏi nhà sớm vào hôm nay bởi chị gái tôi."
+                },
+                {
+                  "original": "I hear someone singing my favorite song.",
+                  "explanation": "Tôi nghe thấy ai đó hát ca khúc yêu thích của tôi."
+                },
+                {
+                  "original": "➤ Someone is heard singing my favorite song.",
+                  "explanation": "Ai đó bị nghe thấy hát ca khúc yêu thích của tôi."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "4. Dạng bị động của câu mệnh lệnh",
+            "text": "Trường hợp 1: Công thức ở dạng chủ động: V + O! ⟶ Công thức ở dạng bị động: Let + O + be + V(p2)",
+            "example": [
+                {
+                  "original": "Turn down the radio!",
+                  "explanation": "Vặn nhỏ đài đi!"
+                },
+                {
+                  "original": "➤ Let the radio be turned off!",
+                  "explanation": "Hãy để đài được vặn nhỏ!"
+                },
+                {
+                  "original": "Close your book!",
+                  "explanation": "Đóng sách của bạn lại!"
+                },
+                {
+                  "original": "➤ Let your book be closed!",
+                  "explanation": "Hãy để sách của bạn được đóng lại!"
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trường hợp 2: Công thức ở dạng chủ động: It’s one’s duty to + V-inf ⟶ Công thức ở dạng bị động: S + to be + supposed to+V inf",
+            "example": [
+                {
+                  "original": "It's your duty hang the clothes every day.",
+                  "explanation": "Phơi quần áo mỗi ngày là nhiệm vụ của con."
+                },
+                {
+                  "original": "➤ You’re supposed to hang the clothes every day.",
+                  "explanation": "Con cần phải phơi quần áo mỗi ngày."
+                },
+                {
+                  "original": "It's students’ duty to finish their homework.",
+                  "explanation": "Hoàn thành bài tập về nhà là nhiệm vụ của các học sinh."
+                },
+                {
+                  "original": "➤ Students are supposed to finish their homework.",
+                  "explanation": "Các học sinh cần phải hoàn thành bài tập về nhà."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Trường hợp 3:Công thức ở dạng chủ động: It’s necessary to + V-inf ⟶ Công thức ở dạng bị động: S + should/ must + be +P2",
+            "example": [
+                {
+                  "original": "It's necessary to protect the wild animal.",
+                  "explanation": "Bảo vệ động vật hoang dã là quan trọng."
+                },
+                {
+                  "original": "➤ The wild animal should be protected.",
+                  "explanation": "Động vật hoang dã cần phải được bảo vệ."
+                },
+                {
+                  "original": "It's necessary to stop cutting down trees.",
+                  "explanation": "Dừng chặt cây cối là cần thiết."
+                },
+                {
+                  "original": "➤ Cutting down trees must be stopped.",
+                  "explanation": "Chặt cây cối phải được dừng lại."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "5. Dạng bị động của câu sai khiến (nhờ ai làm gì)",
+            "text": "Trường hợp 1: Công thức ở dạng chủ động: S + have + somebody + V ⟶ Công thức ở dạng bị động: S + have + something + P2 + by sb",
+            "example": [
+                {
+                  "original": "I have my older brother fix my computer.",
+                  "explanation": "Tôi nhờ anh trai sửa máy tính của tôi."
+                },
+                {
+                  "original": "➤ I have my computer fixed by my older brother.",
+                  "explanation": "Tôi để máy tính của tôi được sửa bởi anh trai tôi."
+                },
+                {
+                  "original": "She had her friend submit her essay.",
+                  "explanation": "Cô ấy nhờ bạn cô ấy nộp bài luận."
+                },
+                {
+                  "original": "➤ She had her essay submitted by her friend.",
+                  "explanation": "Cô ấy để bài luận được nộp bởi bạn cô ấy."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trường hợp 2: Công thức ở dạng chủ động: S + get + somebody + to-V ⟶ Công thức ở dạng bị động: S + get + something + P2",
+            "example": [
+                {
+                  "original": "My mother got me to sweep the floor.",
+                  "explanation": "Mẹ tôi nhờ tôi quét sàn nhà."
+                },
+                {
+                  "original": "➤ My mother got the floor swept by me.",
+                  "explanation": "Mẹ tôi để sàn nhà được quét bởi tôi."
+                },
+                {
+                  "original": "My father gets me to pick my younger brother up after school every day.",
+                  "explanation": "Bố tôi nhờ tôi đón em trai sau giờ học mỗi ngày."
+                },
+                {
+                  "original": "➤ My father gets my younger brother picked up after school by me every day.",
+                  "explanation": "Bố tôi để em trai được đón sau giờ học bởi tôi mỗi ngày."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "6. Câu bị động với Make và Let/Allow",
+            "text":null,
+            "image_url":"https://langmaster.edu.vn/storage/images/2023/11/23/cau-truc-cau-bi-dong-dac-biet-1.webp",
+            "example":null,
+            "video_url": null
+        },
+        {
+            "title": "Câu bị động với Make",
+            "text": "Công thức ở dạng chủ động: S + make + sb + V-inf + O ⟶ Công thức ở dạng bị động: Sb + to be + made + to + V-inf + O",
+            "example": [
+              {
+                "original": "My teammates make me do the presentation on my own.",
+                "explanation": "Bạn cùng nhóm của tôi yêu cầu tôi tự mình làm bài thuyết trình."
+              },
+              {
+                "original": "➤ I am made to do the presentation on my own by my teammates.",
+                "explanation": "Tôi phải một mình làm bài thuyết trình theo yêu cầu của các bạn cùng nhóm."
+              },
+              {
+                "original": "They make me cook for everyone at the party alone.",
+                "explanation": "Họ bắt tôi nấu ăn cho mọi người trong bữa tiệc một mình."
+              },
+              {
+                "original": "➤ I am made to cook for everyone at the party alone.",
+                "explanation": "Tôi phải một mình nấu ăn cho mọi người trong bữa tiệc theo yêu cầu của họ."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Câu bị động với Let/Allow",
+            "text": "Công thức ở dạng chủ động: S + let/allow + Sb + V-inf + O. ⟶ Công thức ở dạng bị động: Sb + be + let/allowed + to V-inf + O.",
+            "example": [
+              {
+                "original": "My parents allow me to go out until 11 p.m.",
+                "explanation": "Bố mẹ tôi cho phép tôi ra ngoài đến 11 giờ tối."
+              },
+              {
+                "original": "➤ I am allowed to go out until 11 p.m by my parents.",
+                "explanation": "​Tôi được cho phép đi chơi đến 11 giờ đêm bởi bố mẹ."
+              },
+              {
+                "original": "My friends let me choose a restaurant for our dinner.",
+                "explanation": "Bạn bè của tôi cho để cho tôi chọn một nhà hàng cho bữa ăn tối của chúng tôi."
+              },
+              {
+                "original": "➤ I am let to choose a restaurant for our dinner by my friends.",
+                "explanation": "Tôi được bạn bè để cho chọn một nhà hàng cho bữa tối của chúng tôi."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "7. Câu bị động với 7 động từ đặc biệt ",
+            "text": "7 động từ đặc biệt bao gồm: suggest (đề nghị), recommend (giới thiệu), order (yêu cầu, ra lệnh), request (yêu cầu), require (đòi hỏi, yêu cầu), demand (đòi hỏi, yêu cầu), insist (khăng khăng đòi)",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Công thức ở dạng chủ động: S + suggest/recommend/demand… + that + S + (should) + V-inf + O. ⟶ Công thức ở dạng bị động: It + be + suggested/recommended/demanded… + that + S + (should) + be + V3/ed + O.",
+            "example": [
+              {
+                "original": "The tour guide recommends that we (should) prepare warm clothes.",
+                "explanation": "Hướng dẫn viên đề nghị chúng tôi (nên) chuẩn bị quần áo ấm."
+              },
+              {
+                "original": "➤ It is recommended that warm clothes (should) be prepared.",
+                "explanation": "Nên chuẩn bị quần áo ấm."
+              },
+              {
+                "original": "They suggest that we (should) visit Ha Long Bay in the summer.",
+                "explanation": "Họ gợi ý rằng chúng tôi (nên) đến thăm Vịnh Hạ Long vào mùa hè."
+              },
+              {
+                "original": "➤ It is suggested that Ha Long Bay (should) be visited in the summer.",
+                "explanation": "Nên đến thăm Vịnh Hạ Long vào mùa hè."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "8.Câu bị động với chủ ngữ giả It",
+            "text": "Công thức ở dạng chủ động: It + be + adj + for sb + to V + to do something ⟶ Công thức ở dạng bị động: It + be + adj + for sth + to be V3/ed.",
+            "example": [
+              {
+                "original": "It is difficult for old people to learn a new language.",
+                "explanation": "Việc người già học một ngôn ngữ mới rất khó khăn."
+              },
+              {
+                "original": "➤ It is difficult for a new language to be learned by old people.",
+                "explanation": "Một ngôn ngữ mới được học bởi người già thì khó khăn."
+              },
+              {
+                "original": "It is typical for girls to play with dolls.",
+                "explanation": "Việc các bé gái chơi búp bê là điều bình thường."
+              },
+              {
+                "original": "➤ It is typical for dolls to be played by girls.",
+                "explanation": "Việc búp bê được chơi bởi các bé gái là điều bình thường."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "9.Cấu trúc câu bị động với động từ khiếm khuyết",
+            "text": "Cấu trúc chung: S + modal verb + be + V3 (+ by O)",
+            "example": [
+              {
+                "original": "His careless driving may cause an accident.",
+                "explanation": "Lối lái xe ẩu của anh ta có thể gây tai nạn."
+              },
+              {
+                "original": "➤ An accident may be caused by his careless driving.",
+                "explanation": "Tai nạn có thể được gây ra bởi lối lái xe ẩu của anh ta."
+              },
+              {
+                "original": "You should leave a message before leaving.",
+                "explanation": "Bạn nên để lại một lời nhắn trước khi rời đi.​"
+              },
+              {
+                "original": "➤  A message should be left before leaving.",
+                "explanation": "Một lời nhắn nên được để lại trước khi rời đi."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

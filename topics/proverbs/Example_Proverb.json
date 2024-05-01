@@ -1,0 +1,50 @@
+{
+    "title": "Một vài tục ngữ thường gặp trong tiếng Anh",
+    "description": null,
+    "content": [
+        {
+            "title": null,
+            "text": null,
+            "example": [
+                {
+                    "original": "Courtesy costs nothing",
+                    "explanation": "Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau"
+                },
+                {
+                    "original": "A friend in need is a friend indeed",
+                    "explanation": "Hoạn nạn mới biết bạn hiền"
+                },
+                {
+                    "original": "An oz of luck is better than a pound of wisdom",
+                    "explanation": "Mèo mù vớ cá rán"
+                },
+                {
+                    "original": "A stranger nearby is better than a far-away relative",
+                    "explanation": "Anh em xa không bằng láng giềng gần"
+                },
+                {
+                    "original": "A bad beginning makes a bad ending",
+                    "explanation": "Đầu xuôi đuôi lọt"
+                },
+                {
+                    "original": "A clean fast is better than a dirty breakfast",
+                    "explanation": "Đói cho sạch, rách cho thơm"
+                },
+                {
+                    "original": "The rotten apple harms its neighbors",
+                    "explanation": "Con sâu làm rầu nồi canh"
+                },
+                {
+                    "original": "Empty barrels make the most noise",
+                    "explanation": "Thùng rỗng kêu to"
+                },
+                {
+                    "original": "Walls have ears",
+                    "explanation": "Tai vách mạch rừng"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

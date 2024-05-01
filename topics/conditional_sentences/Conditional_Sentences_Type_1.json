@@ -1,0 +1,57 @@
+{
+    "title":"Câu điều kiện loại 1 (Conditional sentences type 1)",
+    "description": "Câu điều kiện loại 1 được hiểu là là câu điều kiện có thực ở thì hiện tại với điều kiện có thể xảy ra trong hiện tại hoặc tương lai.",
+    "content":[
+        {
+            "title": "Công thức câu điều kiện loại 1",
+            "text": "If + S+ V(s/es) +…, S+ will + V(bare) +…",
+            "image_url":  "https://langmaster.edu.vn/storage/images/2022/10/28/hoc-cau-dieu-kien-trong-tieng-anh.webp",
+            "example": null,
+            "video_url": null
+        },
+        {
+            "title": "Cách sử dụng",
+            "text": "Diễn tả kết quả của một sự việc có thể xảy ra trong hiện tại hoặc tương lai",
+            "image_url":null,
+            "example": [
+                {
+                    "original": "If I have enough money, I will buy the most luxurious car model.",
+                    "explanation": "Nếu tôi có đủ tiền, tôi sẽ mua mẫu xe hơi sang trọng nhất."
+                },
+                {
+                    "original": "If you study hard, you will pass the exam.",
+                    "explanation": "Nếu tôi học chăm, tôi sẽ vượt qua kì thi."
+                },
+                {
+                    "original": "If she is tired, she won't go to the party.",
+                    "explanation": "Nếu cô ấy mệt thì cô ấy sẽ không tới bữa tiệc."
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text":"Diễn tả sự cho phép, đồng ý,... khi dùng với “may/can + V(bare)”",
+            "example": [
+                {
+                    "original": "If it’s not rainy, you guys may play football outside.",
+                    "explanation": "Nếu trời không mưa, các con có thể chơi đá bóng ở ngoài."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Thể hiện lời đề nghị, yêu cầu, gợi ý, khuyên nhủ khi sử dụng “must/have to/ought to/should/… + V(bare)”",
+            "example": [
+                {
+                    "original": "If you want to have high marks, you must be more hard-working.",
+                    "explanation": "Nếu bạn muốn có điểm cao, bạn phải chăm học hơn."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }
+    ]
+}

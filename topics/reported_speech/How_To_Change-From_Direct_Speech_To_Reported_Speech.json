@@ -1,0 +1,137 @@
+{
+    "title": "Cách chuyển từ câu trực tiếp sang câu tường thuật",
+    "description": "Để chuyển từ câu trực tiếp sang câu tường thuật trong tiếng Anh, chúng ta cần thực hiện 3 bước thay đổi về thì, đại từ và thêm từ tường thuật. Dưới đây là hướng dẫn cụ thể các bước cách làm câu tường thuật:",
+    "content": [
+        {
+            "title": "Bước 1: Thay đổi thì",
+            "text": "Nếu câu trực tiếp ở thì hiện tại đơn (Simple Present), thì chuyển sang thì quá khứ đơn (Simple Past).",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"I love this song\", she said.",
+                  "explanation": "Cô ấy nói: “Tôi yêu bài hát này”."
+                },
+                {
+                  "original": "Câu tường thuật: She said that she loved that song.",
+                  "explanation": "Cô ấy nói rằng cô ấy yêu bài hát đó."
+                }
+              ]
+              ,
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu câu trực tiếp ở thì hiện tại tiếp diễn (Present Continuous), thì chuyển sang thì quá khứ tiếp diễn (Past Continuous).",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"We are studying English\", they said.",
+                  "explanation": "Họ nói: “Chúng tôi đang học tiếng Anh”"
+                },
+                {
+                  "original": "Câu tường thuật: They said that they were studying English.",
+                  "explanation": "Họ nói rằng họ đang học tiếng Anh."
+                }
+              ]
+              ,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu câu trực tiếp ở thì hiện tại hoàn thành (Present Perfect), thì chuyển sang thì quá khứ hoàn thành (Past Perfect).",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"He has already eaten lunch\", she said.",
+                  "explanation": "Cô ấy nói: “Anh ấy đã ăn trưa rồi”"
+                },
+                {
+                  "original": "Câu tường thuật: She said that he had already eaten lunch.",
+                  "explanation": "Cô ấy nói rằng anh ấy đã ăn trưa rồi."
+                }
+              ]
+              ,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Hiện tại hoàn thành tiếp diễn (Present Perfect Continuous) → Quá khứ hoàn thành tiếp diễn (Past Perfect Continuous).",
+            "image_url": null,
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"I have been studying English for two hours.\"",
+                  "explanation": "Tôi nói: “Tôi đã học tiếng Anh hai tiếng rồi.”"
+                },
+                {
+                  "original": "Câu tường thuật: He/She said that he/she had been studying English for two hours.",
+                  "explanation": "Anh ấy/cô ấy nói rằng anh ấy/cô ấy đã học tiếng Anh hai tiếng rồi."
+                }
+              ]
+              ,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Tương lai đơn (Simple Future) hoặc “be going to” → Tương lai trong quá khứ (Future in the Past - bằng cách thêm \"would\" hoặc \"was/were going to\")",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"They will arrive at 8 PM,\"  she said.",
+                  "explanation": "Cô ấy nói: “Họ sẽ đến lúc 8 giờ tối”"
+                },
+                {
+                  "original": "Câu tường thuật: She said that they would arrive at 8 PM.",
+                  "explanation": "Cô ấy nói rằng họ sẽ đến lúc 8 giờ tối."
+                },
+                {
+                    "original": "Câu trực tiếp: \"She is going to call her friend tomorrow,\", she said.",
+                    "explanation": "Cô ấy nói: “Ngày mai cô ấy sẽ gọi điện cho bạn mình”"
+                  },
+                  {
+                    "original": "Câu tường thuật: She said that she was going to call her friend the next day.",
+                    "explanation": "Cô ấy nói rằng ngày mai cô ấy sẽ gọi điện cho bạn mình."
+                  }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Bước 2: Thay đổi đại từ",
+            "text": "Câu hỏi đúng sai (Yes/No questions): S + asked/wanted to know/wondered + if/whether + S + V ",
+            "image_url": "https://langmaster.edu.vn/storage/images/2023/07/20/cau-tuong-thuat-0.webp",
+            "example":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Thay đổi các từ chỉ thời gian, ví dụ như \"today\" (hôm nay) thành \"that day\" (ngày đó) hoặc \"now\" (bây giờ) thành \"then\" (sau đó).",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"He said, 'I'm busy now.\"",
+                  "explanation": "Anh ấy nói: “Bây giờ tôi đang bận.”"
+                },
+                {
+                  "original": "Câu tường thuật: He said that he was busy then.",
+                  "explanation": "Anh ấy nói rằng lúc đó anh ấy đang bận."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Bước 3: Thêm từ tường thuật",
+            "text": "Trong câu tường thuật, thường sử dụng các từ giới thiệu như \"said\", \"told\", \"asked\",...  để chỉ ra người nói hoặc hành động tường thuật.",
+            "example": [
+                {
+                  "original": "Câu trực tiếp: \"She said, \"I will be there.\"",
+                  "explanation": "Cô ấy nói: “Tôi sẽ đến đó.”"
+                },
+                {
+                  "original": "Câu tường thuật: She said that she would be there.",
+                  "explanation": "Cô ấy nói rằng cô ấy sẽ đến đó."
+                }
+              ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

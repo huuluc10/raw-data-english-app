@@ -1,0 +1,316 @@
+{
+    "title": "Công thức câu bị động trong Tiếng Anh",
+    "description": null,
+    "content": [
+        {
+            "title": "Công thức câu bị động thông thường (dạng khẳng định):",
+            "text": "Câu chủ động: S + V + O => Câu bị động: O + to be + Vpp + (by S)",
+            "image_url": "https://langmaster.edu.vn/storage/images/2024/03/20/cau-bi-dong-2.webp",
+            "example": [
+                {
+                    "original": "I deliver the letters in the morning",
+                    "explanation": "Tôi đã gửi những là thư này từ buổi sáng rồi"
+                },
+                {
+                    "original": "➤ The letters are delivered in the morning",
+                    "explanation": "Những là thư này đã được gửi đi sáng nay"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": "Dưới đây là các bước cụ thể để bạn chuyển đổi từ một câu chủ động sang thể bị động: ",
+            "text": null,
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2024/03/20/cau-bi-dong-3.webp",
+            "video_url": null
+        },
+        {
+            "title": "Lưu ý",
+            "text": "1. Chủ ngữ là they, people, everyone, someone, anyone, ...thì không cần đưa vào câu bị động (Ứng dụng cách dùng thứ 2 của câu bị động vừa nêu trên)",
+            "example": [
+                {
+                    "original": "Someone stole my bike last night.",
+                    "explanation": "Ai đó lấy trộm xe đạp của tôi đêm qua"
+                },
+                {
+                    "original": "➤ My bike was stolen last night.",
+                    "explanation": "Xe đạp của tôi đã bị lấy trộm đêm qua."
+                },
+                {
+                    "original": "They have finished that exercise since last week.",
+                    "explanation": "Họ đã hoàn thành bài tập đó từ tuần trước."
+                },
+                {
+                    "original": "➤ That exercise has been finished since last week.",
+                    "explanation": "Bài tập đó đã được hoàn thành từ tuần trước."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Nếu chủ ngữ là người hoặc vật ",
+            "example": [
+                {
+                    "original": "She is making a cake.",
+                    "explanation": "Cô ấy đang làm một chiếc bánh."
+                },
+                {
+                    "original": "➤ A cake is being made by her.",
+                    "explanation": "Một chiếc bánh đang được làm bởi cô ấy."
+                },
+                {
+                    "original": "My mom cleans the floor.",
+                    "explanation": "Mẹ tôi lau sàn nhà."
+                },
+                {
+                    "original": "➤ The floor is cleaned by my mom.",
+                    "explanation": "Sàn nhà được lau bởi mẹ tôi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Các cấu trúc câu bị động trong Tiếng Anh theo thì",
+            "text": null,
+            "example": "https://langmaster.edu.vn/storage/images/2023/11/23/cau-truc-cau-bi-dong-theo-thi.webp",
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "1. Thì hiện tại đơn",
+            "text": "Câu chủ động: S + V + O => Câu bị động: S + be + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "She reads a book every week.",
+                    "explanation": "Cô ấy đọc một cuốn sách mỗi tuần."
+                },
+                {
+                    "original": "➤ A book is read by her every week.",
+                    "explanation": "Một cuốn sách được đọc bởi cô ấy mỗi tuần."
+                },
+                {
+                    "original": "I buy a pen.",
+                    "explanation": "Tôi mua một chiếc bút."
+                },
+                {
+                    "original": "➤ A pen is bought (by me).",
+                    "explanation": "Một chiếc bút được mua (bởi tôi)."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Thì hiện tại tiếp diễn",
+            "text": "Câu chủ động: S + am/ is/are + V-ing + O => Câu bị động: S + am/ is/are +  being + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "She is wearing a school uniform.",
+                    "explanation": "Cô ấy đang mặc một bộ đồng phục trường."
+                },
+                {
+                    "original": "➤ A school uniform is worn by her.",
+                    "explanation": "Đồng phục trường được mặc bởi cô ấy."
+                },
+                {
+                    "original": "My brother is writing an essay.",
+                    "explanation": "Anh trai tôi đang viết một bài luận."
+                },
+                {
+                    "original": "➤ An essay is written by my brother.",
+                    "explanation": "Một bài luận đang được viết bởi anh trai tôi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Thì hiện tại hoàn thành",
+            "text": "Câu chủ động: S + have/has + V3 + O => Câu bị động: S + have/has + been + V3 (+ by Sb/ O)",
+            "example": [
+                {
+                    "original": "My mom has made this lunch box for me.",
+                    "explanation": "Mẹ đã làm hộp cơm trưa này cho tôi."
+                },
+                {
+                    "original": "➤ This lunch box has been made for me by my mom.",
+                    "explanation": "Hộp cơm trưa này đã được làm cho tôi bởi mẹ."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "4. Thì quá khứ đơn",
+            "text": "Câu chủ động: S + V-ed + O => Câu bị động: S + was/ were + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "I ate a hamburger for lunch.",
+                    "explanation": "Tôi ăn một cái hamburger cho bữa trưa."
+                },
+                {
+                    "original": "➤ A hamburger was eaten for lunch by me.",
+                    "explanation": "Chiếc bánh hamburgar đã được ăn trong bữa trưa bởi tôi"
+                },
+                {
+                    "original": "She didn’t tell you the truth.",
+                    "explanation": "Cô ấy đã không nói với bạn sự thật"
+                },
+                {
+                    "original": "➤ The truth wasn't told to you by her.",
+                    "explanation": "Sự thật đã không được nói cho cô ấy"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "5. Thì quá khứ tiếp diễn",
+            "text": "Câu chủ động: S + was/ were + V-ing + O => Câu bị động: S + was/ were +  being + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "I was doing my homework at that time.",
+                    "explanation": "Tôi đã đang làm bài về nhà vào thời điểm đó."
+                },
+                {
+                    "original": "➤ My homework was being done by me at that time.",
+                    "explanation": "Bài về nhà đã đang được làm bởi tôi vào thời điểm đó."
+                },
+                {
+                    "original": "Students were planting trees.",
+                    "explanation": "Các học sinh đang trồng cây."
+                },
+                {
+                    "original": "➤ Trees were being planted by students.",
+                    "explanation": "Cây đang được trồng bởi các học sinh."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "6. Thì quá khứ hoàn thành ",
+            "text": "Câu chủ động: S + had + V3 + O => Câu bị động: S + had + been + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "A poor man in that town had won a lottery.",
+                    "explanation": "Một người đàn ông nghèo khổ ở thị trấn đó đã trúng xổ số."
+                },
+                {
+                    "original": "➤ A lottery had been won by a poor man in that town.",
+                    "explanation": "Xổ số đã được trúng bởi một người đàn ông nghèo khổ ở thị trấn đó."
+                },
+                {
+                    "original": "They had built the house for ages.",
+                    "explanation": "Họ đã xây ngôi nhà từ lâu lắm rồi."
+                },
+                {
+                    "original": "➤ The house had been built by them for ages.",
+                    "explanation": "Ngôi nhà đã được xây bởi họ từ lâu lắm rồi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "7. Thì tương lai đơn",
+            "text": "Câu chủ động: S + will V + O => Câu bị động: S + will be + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "Our boss will hold a meeting tomorrow.",
+                    "explanation": "Sếp của chúng tôi sẽ tổ chức một cuộc họp vào ngày mai."
+                },
+                {
+                    "original": "➤ A meeting will be held by our boss tomorrow.",
+                    "explanation": "Một cuộc họp sẽ được tổ chức bởi sếp của chúng tôi vào ngày mai."
+                },
+                {
+                    "original": "The businessman will buy that expensive car soon.",
+                    "explanation": "Người doanh nhân sẽ mua chiếc xe hơi đắt tiền đó sớm thôi."
+                },
+                {
+                    "original": "➤ That expensive car will be bought by the businessman soon.",
+                    "explanation": "Chiếc xe hơi đắt tiền đó sẽ được mua bởi người doanh nhân sớm thôi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "8. Thì tương lai gần",
+            "text": "Câu chủ động: S + is/ am/ are going to + V inf + O => Câu bị động: S + is/ am/ are going to BE + V3 (by O)",
+            "example": [
+                {
+                    "original": "My family is going to spend the 5-day holiday in Da Lat.",
+                    "explanation": "Gia đình tôi chuẩn bị dành kỳ nghỉ năm ngày ở Đà Lạt."
+                },
+                {
+                    "original": "➤ The 5-day holiday is going to be spent in Da Lat by my family.",
+                    "explanation": "Kì nghỉ 5 ngày chuẩn bị được dành ở Đà Lạt bởi gia đình tôi."
+                },
+                {
+                    "original": "We are going to bake a delicious cake for our friend's birthday.",
+                    "explanation": "Chúng tôi đang chuẩn bị nướng một chiếc bánh ngon tuyệt cho sinh nhật của bạn chúng tôi."
+                },
+                {
+                    "original": "➤ A delicious cake is going to be baked for our friend's birthday by us.",
+                    "explanation": "Một chiếc bánh ngon tuyệt chuẩn bị được nướng cho sinh nhật bạn của chúng tôi bởi chúng tôi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "9. Tương lai tiếp diễn",
+            "text": "Câu chủ động: S + will be + V_ing + O => Câu bị động: S + will be + being + V3 (+ by Sb/O)",
+            "example": [
+                {
+                    "original": "When they get to the meeting, the boss will be asking that team a lot of questions.",
+                    "explanation": "Khi họ tới cuộc họp, sếp sẽ đang hỏi nhóm đó rất nhiều câu hỏi."
+                },
+                {
+                    "original": "➤ When they get to the meeting, that team will be being asked a lot of questions by the boss.",
+                    "explanation": "Khi họ tới cuộc họp, nhóm đó hẳn sẽ đang bị hỏi rất nhiều câu hỏi bởi sếp."
+                },
+                {
+                    "original": "This time next month, people will be planting 20 new trees in our area.",
+                    "explanation": "Giờ này tháng sau, người ta sẽ đang trồng 20 cái cây mới ở khu vực của chúng tôi."
+                },
+                {
+                    "original": "➤ This time next month, 20 new trees will be being planted in our area.",
+                    "explanation": "Giờ này tháng sau, 20 cái cây mới sẽ được trồng ở khu vực của chúng tôi."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "10. Thì tương lai hoàn thành ",
+            "text": "Câu chủ động: S + will have + V3 + O => Câu bị động: S + will have + been + V3 (+ by Sb/ O)",
+            "example": [
+                {
+                    "original": "At this time tomorrow, we will have finished the mid-term test.",
+                    "explanation": "Vào giờ này ngày mai, chúng tôi sẽ đã hoàn thành kì thi giữa kì."
+                },
+                {
+                    "original": "➤ At this time tomorrow, the mid-term test will have been finished by us.",
+                    "explanation": "Vào giờ này ngày mai, kì thi giữa kì sẽ đã được hoàn thành bởi chúng tôi."
+                },
+                {
+                    "original": "We’re late already. When we get there, people will have bought all the books.",
+                    "explanation": "Chúng ta đã muộn rồi. Khi chúng ta tới đó, mọi người sẽ đã mua hết tất cả cuốn sách."
+                },
+                {
+                    "original": "➤ We’re late already. When we get there, all the books will have been bought.",
+                    "explanation": "Chúng ta đã muộn rồi. Khi chúng ta tới đó, tất cả cuốn sách sẽ đã được mua hết."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

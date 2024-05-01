@@ -1,0 +1,157 @@
+{
+    "title":"Future perfect - Thì Tương lai hoàn thành",
+    "description": "Tương lai hoàn thành (Future Perfect) là một trong các thì cơ bản trong tiếng Anh, nó thường được dùng để diễn tả một hành động hoặc sự việc hoàn thành trước một thời điểm trong tương lai. Loại thì này cũng được dùng để diễn tả hành động hay sự việc hoàn thành trước sự việc khác trong tương lai.",
+    "content":[
+        {
+            "title": "Công thức thì tương lai hoàn thành",
+            "text": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/14/thi-tuong-lai-hoan-thanh-future-perfect-1665733471.webp",
+            "example": null,
+            "video_url": null
+        },
+        {
+            "title": " 1. Positive sentences (Câu khẳng định): ",
+            "text": " Cấu trúc: S + will + have + V2",
+            "image_url":null,
+            "example":  [
+                {
+                    "original": " I will have done my homework before 10 o’clock this evening.",
+                    "explanation": "Tôi đã hoàn thành xong bài tập về nhà trước 10 giờ tối nay"
+                },
+                {
+                    "original": "I will have taken an English course by the end of next month. ",
+                    "explanation": "Tôi đã tham gia vào một khóa học tiếng Anh cho tới hết tháng sau"
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": " 2. Negative sentences (Câu phủ định): ",
+            "text": " Cấu trúc: S + will not (won’t) + have + V2",
+            "example": [
+                {
+                    "original": "I won’t have finished the test for at least another hour.",
+                    "explanation": "Tôi vẫn sẽ chưa thể hoàn thành bài test này trong ít nhất là 1 tiếng nữa"
+                },
+                {
+                    "original": "She won’t have arrived home until after 10:30. ",
+                    "explanation": "Cô ấy sẽ vẫn không về nhà cho tới 10:30"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": " 3. Question sentences (Câu nghi vấn): ",
+            "text": " Cấu trúc: Will + S + have + V2 +…?",
+            "example": [
+                {
+                    "original": "Will you have graduated by 2024?",
+                    "explanation": "Bạn sẽ đã tốt nghiệp cho tới năm 2024 đúng chứ?"
+                },
+                {
+                    "original": "Will she have saved enough money by the end of next week? ",
+                    "explanation": "Cho tới cuối tuần tới thì cô ta sẽ đã tiết kiệm đủ tiền đúng không?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+       {
+            "title": "Câu hỏi WH- question",
+            "text": "Cấu trúc: WH-question + will + S + have + V2 +…?",
+            "example": [
+                {
+                    "original": " How will you have done this test before 10 pm?",
+                    "explanation": "Bạn sẽ đã hoàn thành bài test này trước 10 giờ tối như thế nào?"
+                },
+                {
+                    "original": "Where will you have traveled before 2022? ",
+                    "explanation": "Bạn sẽ đã đi đến những đâu cho tới trước năm 2022?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cách dùng thì tương lai hoàn thành",
+            "text": "1. Dùng để diễn tả một hành động, sự việc đã hoàn thành trước 1 thời điểm trong tương lai",
+            "example":  [
+                {
+                    "original": "I will have arrived at school by 8 AM.",
+                    "explanation": "Tôi sẽ có mặt ở trường lúc 8 giờ sáng"
+                },
+                {
+                    "original": "By the time of July, he will have completed his work. ",
+                    "explanation": "Cho tới tháng 7, anh ấy sẽ phải hoàn thành xong bài tập của mình"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2.Dùng để diễn tả một hành động, sự việc sẽ được hoàn thành trước một hành động hoặc sự việc khác trong tương lai",
+            "example": [
+                {
+                    "original": "When you come home, I will have finished my housework.",
+                    "explanation": "Khi bạn trở về nhà, tôi sẽ hoàn thành xong việc nhà"
+                },
+                {
+                    "original": "The chef will have made the dinner before the time he comes tomorrow.",
+                    "explanation": "Người đầu bếp sẽ hoàn thành xong bữa tối trước khi anh ấy tới vào ngày mai"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/19/cong-thuc-thi-tuong-lai-hoan-thanh-2.webp",
+            "video_url": null
+        },
+        {
+            "title": "Dấu hiệu nhận biết Thì tương lai hoàn thành",
+            "text": "By + Mốc thời gian trong tương lai",
+            "example": [
+                {
+                    "original":"I will have come home by 10 p.m.",
+                    "explanation":"Tôi sẽ về nhà trước 10 giờ tối."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "By the time: Thường được đặt ở đầu câu",
+            "example": [
+                {
+                    "original":"By the time I am 18 years old, I will have cut my hair.",
+                    "explanation":"Khi tôi 18 tuổi, tôi sẽ cắt tóc."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "By the end of + Khoảng thời gian trong tương lai",
+            "example": [
+                {
+                    "original": " By the end of July, I will have finish my work.",
+                    "explanation": "Đến cuối tháng 7, tôi sẽ hoàn thành công việc của mình."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Before + Thời gian trong tương lai",
+            "example": [
+                {
+                    "original": "Before this morning, I will have started learning.",
+                    "explanation": "Trước sáng nay, tôi sẽ bắt đầu học."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

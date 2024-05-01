@@ -4,7 +4,7 @@
     "content": [
         {
             "title": "Sweater - Áo len",
-            "text": "Một chiếc áo dài tay, thường được làm từ len.",
+            "text": "Phiên âm: /ˈswɛtər/\nMột chiếc áo dài tay, thường được làm từ len.",
             "example": [
                 {
                     "original": "He wore a sweater to keep warm.",
@@ -16,7 +16,7 @@
         },
         {
             "title": "Shirt - Áo sơ mi",
-            "text": "Một chiếc áo dài tay, thường được mặc với quần dài.",
+            "text": "Phiên âm: /ʃɜːt/\nMột chiếc áo dài tay, thường được mặc với quần dài.",
             "example": [
                 {
                     "original": "He wore a shirt to the party.",
@@ -28,7 +28,7 @@
         },
         {
             "title": "Jeans - Quần bò",
-            "text": "Quần dài, thường được làm từ vải bò.",
+            "text": "Phiên âm: /dʒiːnz/\nQuần dài, thường được làm từ vải bò.",
             "example": [
                 {
                     "original": "He wore jeans to the party.",
@@ -40,7 +40,7 @@
         },
         {
             "title": "Gloves - Găng tay",
-            "text": "Lớp phủ cho bàn tay, thường được làm bằng vải hoặc da và có các phần riêng biệt cho mỗi ngón tay và ngón cái.",
+            "text": "Phiên âm: /glʌvz/\nLớp phủ cho bàn tay, thường được làm bằng vải hoặc da và có các phần riêng biệt cho mỗi ngón tay và ngón cái.",
             "example": [
                 {
                     "original": "He wore gloves to protect his hands.",
@@ -52,7 +52,7 @@
         },
         {
             "title": "Cap - Mũ lưỡi trai",
-            "text": "Một chiếc mũ có lưỡi trai.",
+            "text": "Phiên âm: /kæp/\nMột chiếc mũ có lưỡi trai.",
             "example": [
                 {
                     "original": "He wore a cap to protect his head from the sun.",
@@ -64,7 +64,7 @@
         },
         {
             "title": "Suit - Bộ vest",
-            "text": "Một bộ quần áo gồm áo vest và quần âu.",
+            "text": "Phiên âm: /suːt/\nMột bộ quần áo gồm áo vest và quần âu.",
             "example": [
                 {
                     "original": "He wore a suit to the party.",
@@ -76,7 +76,7 @@
         },
         {
             "title": "Singlet - Áo ba lỗ",
-            "text": "Một chiếc áo không tay.",
+            "text": "Phiên âm: /ˈsɪŋɡlɪt/\nMột chiếc áo không tay.",
             "example": [
                 {
                     "original": "He wore a singlet to the beach.",
@@ -88,7 +88,7 @@
         },
         {
             "title": "Business shoes - Giày công sở",
-            "text": "Giày công sở, thường được mặc với bộ vest.",
+            "text": "Phiên âm: /ˈbɪznɪs ʃuːz/\nGiày công sở, thường được mặc với bộ vest.",
             "example": [
                 {
                     "original": "He wore business shoes to the party.",
@@ -100,7 +100,7 @@
         },
         {
             "title": "Flip flops - Dép lê",
-            "text": "Giày không có quai đeo ở gót chân.",
+            "text": "Phiên âm: /ˈflɪp flɑːps/\nGiày không có quai đeo ở gót chân.",
             "example": [
                 {
                     "original": "He wore flip flops to the beach.",
@@ -112,7 +112,7 @@
         },
         {
             "title": "Shorts - Quần soóc",
-            "text": "Quần ngắn, thường được mặc vào mùa hè.",
+            "text": "Phiên âm: /ʃɔːrts/\nQuần ngắn, thường được mặc vào mùa hè.",
             "example": [
                 {
                     "original": "He wore shorts to the beach.",
@@ -124,7 +124,7 @@
         },
         {
             "title": "Cardigan - Áo len dệt kim có nút phía trước",
-            "text": "Một chiếc áo len dệt kim có nút phía trước.",
+            "text": "Phiên âm: /ˈkɑːrdɪɡən/\nMột chiếc áo len dệt kim có nút phía trước.",
             "example": [
                 {
                     "original": "He wore a cardigan to keep warm.",
@@ -136,7 +136,7 @@
         },
         {
             "title": "Jacket - Áo khoác",
-            "text": "Một chiếc áo khoác ngắn, thường được mặc ngoài trời.",
+            "text": "Phiên âm: /ˈdʒækɪt/\nMột chiếc áo khoác ngắn, thường được mặc ngoài trời.",
             "example": [
                 {
                     "original": "He wore a jacket to keep warm.",
@@ -148,7 +148,7 @@
         },
         {
             "title": "Sport shoes - Giày thể thao",
-            "text": "Giày thể thao.",
+            "text": "Phiên âm: /ˈspoːrt ʃuːz/\nGiày thể thao.",
             "example": [
                 {
                     "original": "He wore sport shoes to play football.",
@@ -160,7 +160,7 @@
         },
         {
             "title": "Vest - Áo ghi lê",
-            "text": "Một chiếc áo không tay, thường được mặc ngoài áo sơ mi.",
+            "text": "Phiên âm: /vest/\nMột chiếc áo không tay, thường được mặc ngoài áo sơ mi.",
             "example": [
                 {
                     "original": "He wore a vest to the party.",
@@ -172,43 +172,7 @@
         },
         {
             "title": "Polo shirt - Áo thun cổ bẻ",
-            "text": "Một chiếc áo thun có cổ bẻ.",
-            "example": [
-                {
-                    "original": "He wore a polo shirt to the party.",
-                    "explanation": "Anh ấy mặc áo thun cổ bẻ đến buổi tiệc."
-                }
-            ],
-            "image_url": "images/objects/clothes/men-polo-shirt.png",
-            "video_url": null
-        },
-        {
-            "text": "Sport shoes - Giày thể thao",
-            "title": "Giày thể thao",
-            "example": [
-                {
-                    "original": "He wore sport shoes to play football.",
-                    "explanation": "Anh ấy mặc giày thể thao để chơi bóng đá."
-                }
-            ],
-            "image_url": "images/objects/clothes/men-sport-shoes.png",
-            "video_url": null
-        },
-        {
-            "title": "Vest - Áo ghi lê",
-            "text": "Một chiếc áo không tay, thường được mặc ngoài áo sơ mi.",
-            "example": [
-                {
-                    "original": "He wore a vest to the party.",
-                    "explanation": "Anh ấy mặc áo ghi lê đến buổi tiệc."
-                }
-            ],
-            "image_url": "images/objects/clothes/men-vest.png",
-            "video_url": null
-        },
-        {
-            "title": "Polo shirt - Áo thun cổ bẻ",
-            "text": "Một chiếc áo thun có cổ bẻ.",
+            "text": "Phiên âm: /ˈpoʊloʊ ʃɜːt/\nMột chiếc áo thun có cổ bẻ.",
             "example": [
                 {
                     "original": "He wore a polo shirt to the party.",
@@ -220,7 +184,7 @@
         },
         {
             "title": "T-shirt - Áo thun",
-            "text": "Một chiếc áo thun không cổ.",
+            "text": "Phiên âm: /ˈtiː ʃɜːt/\nMột chiếc áo thun không cổ.",
             "example": [
                 {
                     "original": "He wore a T-shirt to the party.",
@@ -232,7 +196,7 @@
         },
         {
             "title": "Belt",
-            "text": "Dây lưng, thường được mặc với quần âu.",
+            "text": "Phiên âm: /belt/\nDây lưng, thường được mặc với quần âu.",
             "example": [
                 {
                     "original": "He wore a belt to hold up his pants.",
@@ -244,7 +208,7 @@
         },
         {
             "title": "Tie - Cà vạt",
-            "text": "Một chiếc cà vạt, thường được mặc với áo sơ mi và áo vest.",
+            "text": "Phiên âm: /taɪ/\nMột chiếc cà vạt, thường được mặc với áo sơ mi và áo vest.",
             "example": [
                 {
                     "original": "He wore a tie to the party.",
@@ -256,7 +220,7 @@
         },
         {
             "title": "Wallet - Ví",
-            "text": "Một chiếc ví để đựng tiền và giấy tờ.",
+            "text": "Phiên âm: /ˈwɑːlət/\nMột chiếc ví để đựng tiền và giấy tờ.",
             "example": [
                 {
                     "original": "He put his wallet in his pocket.",
@@ -268,7 +232,7 @@
         },
         {
             "title": "Handbag - Túi xách",
-            "text": "Một chiếc túi để đựng đồ cá nhân.",
+            "text": "Phiên âm: /ˈhændˌbæɡ/\nMột chiếc túi để đựng đồ cá nhân.",
             "example": [
                 {
                     "original": "He carried his phone and keys in his handbag.",

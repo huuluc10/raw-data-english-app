@@ -1,0 +1,53 @@
+{
+    "title": "LƯỢNG TỪ - QUANTIFIERS",
+    "description": "Lượng từ tiếng Anh hay Quantifier là thành phần quan trọng có trong câu. Lượng từ giúp câu của bạn rõ hơn về nghĩa và việc hiểu rõ về lượng từ trong tiếng Anh giúp bạn soạn câu đúng ngữ pháp tiếng Anh chuẩn.",
+    "content": [
+        {
+            "title": "1.Lượng từ là gì?",
+            "text": "Lượng từ (Quantifiers) là các từ dùng để chỉ số lượng. Lượng từ được đặt trước danh từ để bổ nghĩa cho chính danh từ đó. Dựa vào cách phân loại danh từ đếm được hay không đếm được, chúng ta sẽ có các loại lượng từ tương ứng. ",
+            "example":null,
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/10/10/luong-tu.webp",
+            "video_url": null
+        },
+        {
+            "title": "2. Các loại lượng từ trong tiếng Anh?",
+            "text": "Có 3 loại lượng từ chính trong tiếng Anh: ",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lượng từ đi với danh từ đếm được:",
+            "example":  [
+                {
+                    "original": "great number of, large number of, many, several, few, a few,... "
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lượng từ đi với danh từ không đếm được:",
+            "example": [
+              {
+                "original": "much, a bit, a little, little, a great deal of,..."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lượng từ đi với cả danh từ đếm được và không đếm được:",
+            "example": [
+              {
+                "original": "enough, all, more, most, less, least, some, any,..."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

@@ -1,0 +1,132 @@
+{
+    "title": "Cấu trúc 3 dạng câu tường thuật thường gặp nhất trong Tiếng Anh",
+    "description": null,
+    "content": [
+        {
+            "title": null,
+            "text": null,
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2023/07/20/cau-tuong-thuat.webp",
+            "video_url": null
+        },
+        {
+            "title": "1. Câu tường thuật ở dạng câu kể",
+            "text": "Dùng để thuật lại nội dung lời nói hoặc câu chuyện đã được một người khác nói trước đó.",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Cấu trúc: S + say(s)/said hoặc tell/told + (that) + S + V",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: He said, \"I like my room very much\"",
+                    "explanation": "Anh ấy nói: “Tôi rất thích căn phòng của mình”."
+                },
+                {
+                    "original": "Câu tường thuật: He said that he liked his room very much.",
+                    "explanation": "Anh ấy nói rằng anh ấy rất thích căn phòng của mình."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Cấu trúc: S + said to + O -> told + O",
+            "image_url": null,
+            "example": [
+                {
+                    "original": "Câu trực tiếp: Laura said to me, \"I like this song.\"",
+                    "explanation": "Laura nói với tôi: “Tôi thích bài hát này.”"
+                },
+                {
+                    "original": "Câu tường thuật: Laura told me she liked that song.",
+                    "explanation": "Laura nói với tôi rằng cô ấy thích bài hát đó."
+                }
+            ],
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Cấu trúc: S + says/say to + O -> tells/tell + O",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: The teacher says to me “The sky is blue”",
+                    "explanation": "Cô giáo nói với tôi: “Bầu trời màu xanh”"
+                },
+                {
+                    "original": "Câu tường thuật: The teacher tells me the sky is blue.",
+                    "explanation": "Cô giáo nói với tôi rằng bầu trời xanh."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Câu tường thuật ở dạng câu hỏi ",
+            "text": "Câu hỏi đúng sai (Yes/No questions): S + asked/wanted to know/wondered + if/whether + S + V ",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: ”Are you upset?” he asked",
+                    "explanation": "Anh ấy hỏi: “Bạn có buồn không?”"
+                },
+                {
+                    "original": "Câu tường thuật: He asked if/whether I was upset.",
+                    "explanation": "Anh ấy hỏi liệu tôi có buồn hay không."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Câu hỏi nghi vấn (Wh-questions): S + asked (+O)/wanted to know/wondered + Wh-words + S + V.",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: We asked them: \"Where are you going on Sunday afternoon?\"",
+                    "explanation": "Chúng tôi hỏi họ: “Chiều Chủ nhật các bạn định đi đâu?”"
+                },
+                {
+                    "original": "Câu tường thuật: We asked them where they were going on Sunday afternoon.",
+                    "explanation": "Chúng tôi hỏi họ rằng họ sẽ đi đâu vào chiều Chủ nhật."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Câu tường thuật ở dạng câu mệnh lệnh: S + told + O + (not)to-infinitive.",
+            "text": "Đây là dạng cấu trúc của câu tường thuật được sử dụng để thuật lại một mệnh lệnh của người nói. Câu tường thuật mệnh lệnh thường sử dụng các động từ như: tell, ask, order, advise, warn, remind, instruct,",
+            "example": [
+                {
+                    "original": "Câu trực tiếp: \"Please wait for me here, Linda.\"",
+                    "explanation": "George nói: “Hãy đợi anh ở đây, Linda.”"
+                },
+                {
+                    "original": "Câu tường thuật: George told Linda to wait for him there.",
+                    "explanation": "George nói với Linda rằng hãy đợi anh ta ở đó."
+                },
+                {
+                    "original": "Câu trực tiếp: “Please cook a meal for me, Mary.” Mary's husband said.",
+                    "explanation": "Chồng Mary nói: “Làm cho anh một bữa ăn nhé, Mary.”"
+                },
+                {
+                    "original": "Câu tường thuật: Mary's husband told her to cook a meal for him.",
+                    "explanation": "Chồng Mary nhờ cô ấy nấu một bữa ăn cho anh ấy."
+                },
+                {
+                    "original": "Câu trực tiếp: \"Don't eat in class\", the teacher said to us.",
+                    "explanation": "Cô giáo nói với chúng tôi: “Không được ăn trong lớp.”"
+                },
+                {
+                    "original": "Câu tường thuật: The teacher told us not to eat in class.",
+                    "explanation": "Cô giáo dặn chúng tôi không được ăn trong lớp."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

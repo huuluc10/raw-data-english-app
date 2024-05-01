@@ -1,0 +1,35 @@
+{
+    "title": "Câu bị động (passive voice)",
+    "description": "Một trong những bài tập khiến nhiều bạn gặp khó khăn nhất trong bài thi Tiếng Anh chính là viết lại câu, đặc biệt là dạng câu bị động (passive voice). Cùng tham khảo bài tổng hợp kiến thức về câu bị động trong Tiếng Anh để ôn tập và nắm chắc phần kiến thức này nhé.",
+    "content": [
+        {
+            "title": "Câu bị động là gì? (Passive Voice) ",
+            "text": "Câu bị động (passive  voice): hành động tác động lên chủ ngữ/ Chủ ngữ bị động từ tác động lên - Ai bị/được làm gì?",
+            "example":null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2024/03/20/cau-bi-dong-1.webp",
+            "video_url": null
+        }, {
+            "title": "Cách dùng câu bị động: ",
+            "text": "Cách 1: Được dùng để nhấn mạnh đến đối tượng bị hành động khác tác động lên hơn là chủ thể thực hiện hành động đó",
+            "example": [
+                {
+                    "original": "My brother was punished by my father for playing video games all night.",
+                    "explanation": "Em trai tôi bị phạt bởi bố tôi vì chơi cả buổi tối"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }, {
+            "title":null,
+            "text": "Cách 2: Khi không biết ai/ cái gì thực hiện hành động hoặc  điều gì đó cũng không quan trọng",
+            "example": [
+                {
+                    "original": "My wallet was stolen.",
+                    "explanation": "Ví của tôi bị mất cắp."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }
+    ]
+}

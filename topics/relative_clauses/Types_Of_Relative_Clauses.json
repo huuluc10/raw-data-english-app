@@ -1,0 +1,38 @@
+{
+    "title": "Các loại mệnh đề quan hệ",
+    "description": "Mệnh đề quan hệ được chia thành hai loại chính là mệnh đề xác định và mệnh đề không xác định. Cùng tìm hiểu chi tiết ngay dưới đây.",
+    "content": [
+        {
+            "title": "1. Mệnh đề quan hệ xác định",
+            "text": "Mệnh đề quan hệ xác định là mệnh đề thường dùng để xác định danh từ đứng trước nó, đem đến ý nghĩa cho câu. Nếu thiếu nó thì câu sẽ không mang đủ nghĩa. Các đại từ quan hệ được sử dụng trong câu mệnh đề xác định.",
+            "example":[
+                {
+                    "original": "Do you know the name of the knitter who helped me pick up the shirt yesterday?",
+                    "explanation":"Bạn có biết tên của người đàn ông, người mà đã giúp tôi nhặt chiếc áo ngày hôm qua không?"
+                },
+                {
+                    "original": "The woman you met yesterday is the homeroom teacher of my class.",
+                    "explanation":"Người phụ nữ người mà bạn gặp hôm qua là giáo viên chủ nhiệm của lớp tôi."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }, 
+        {
+            "title": "2. Mệnh đề quan hệ không xác định",
+            "text": "Mệnh đề quan hệ không xác định là mệnh đề sử dụng nhằm cung cấp thêm thông tin về người, vật. Không có nó thì câu vẫn mang đầy đủ nghĩa.",
+            "example":[
+                {
+                    "original": "Ms. Lan, who taught me dance, is getting married next month.",
+                    "explanation":"Cô Lan, người mà dạy tôi múa chuẩn bị kết hôn vào tháng sau."
+                },
+                {
+                    "original": "The movie, which I saw yesterday, is very good. ",
+                    "explanation":"Bộ phim, cái mà tôi đã xem ngày hôm qua, rất hay."
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/10/06/menh-de-quan-he-4.webp",
+            "video_url": null
+        }
+    ]
+}

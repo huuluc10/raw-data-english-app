@@ -1,0 +1,173 @@
+{
+    "title": "Past perfect continuous- Thì quá khứ hoàn thành tiếp diễn",
+    "description": "Thì quá khứ hoàn thành tiếp diễn (Past Perfect Continuous) được dùng để diễn tả một hành động đã và đang xảy ra nhưng đã kết thúc trước một hành động khác nữa tạo một thời điểm trong quá khứ.",
+    "content": [
+        {
+            "title": "Công thức thì quá khứ hoàn thành tiếp diễn",
+            "text": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/14/thi-qua-khu-hoan-thanh-tiep-dien-past-perfect-continuous-1665743642.webp",
+            "example": null,
+            "video_url": null
+        },
+        {
+            "title": " 1. Thể khẳng định: ",
+            "text": "Cấu trúc: S + had + been + V-ing +…",
+            "example": [
+                {
+                    "original": "She had been doing her homework for twenty minutes before her mother came home. ",
+                    "explanation": "Cô ấy đã đang làm bài tập về nhà khoảng 20 phút trước khi mẹ cô ấy về nhà."
+                },
+                {
+                    "original": "Linda had been working in the office for eight hours before the phone rang. ",
+                    "explanation": "Linda đã đang làm việc trong văn phòng 8 giờ trước khi chuông điện thoại reo."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": " 2. Thể phủ định: ",
+            "text": "Cấu trúc: S + had not / hadn’t + been + V-ing",
+            "example": [
+                {
+                    "original": "Thuy hadn’t been doing her homework when her mother came home. ",
+                    "explanation": "Thuy đã đang không làm bài về nhà khi mẹ cô ấy quay về nhà."
+                },
+                {
+                    "original": "Hoa hadn’t been listening to music English before she found her headphones.",
+                    "explanation": "Hoa đã đang không nghe nhạc cho tới khi cô ấy tìm thấy tai nghe của mình."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": " 3. Thể nghi vấn ",
+            "text": " Câu hỏi Yes/No question :Had + S + been + V-ing +… ?",
+            "example": [
+                {
+                    "original": "Had Quang been watching T.V when we came? ",
+                    "explanation": "Có phải Quang đã đang xem ti vi khi chúng ta đến?"
+                },
+                {
+                    "original": "Had Linda been doing her homework for ten minutes before her sister came home?",
+                    "explanation": "Có phải Linda đã đang làm bài tập khoảng 10 phút trước khi chị gái cô ấy quay về nhà?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": " Câu hỏi Wh- question: WH-word + had + S + been + V-ing +…?",
+            "example":  [
+                {
+                    "original": "How long had Hoang been sitting there? ",
+                    "explanation": "Hoàng đã đang ngồi đây được bao lâu rồi?"
+                },
+                {
+                    "original": "Hoang had been sitting for thirty minutes before you arrived. ",
+                    "explanation": "Hoàng đã đang ngồi đây được 30 phút trước khi bạn quay lại."
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/15/qua-khu-hoan-thanh-tiep-dien-2.webp",
+            "video_url": null
+        },
+        {
+            "title": "Cách dùng thì quá khứ hoàn thành tiếp diễn",
+            "text": "1.Dùng để diễn đạt một hành động bắt đầu xảy ra và kéo dài liên tục trong một khoảng thời gian ở quá khứ. Hành động này đã kết thúc tại một thời điểm xác định trong quá khứ.",
+            "example":  [
+                {
+                    "original": "Quan had been playing games from the morning to noon yesterday. ",
+                    "explanation": "Quân đã chơi điện tử liên tục từ sáng đến trưa ngày hôm qua."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2.Dùng để diễn tả một hành động đã xảy ra và kéo dài liên tục trong quá khứ nhưng bị một hành động khác chen vào trong quá khứ.",
+            "example": [
+                {
+                    "original": "I had been reading book until my mother asked me to go to the market. ",
+                    "explanation": "Tôi đã đọc sách cho đến khi mẹ tôi rủ tôi đi chợ."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "3.Dùng để diễn tả kết quả của một hành động do hành động khác gây ra trong quá khứ.",
+            "example":  [
+                {
+                    "original": "Lan was so tired because she had been working home all day long. ",
+                    "explanation": "Lan rất mệt vì chị  ấy đã làm việc nhà liên tục cả ngày."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "4.Dùng để diễn đạt về một hành động xảy ra liên tục được xác định trước một mốc thời gian cụ thể trong quá khứ.",
+            "example":  [
+                {
+                    "original": "Jenny had been watching T.V for 2 hours by 7p.m last night.",
+                    "explanation": "Jenny đã xem ti vi được 2 tiếng tính đến 7 giờ tối ngày hôm qua."
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/09/15/qua-khu-hoan-thanh-tiep-dien-3.webp",
+            "video_url": null
+        },
+        {
+            "title": "Dấu hiệu thì quá khứ hoàn thành tiếp diễn",
+            "text": " By the time: Đến lúc/ vào lúc….",
+            "example": [
+                {
+                    "original": "By the time I came back he had been watching T.V for five hours.",
+                    "explanation": "Đến lúc Tôi quay lại, anh ấy đã xem ti vi khoảng năm tiếng đồng hồ."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Until then: Cho đến lúc đó",
+            "example":[
+                {
+                    "original": "Until then, I had been leaving Ha Long for 10 years",
+                    "explanation": "Cho đến lúc đó tôi đã rời khỏi Hạ Long được 10 năm"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Prior to that time: Thời điểm trước đó/ trước đó",
+            "example": [
+                {
+                    "original": "Prior to that time I had been still traveling in Phu Quoc for two months.",
+                    "explanation": "Trước đó, tôi đã du lịch ở Phú Quốc khoảng hai tháng."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Before, after: Trước, sau",
+            "example":[
+                {
+                    "original": "Before I came, Lan had been having dinner at 7 o’clock.",
+                    "explanation": "Trước khi tôi đến, Lan đã ăn tối lúc 7 giờ"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/09/15/qua-khu-hoan-thanh-tiep-dien-1.webp",
+            "video_url": null
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "Vị trí của các tính từ trong tiếng Anh",
+    "description": "Sau tính từ là gì? Trước tính từ là gì? Hiểu được vị trí của các tính từ tiếng Anh, bạn sẽ biết cách dùng sao cho thích hợp.",
+    "conten": [
+        {
+            "title": "Tính từ đứng trước danh từ",
+            "text": "Thông thường, trong tiếng Anh, tính từ thường được sử dụng đứng trước danh từ. Lúc này, tính từ sẽ đóng vai trò là bổ nghĩa cho danh từ, giúp danh từ được miêu tả chi tiết hơn, cụ thể hơn. Nhằm cung cấp thông tin cho người đọc. ",
+            "example": [
+                {
+                    "original": "An intelligent dog ",
+                    "explanation": "Một con chó thông minh "
+                },
+                {
+                    "original": "A delicious dish",
+                    "explanation": "Một món ăn ngon"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Lưu ý: Đối với trường hợp có từ hai tính từ trở lên thì sẽ được sắp xếp theo trật tự ",
+            "example": [
+                {
+                    "original": "A unique old English book.",
+                    "explanation": "Một quyển sách tiếng Anh cũ độc đáo."
+                },
+                {
+                    "original": "Expensive old blue car.",
+                    "explanation": "Chiếc xe màu xanh cũ đắt tiền."
+                }
+            ],
+            "image_url": "https://tienganhnghenoi.vn/wp-content/uploads/2023/05/trat-tu-tinh-tu-tieng-anh-1.jpg",
+            "video_url": null
+        },
+        {
+            "title": "Tính từ đứng sau động từ",
+            "text": "Tính từ còn có thể sử dụng sau một số động từ như: tobe, become, feel, look, appear, seem, taste, smell, sound,...",
+            "example": [
+                {
+                    "original": "I smell burning. What are you cooking?",
+                    "explanation": "Tôi ngửi thấy mùi khét. Bạn đang nấu gì à?"
+                },
+                {
+                    "original": "She becomes happy after receiving a gift from her family.",
+                    "explanation": "Cô ấy trở nên vui vẻ sau khi nhận được món quà từ gia đình."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Tính từ đứng sau danh từ",
+            "text": "Ngoài đứng trước danh từ thì trong một số trường hợp đặc biệt thì tính từ còn đứng sau danh từ bất định để bổ nghĩa cho danh từ đó. Cụ thể: something, nothing, anything, someone, anyone,...",
+            "example": [
+                {
+                    "original": "This road is 35 km long ",
+                    "explanation": "Con đường này dài 35km."
+                },
+                {
+                    "original": "There is nothing funny here. ",
+                    "explanation": "Không có gì buồn cười ở đây cả."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": null,
+            "example": null,
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/11/14/tinh-tu-trong-tieng-anh-2.webp",
+            "video_url": null
+        }
+    ]
+}

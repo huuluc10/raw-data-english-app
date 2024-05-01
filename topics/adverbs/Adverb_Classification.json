@@ -1,0 +1,197 @@
+{
+    "title": "Phân loại trạng từ trong tiếng Anh",
+    "description": "Dựa vào đặc điểm và cách sử dụng, trạng từ tiếng Anh được phân loại thành các nhóm khác nhau.",
+    "content": [
+        {
+            "title": "Trạng từ chỉ tần suất (Frequency)",
+            "text": "Trạng từ chỉ tần suất dùng thể hiện mức độ xảy ra và lặp lại của hành động được nhắc đến. ",
+            "example": [
+                {
+                    "original": "Usually, I cleans the house on weekends. ",
+                    "explanation": "Tôi thường xuyên lau nhà vào cuối tuần"
+                },
+                {
+                    "original": "Usually, I cleans the house on weekends. ",
+                    "explanation": "Tôi thường xuyên lau nhà vào cuối tuần"
+                },
+                {
+                    "original": "I confess to my mom occasionally. ",
+                    "explanation": "Tôi thỉnh thoảng khi tâm sự với mẹ"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/11/23/tong-hop-kien-thuc-ve-trang-tu-chi-tan-suat-adverbs-of-frequency-1.webp",
+            "video_url": null
+        },
+        {
+            "title": "Trạng từ chỉ địa điểm (Place)",
+            "text": "Trạng từ chỉ địa điểm diễn tả nơi hành động xảy ra. Đồng thời sẽ mô tả khái quát khoảng cách giữa hành động và người nói. ",
+            "example": [
+                {
+                    "original": "I went there to get my new uniforms.",
+                    "explanation": "Tôi đến đó để lấy đồng phục mới của mình."
+                },
+                {
+                    "original": "Here comes the motor so they wait for it.",
+                    "explanation": "Đây là nơi xe máy đến vì vậy họ đợi nó."
+                },
+                {
+                    "original": "Go along the corridor!",
+                    "explanation": "Hãy đi dọc theo hành lang!"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/11/15/trang-tu-chi-noi-chon-cach-su-dung-va-bai-tap-3.webp",
+            "video_url": null
+        },
+        {
+            "title": "Trạng từ chỉ thời gian (Time)",
+            "text": "Trạng từ để diễn tả thời gian xảy ra các hành động.",
+            "example": [
+                {
+                    "original": "I did not come to office yesterday.  ",
+                    "explanation": "Hôm qua, tôi không đi làm."
+                },
+                {
+                    "original": "Today, I’m going to visit my best friend",
+                    "explanation": "Hôm nay tôi sẽ đi thăm bạn thân của tôi."
+                },
+                {
+                    "original": "I have not seen you since last Sunday. ",
+                    "explanation": "Tôi đã không gặp bạn kể từ thứ 7 trước."
+                }
+            ],
+            "image_url": "https://flyer.vn/wp-content/uploads/2022/08/phan-loai-trang-tu-chi-thoi-gian-696x391.png",
+            "video_url": null
+        },
+        {
+            "title": "Trạng từ chỉ cách thức (Manner)",
+            "text": "Trạng từ loại này diễn tả cách thức, phương thức mà hành động diễn ra. ",
+            "example": [
+                {
+                    "original": "Tim always drives his care carefully",
+                    "explanation": "Tim luôn lái xe rất cẩn thận"
+                },
+                {
+                    "original": "My mother happily smiled",
+                    "explanation": "Mẹ của tôi cười thật hạnh phúc"
+                },
+                {
+                    "original": "He is working quickly",
+                    "explanation": "Anh ấy đang làm việc rất nhanh chóng"
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/11/15/tron-bo-kien-thuc-ve-trang-tu-chi-cach-thuc-3.webp",
+            "video_url": null
+        },
+        {
+            "title": "Trạng từ chỉ số lượng (Quantity)",
+            "text": "Trạng từ chỉ số lượng là loại trạng từ thể hiện số lượng của một sự việc, sự vật hay đối tượng cụ thể nào đó.",
+            "example": [
+                {
+                    "original": "Maya has some apples in her basket",
+                    "explanation": "Maya có một vài quả táo trong rổ của cô ấy"
+                },
+                {
+                    "original": "I have little money left in my bank account",
+                    "explanation": "Tôi còn ít tiền trong tài khoản ngân hàng"
+                }
+            ],
+            "image_url": "https://cms-static-assets.prepcdn.com/uploads/trang_tu_chi_so_luong_1_845e1fbed7.png",
+            "video_url": null
+        },
+        {
+            "title": "Trạng từ liên kết (Relation)",
+            "text": "Trạng từ quan hệ trong tiếng Anh (Relative adverbs) là một loại trạng từ được sử dụng để diễn đạt mối quan hệ hoặc liên kết giữa các phần của câu. ",
+            "example": [
+                {
+                    "original": "He didn’t study for the exam; as a result, he failed.",
+                    "explanation": "Anh ấy không học cho kì thi; kết quả là anh ta đã trượt."
+                },
+                {
+                    "original": "The restaurant was expensive. Nonetheless, the food was delicious.",
+                    "explanation": "Nhà hàng này rất đắt tiền. Tuy nhiên, thức ăn rất ngon."
+                }
+            ],
+            "image_url": "https://langgo.edu.vn/storage/upload/default/images/web-SEO/LangGo-T9/cac-trang-tu-lien-ket-trong-tieng-anh-duoc-phan-lam-7-loai.jpg",
+            "video_url": null
+        },
+        {
+            "title": "Thứ tự của các loại trạng từ trong một câu",
+            "text": "Biết được trạng từ trong tiếng Anh là gì và phân loại như trên, bạn cần tìm hiểu về thứ tự các trạng từ trong câu. Nếu các loại trạng từ cùng xuất hiện trong câu thì phải được sắp xếp sao cho hợp lý. Thứ tự ưu tiên từ trước đến sau của các loại trạng từ trong một câu là:",
+            "example": null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Trạng từ chỉ cách thức - Trạng từ chỉ địa điểm - Trạng từ chỉ tần suất - Trạng từ chỉ thời gian - Trạng từ chỉ mục đích",
+            "example": [
+                {
+                    "original": "I run quickly down the road every 7 a.m before school because I might miss the bus.",
+                    "explanation": "Tôi chạy nhanh xuống đường mỗi ngày trước khi đi học bởi tôi có thể bỏ lỡ chuyến xe buýt"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "Cách tạo ra trạng từ",
+            "text": "Áp dụng công thức: Tính từ + -ly -> Trạng từ.",
+            "example": [
+                {
+                    "original": "careful -> carefully",
+                    "explanation": "một cách cẩn thận"
+                },
+                {
+                    "original": "perfect -> perfectly",
+                    "explanation": "một cách hoàn hảo"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ kết thúc bởi đuôi -y, khi chuyển sang trạng từ, cần đưa thành đuôi -ily.",
+            "example": [
+                {
+                    "original": "happy -> happily ",
+                    "explanation": "một cách vui vẻ"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ kết thúc bởi đuôi -ic, chuyển sang trạng từ, cần đưa thành đuôi -ically.",
+            "example": [
+                {
+                    "original": "enthusiastic -> enthusiastically",
+                    "explanation": "một cách nhiệt tình"
+                },
+                {
+                    "original": "drastic -> drastically",
+                    "explanation": "một cách quyết liệt"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Nếu tính từ có kết thúc bằng -le hoặc -ue, thì chuyển sang đuôi -ly",
+            "example": [
+                {
+                    "original": "terrible -> terribly",
+                    "explanation": "một cách tồi tệ"
+                },
+                {
+                    "original": "true -> truly",
+                    "explanation": "thật lòng"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

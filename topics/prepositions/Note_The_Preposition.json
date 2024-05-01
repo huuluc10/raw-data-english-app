@@ -1,0 +1,62 @@
+{
+    "title": " Một số lưu ý khi sử dụng giới từ trong tiếng Anh ",
+    "description": "Trong phần này, chúng ta sẽ học cách sử dụng các loại giới từ trong tiếng Anh theo phân loại thời gian, địa điểm, phương hướng như đã liệt kê ở phần trên. Các bạn ghi chú lại phần này nha, rất quan trọng đó.",
+    "content": [
+        {
+            "title": "1. Giới từ có thể đứng cuối câu",
+            "text": "Giới từ trong tiếng Anh có thể là thành phần kết thúc câu, thường khi chúng năm trong cụm động từ hoặc cụm tính từ. Việc câu kết thúc với giới từ không khiến cho câu của bạn bị sai ngữ pháp.",
+            "example": [
+                {
+                    "original": "Is there something you don’t know about?",
+                    "explanation": "Có việc gì mà bạn không biết không?"
+                },
+                {
+                    "original": "Where did you get these pencils from?",
+                    "explanation": "Bạn mua mấy cái bút chì này ở đâu thế?"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Giới từ like trong tiếng Anh",
+            "text": "Like có dạng động từ và cả dạng giới từ. Khi “like” là giới từ, nó mang nghĩa tương tự, giống với (similar to, similarly to). Theo sau like là danh từ, cụm danh từ hoặc động từ, không theo sau bởi danh từ và động từ.",
+            "example": [
+                {
+                    "original": "Your younger sister looks like your mother.",
+                    "explanation": "Em gái bạn nhìn giống mẹ."
+                },
+                {
+                    "original": "My brother doesn’t want to be treated like a kid .",
+                    "explanation": "Anh trai tôi không thích bị đối xử như trẻ con."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Phân biệt “in” và “into”; “on” – “onto”",
+            "text": "In và On: giới từ chỉ vị trí, làm rõ chỗ đứng, địa điểm xảy ra sự việc.\nInto và Onto: giới từ chỉ chuyển động, làm rõ phương hướng của hành động, sự việc. Theo sau into/onto thường là 1 vật chứa đựng",
+            "example": [
+                {
+                    "original": "Sarah is swimming in the pool.",
+                    "explanation": "Sarah bơi ở trong hồ bơi."
+                },
+                {
+                    "original": "Sarah jumped into the pool.",
+                    "explanation": "Sarah nhảy xuống hồ bơi."
+                },
+                {
+                    "original": "The red ball is on the table.",
+                    "explanation": "Quả bóng màu đỏ ở trên bàn."
+                },
+                {
+                    "original": "The red ball is placed onto the table.",
+                    "explanation": "Quả bóng màu đỏ được đặt lên trên bàn."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

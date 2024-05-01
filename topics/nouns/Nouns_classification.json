@@ -1,0 +1,117 @@
+{
+    "title": "Phân loại danh từ",
+    "description": "Hiện có rất nhiều danh từ trong bảng từ vựng tiếng Anh. Bạn có thể tìm danh từ theo các các phân loại sau.",
+    "content": [
+        {
+            "title": "1. Phân loại theo danh từ số nhiều và danh từ số ít",
+            "text": "Danh từ trong tiếng Anh nếu có số lượng lớn hơn hai sẽ được chia ở số nhiều. Danh từ số nhiều thông thường được tạo thành bằng cách thêm cuối danh từ số ít đuôi “s” hoặc “es”. Dĩ nhiên, cách đọc danh từ sẽ có thay đổi cách đọc theo âm s/es ",
+            "example":[
+                {
+                    "original": "Danh từ số ít: Dog, House, Bed"
+                },
+                {
+                    "original": "Danh từ số nhiều: Dogs, Houses, Beds"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }, 
+        {
+            "title": "Lưu ý",
+            "text": "Sẽ có một số danh từ không theo quy tắc thêm s/es này. Bạn phải học thuộc  cho chính xác. Một số danh từ số nhiều ngoại lệ như: Mouse - Mice, Child - Children, Foot - Feet, Tooth - Teeth.",
+            "example":null,
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "2. Phân loại danh từ không đếm được và danh từ đếm được",
+            "text": "Các danh từ xếp trong nhóm danh từ không đếm được sẽ không có dạng cấu tạo số nhiều. Danh từ loại này phải đi kèm với đơn vị khác mới có thể đếm được. Còn danh từ đếm được là danh từ đếm được bằng số lượng cụ thể.",
+            "example":[
+                {
+                    "original": "Danh từ đếm được: book (cuốn sách), cat (con mèo),.."
+                },
+                {
+                    "original": "Danh từ không đếm được: milk (sữa), water (nước),..."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "3. Phân loại danh từ ghép và danh từ đơn",
+            "text": "Danh từ đơn là các danh từ đứng riêng lẻ. Danh từ đơn không kết hợp cùng từ loại danh từ hay tính từ khác. Danh từ ghép là danh từ tạo ra từ cách ghép 2 từ với nhau.",
+            "example":[
+                {
+                    "original": "Danh từ đơn: car (xe), mouse (con chuột)"
+                },
+                {
+                    "original": "Danh từ ghép: bus station (bến xe buýt), software (phần mềm)"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":"4. Phân loại danh từ cụ thể và danh từ trừu tượng ",
+            "text": "Chúng ta có các loại danh từ cụ thể như:",
+            "example":null,
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": " Danh từ riêng: Danh từ chỉ tên riêng của người, vùng đất, sự vật,địa danh",
+            "example":[
+                {
+                    "original": "China, Vinh Long, Donald Trump…"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Danh từ chung: Danh từ chỉ chung một loại hay một loài",
+            "example":[
+                {
+                    "original": "horse, house, table…"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Danh từ trừu tượng chỉ các khái niệm mang ý nghĩa trừu tượng",
+            "example":[
+                {
+                    "original": "revenge (sự trả thù), happiness (niềm hạnh phúc), belief (niềm tin), angry (sự tức giận),.."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":"5. Phân loại danh từ theo ý nghĩa: Danh từ chung và Danh từ riêng trong tiếng Anh",
+            "text": "Danh từ chung trong tiếng Anh (Common Nouns) có thể hiểu là các danh từ chỉ sự vật, sự việc, hiện tượng xung quanh chúng ta.",
+            "example":[
+                {
+                    "original": " adult (người trưởng thành), people (con người),…"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Danh từ riêng trong tiếng Anh (Proper Nouns) có thể hiểu là các danh từ chỉ tên riêng của một sự vật, sự việc xụ thể, chẳng hạn như tên người, tên địa điểm, tên hiện tượng,…",
+            "example":[
+                {
+                    "original": "Tom (tên người), India (Ấn Độ), Nile River (sông Nin),…"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

@@ -4,7 +4,7 @@
     "content": [
         {
             "title": "Young - Trẻ",
-            "text": null,
+            "text":"Phiên âm: /jʌŋ/",
             "example": [
                 {
                     "original": "She was young and full of energy.",
@@ -20,7 +20,7 @@
         },
         {
             "title": "Middle-aged - Trung niên",
-            "text": null,
+            "text": "Phiên âm: /ˈmɪdəl ˈeɪdʒd/",
             "example": [
                 {
                     "original": "He was middle-aged and had a few wrinkles.",
@@ -36,7 +36,7 @@
         },
         {
             "title": "Old - Già",
-            "text": null,
+            "text": "Phiên âm: /oʊld/",
             "example": [
                 {
                     "original": "He was old and had a few gray hairs.",

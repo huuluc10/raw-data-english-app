@@ -1,0 +1,76 @@
+{
+    "title": "Cách sử dụng và chức năng của danh từ ",
+    "description": "Danh từ, cụm danh từ trong tiếng Anh có số lượng rất lớn. Nó tham gia vào rất nhiều vai trò trong câu.",
+    "content": [
+        {
+            "title": "1. Danh từ/ cụm danh giữ vai trò chủ ngữ trong câu",
+            "text": "Khi giữ vai trò chủ ngữ, danh từ nằm ở vị trí đầu câu, đứng trước động từ được chia ",
+            "example":[
+                {
+                    "original": "Math is my favorite subject.",
+                    "explanation": "Toán là môn học yêu thích của tôi"
+                },
+                {
+                    "original": "This table is brown",
+                    "explanation": "Cái bàn này màu nâu"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Danh từ trong tiếng Anh làm tân ngữ sau động từ",
+            "text": "Một số động từ phải có tân ngữ. Danh từ sẽ được dùng làm tân ngữ cho động từ. Lúc này danh từ sẽ đứng ngay sau động từ đó. ",
+            "example": [
+            {
+                "original": "I buy a new shirt",
+                "explanation": "Tôi vừa mua một cái áo mới"
+            },
+            {
+                "original": "She eats fish",
+                "explanation": "Cô ấy ăn cá"
+            }
+        ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "3. Danh từ làm tân ngữ sau giới từ",
+            "text": "Một số trường hợp danh từ sẽ làm tân ngữ cho giới từ. Lúc này danh từ sẽ đứng phía sau giới từ đó.",
+            "example":[
+                {
+                    "original": "I work at this store",
+                    "explanation": "Tôi làm việc ở cửa hàng này"
+                },
+                {
+                    "original": "She has to pay attention to Tom",
+                    "explanation": "Cô ấy phải để ý tới Tom"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },{
+            "title": "4. Danh từ làm bổ ngữ cho tân ngữ",
+            "text": "Danh từ đứng sau động từ như appoint, name, declare… nó có thể trở thành bổ ngữ cho tân ngữ trong câu. ",
+            "example":[
+                {
+                    "original": "Please call his Tom!",
+                    "explanation": "Hãy gọi anh ấy là Tom!"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },{
+            "title": "5. Danh từ làm bổ ngữ cho chủ ngữ",
+            "text": "Khi đóng vai trò bổ ngữ cho ngủ ngữ, danh từ đứng sau các động từ nối như tobe, become, seem,…",
+            "example":[
+                {
+                    "original": "John is an excellent student",
+                    "explanation": "John là một học sinh xuất sắc"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

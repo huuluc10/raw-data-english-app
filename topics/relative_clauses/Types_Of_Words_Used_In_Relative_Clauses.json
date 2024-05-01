@@ -1,0 +1,102 @@
+{
+    "title": "Các loại từ dùng trong mệnh đề quan hệ",
+    "description": "Thực tế, trong mệnh đề quan hệ thường dùng hai loại từ chính là đại từ quan hệ và trạng từ quan hệ. Đó là các từ nào? Cùng khám phá chi tiết dưới đây:",
+    "content": [
+        {
+            "title": "1. Các loại đại từ quan hệ",
+            "text": "Who: Thường sử dụng làm chủ ngữ, tân ngữ hoặc có thể thay thế cho các danh từ chỉ người.",
+            "example":[
+                {
+                    "original": "The person I admire most in life is my father, who has done so many great things for our family.",
+                    "explanation":"Người tôi ngưỡng mộ nhất trong cuộc sống là bố của tôi, người mà đã làm rất nhiều điều vĩ đại vì gia đình chúng tôi."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        }, 
+        {
+            "title": null,
+            "text": "Whom: Thường sử dụng để làm tân ngữ hoặc thay thế cho các danh từ chỉ người.",
+            "example":[
+                {
+                    "original": "Do you know the teacher whom was the homeroom of my class for 3 years in high school?",
+                    "explanation":"Bạn có biết cô giáo người mà là chủ nhiệm của lớp tôi trong suốt 3 năm cấp 3?"
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Which: Thường sử dụng để làm chủ ngữ, tân ngữ, dùng để thay thế cho các danh từ chỉ vật.",
+            "example":[
+                {
+                    "original": "I really like Vietnam which has a lot of delicious, cheap street food.",
+                    "explanation":"Tôi thực sự rất thích Việt Nam cái mà có rất nhiều món ăn đường phố ngon, rẻ."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "That: Thường dùng làm chủ ngữ, tân ngữ để thay cho cả danh từ chỉ người và danh từ chỉ vật (who, whom,which). Tuy nhiên, that sẽ không dùng trong các mệnh đề quan hệ không xác định hoặc các giới từ.",
+            "example":[
+                {
+                    "original": "He was talking about the movie that he went to see last night.",
+                    "explanation":"Anh ta đang nói về bộ phim cái mà anh ta đã đi xem vào tối hôm qua."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": " Whose: Dùng để chỉ sự sở hữu của người và vật.",
+            "example":[
+                {
+                    "original": " Mr. Roborts, whose son received a full scholarship to Harvard University, is a very kind man.",
+                    "explanation":"Ông Roborts người có con trai nhận được học bổng toàn phần của đại học Harvard là người rất phúc hậu."
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/10/06/menh-de-quan-he-2.webp",
+            "video_url": null
+        },
+        {
+            "title":"2. Các loại trạng từ quan hệ",
+            "text": "Why: Thường sử dụng cho các mệnh đề chỉ lý do, sử dụng thay cho for that reason hoặc for the reason. ",
+            "example":[
+                {
+                    "original": " I don’t know the reason why you didn’t go to school.",
+                    "explanation":"Tôi không biết lý do tại sao bạn không đi học."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": "Where: Dùng để thay thế từ chỉ nơi chốn, dùng thay cho there.",
+            "example":[
+                {
+                    "original": "The hotel where we stayed wasn’t very clean.",
+                    "explanation":"Khách sạn nơi chúng tôi ở không được sạch sẽ cho lắm."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title":null,
+            "text": " When: Dùng thay thế cho các từ chỉ thời gian, thay cho when.",
+            "example":[
+                {
+                    "original": "Do you still remember the day when we first met?",
+                    "explanation":"Bạn có còn nhớ ngày đầu tiên chúng ta gặp nhau không?"
+                }
+            ],
+            "image_url":"https://langmaster.edu.vn/storage/images/2022/10/06/menh-de-quan-he-3.webp",
+            "video_url": null
+        }
+    ]
+}

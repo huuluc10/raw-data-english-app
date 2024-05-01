@@ -1,0 +1,79 @@
+{
+    "title": "DANH TỪ TRONG TIẾNG ANH",
+    "description": "Từ vựng trong tiếng Anh là yếu tố quyết định cho những cuộc giao tiếp thành công. Danh từ cũng thế, đây là phần vô cùng quan trọng trong giao tiếp.",
+    "content": [
+        {
+            "title": "Danh từ trong tiếng Anh là gì? (Noun)",
+            "text": " Danh từ (Noun) là những từ chỉ một người, tên gọi sự vật, sự việc, hiện tượng một tình trạng hay một cảm xúc. ",
+            "example":null,
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "Ví dụ về danh từ trong tiếng Anh",
+            "text": "Các danh từ chỉ người trong tiếng Anh",
+            "example":  [
+                {
+                    "original": "we (chúng ta), teacher (cô giáo), the women (phụ nữ),…"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Danh từ chỉ con vật",
+            "example":  [
+                {
+                    "original": "bird (con chim), giraffe (con hươu cao cổ), cattle (gia súc)…"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Danh từ chỉ vật",
+            "example": [
+              {
+                "original": "shoes (giày), desk (bàn làm việc), phone (điện thoại), computer (máy tính), book (sách), pen (bút), pencil (bút chì), paper (giấy), bag (túi xách), chair (ghế), table (bàn), bed (giường),..."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Danh từ chỉ hiện tượng thời tiết",
+            "example": [
+              {
+                "original": "rain (cơn mưa), breeze (cơn gió nhẹ),…"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Danh từ chỉ địa điểm",
+            "example": [
+              {
+                "original": "library (thư viện), coffee shop (quán cà phê),..."
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "Danh từ chỉ khái niệm",
+            "example": [
+              {
+                "original": "tradition (truyền thống), quality (chất lượng), knowledge (kiến thức)…"
+              }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

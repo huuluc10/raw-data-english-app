@@ -1,0 +1,62 @@
+{
+    "title": " Vị trí của giới từ trong tiếng Anh",
+    "description": "Giới từ trong tiếng Anh có 3 vị trí đứng trong câu gắn với các thành phần chính trong câu: danh từ, động từ và tính từ. Các bạn ghi chú lại phần này để dễ nhớ, dễ học mẹo hơn các phần kiến thức sắp tới nhé.",
+    "content": [
+        {
+            "title": "1. Giới từ trong tiếng Anh đứng trước danh từ ",
+            "text": "Trong câu có danh từ và đặc biệt nếu có đi kèm động từ to be, prepositions sẽ đứng SAU to be và TRƯỚC danh từ đó.",
+            "example": [
+                {
+                    "original": "The pencils are inside the box.",
+                    "explanation": "Mấy cây bút chì đang ở trong hộp."
+                },
+                {
+                    "original": "The box is on the shelf.",
+                    "explanation": "Cái hộp đặt ở trên giá."
+                },
+                {
+                    "original": "We will be in Ho Chi Minh city next month.",
+                    "explanation": "Chúng tôi sẽ ở thành phố Hồ Chí Minh tháng sau."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": "2. Giới từ trong tiếng Anh đứng sau tính từ ",
+            "text": "Việc kết hợp tính từ và giới từ trong tiếng Anh sẽ cho ra các cụm tính từ. Mỗi tính từ khác nhau sẽ buộc phải đi kèm giới từ tương ứng. Bạn không thể dùng ngẫu nhiên tính từ và giới từ.",
+            "example": [
+                {
+                    "original": "Ron is afraid of spiders. ",
+                    "explanation": "Ron sợ những con nhện."
+                },
+                {
+                    "original": "The customers are interested in our products.",
+                    "explanation": "Các khách hàng có hứng thú với các sản phẩm của chúng tôi."
+                },
+                {
+                    "original": "My parents were surprised at my gift for them.",
+                    "explanation": "Bố mẹ tôi ngạc nhiên về món quà mà tôi tặng."
+                }
+            ],
+            "image_url":null,
+            "video_url": null
+        },
+        {
+            "title": "3. Giới từ trong tiếng Anh đứng sau động từ ",
+            "text": "Giới từ trong tiếng Anh có thể đứng ngay sau động từ.\nViệc kết hợp động từ verb và prepositions sẽ tạo thành các cụm động từ (Phrasal verbs). Trong nhiều trường hợp, có thể xuất hiện 1 từ khác chen giữa giới từ và động từ.",
+            "example": [
+                {
+                    "original": "Take your shoes off, I’ve just cleaned the floor.",
+                    "explanation": "Bạn tháo giày ra đi, tôi vừa mới lau sàn xong."
+                },
+                {
+                    "original": "My dad decided to give up smoking.",
+                    "explanation": "Bố tôi quyết định bỏ thuốc lá."
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "title": "MẠO TỪ TRONG TIẾNG ANH LÀ GÌ? (ARTICLE)",
+    "description": "Mạo từ trong tiếng Anh là những từ đứng trước danh từ, nhằm cho biết danh từ đó nhắc đến một đối tượng xác định hoặc không xác định. Đây là phần ngữ pháp cơ bản thường gặp trong các kỳ thi tiếng Anh. Tuy nhiên, mạo từ là gì? Cách dùng mạo từ trong tiếng Anh như thế nào? Hãy cùng tìm hiểu chi tiết ngay dưới đây.",
+    "content": [
+        {
+            "title": "Mạo từ trong tiếng Anh là gì? (Article là gì ?)",
+            "text": "Mạo từ trong tiếng Anh (article) là những từ thường đứng trước danh từ, dùng để người đọc nhận biết được danh từ đó là xác định hay không xác định. Thực tế, mạo từ không phải là một loại từ riêng biệt mà người ta chỉ xem nó như là một bộ phận của tính từ, dùng để bổ nghĩa cho danh từ.",
+            "example": [
+                {
+                    "original": "I see a dog. The dog is running across the road very fast.",
+                    "explanation": "Tôi nhìn thấy một con chó. Con chó đang chạy qua đường rất nhanh."
+                },
+                {
+                    "original": "Please give me the pen on the table.",
+                    "explanation": "Làm ơn đưa cho tôi cái bút ở trên bàn."
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/11/mao-tu-trong-tieng-anh-1.webp",
+            "video_url": null
+        },
+        {
+            "title": "Các loại mạo từ thường gặp trong tiếng Anh ",
+            "text": "1. Mạo từ bất định (Indefinite article): Trong tiếng Anh, có 2 mạo từ bất định là a và an:",
+            "example":null,
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "“a” thường đứng trước danh từ đếm được số ít, bắt đầu bằng một phụ âm.",
+            "example": [
+                {
+                    "original": "A table",
+                    "explanation": "Một cái bàn"
+                },
+                {
+                    "original": "A book",
+                    "explanation": "Một quyển sách"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "“an” thường đứng trước danh từ đếm được số ít bắt đầu bằng phụ âm (e, u, i, o, a) hoặc âm “h” câm.",
+            "example": [
+                {
+                    "original": "An hour ",
+                    "explanation": "Một giờ"
+                },
+                {
+                    "original": "An apple",
+                    "explanation": "Một quả táo"
+                }
+            ],
+            "image_url": null,
+            "video_url": null
+        },
+        {
+            "title": null,
+            "text": "2. Mạo từ xác định (Definite article):Mạo từ xác định thường sử dụng trong tiếng Anh là mạo từ “the”. The thường dùng trước một đối tượng xác định (cả người nói và người nghe đều biết rõ về đối tượng đó). Mạo từ “the” có thể sử dụng cho danh từ đếm được ở số ít hoặc danh từ không đến được ở số nhiều.",
+            "example": [
+                {
+                    "original": "The man talking to Lan is my boyfriend",
+                    "explanation": "Người đàn ông đang nói chuyện với Lan là bạn trai của tôi"
+                },
+                {
+                    "original": "Yesterday, I saw an accident here. The accident left one person injured and the motorcycle severely damaged.",
+                    "explanation": "Hôm qua, tôi đã thấy một vụ tai nạn ở chỗ này. Vụ tai nạn đã khiến cho 1 người bị thương và chiếc xe máy bị hư hỏng nặng."
+                }
+            ],
+            "image_url": "https://langmaster.edu.vn/storage/images/2022/10/11/mao-tu-trong-tieng-anh-2.webp",
+            "video_url": null
+        }
+    ]
+}

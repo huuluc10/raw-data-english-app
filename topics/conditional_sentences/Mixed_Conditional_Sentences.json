@@ -1,0 +1,44 @@
+{
+  "title": "Câu điều kiện hỗn hợp (Mixed conditional)",
+  "description": "Câu điều kiện hỗn hợp có thể hiểu đơn giản là sự kết hợp giữa mệnh đề tình huống với mệnh đề kết quả.",
+  "content": [
+    {
+      "title": "Câu điều kiện loại 3 + loại 2",
+      "text": "Công thức: If + S+ had + V(pp) + …, S + would + V(bare) +…",
+      "image_url": "https://langmaster.edu.vn/storage/images/2022/10/28/cau-dieu-kien-trong-tieng-anh-1.webp",
+      "example": null,
+      "video_url": null
+    },
+    {
+      "title": "Cách sử dụng",
+      "text": "Câu điều kiện hỗn hợp loại 3 + loại 2 diễn tả một giả thiết không có thực trong quá khứ nhưng dẫn tới kết quả không có thực ở thì hiện tại.",
+      "image_url": null,
+      "example": [
+        {
+          "original": "If I had gone to bed earlier, I would not be late for school now.",
+          "explanation": "Nếu hôm qua tôi đi ngủ sớm hơn, tôi sẽ không muộn học bây giờ."
+        }
+      ],
+      "video_url": null
+    },
+    {
+      "title": "3.3.1. Câu điều kiện loại 2 + loại 3",
+      "text": "Công thức: If + S+ V(ed) +…, S+ would + have + V(pp) + …",
+      "image_url":"https://langmaster.edu.vn/storage/images/2022/10/28/cau-dieu-kien-trong-tieng-anh-2.webp",
+      "example": null,
+      "video_url": null
+    },
+    {
+      "title": "3.3.2. Cách sử dụng",
+      "text": "Câu điều kiện hỗn hợp loại 2 + loại 3 diễn tả một giả thiết không có thực ở cả quá khứ lẫn hiện tại, dẫn tới một kết quả cũng không có thực ở quá khứ (giả định những sự việc không thể thay đổi ở hiện tại).",
+      "image_url": null,
+      "example": [
+        {
+          "original": "If I didn't love him, I wouldn't have been in trouble.",
+          "explanation": "Nếu tôi chưa từng yêu anh ta, tôi đã không gặp rắc rối rồi."
+        }
+      ],
+      "video_url": null
+    }
+  ]
+}
