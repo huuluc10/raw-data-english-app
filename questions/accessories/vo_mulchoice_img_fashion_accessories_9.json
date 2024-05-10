@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/boots.png",
+  "answers": [
+    {
+      "text": "Ring",
+      "answer_image": null
+    },
+    {
+      "text": "Boots",
+      "answer_image": null
+    },
+    {
+      "text": "Gloves",
+      "answer_image": null
+    },
+    {
+      "text": "Purse",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Boots",
+  "correct_image": null,
+  "explanation": "“Boots” là một loại giày cao cổ, thường có đế dày và chống nước, được mặc trong thời tiết lạnh hoặc trong các hoạt động ngoài trời."
+}

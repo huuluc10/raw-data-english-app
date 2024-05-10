@@ -1,0 +1,25 @@
+   {
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/tie.png",
+  "answers": [
+    {
+      "text": "Tie",
+      "answer_image": null
+    },
+    {
+      "text": "Gloves",
+      "answer_image": null
+    },
+    {
+      "text": "Scarf",
+      "answer_image": null
+    },
+    {
+      "text": "Umbrella",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Tie",
+  "correct_image": null,
+  "explanation": "“Tie” là một chiếc cà vạt dùng để trang trí áo sơ mi hoặc áo vest."
+}

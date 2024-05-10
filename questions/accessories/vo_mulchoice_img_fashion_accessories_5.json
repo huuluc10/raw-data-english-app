@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/socks.png",
+  "answers": [
+    {
+      "text": "Socks",
+      "answer_image": null
+    },
+    {
+      "text": "Purse",
+      "answer_image": null
+    },
+    {
+      "text": "Tie",
+      "answer_image": null
+    },
+    {
+      "text": "Ring",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Socks",
+  "correct_image": null,
+  "explanation": "“Socks” là tất, mang vào chân để giữ ấm và thoải mái vận động."
+}

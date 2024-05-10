@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/apron.png",
+  "answers": [
+    {
+      "text": "Gloves",
+      "answer_image": null
+    },
+    {
+      "text": "Apron",
+      "answer_image": null
+    },
+    {
+      "text": "Necklace",
+      "answer_image": null
+    },
+    {
+      "text": "Watch",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Apron",
+  "correct_image": null,
+  "explanation": "“Apron” là tạp dề bảo vệ người mặc khỏi bụi, bẩn khi làm việc."
+}

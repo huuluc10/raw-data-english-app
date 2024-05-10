@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/gloves.png",
+  "answers": [
+    {
+      "text": "Gloves",
+      "answer_image": null
+    },
+    {
+      "text": "Sunglasses",
+      "answer_image": null
+    },
+    {
+      "text": "Boots",
+      "answer_image": null
+    },
+    {
+      "text": "Necklace",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Gloves",
+  "correct_image": null,
+  "explanation": "“Gloves” là một loại găng tay mang vào tay để bảo vệ và giữ ấm."
+}

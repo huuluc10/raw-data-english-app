@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/umbrella.png",
+  "answers": [
+    {
+      "text": "Scarf",
+      "answer_image": null
+    },
+    {
+      "text": "Umbrella",
+      "answer_image": null
+    },
+    {
+      "text": "Watch",
+      "answer_image": null
+    },
+    {
+      "text": "Socks",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Umbrella",
+  "correct_image": null,
+  "explanation": "“Umbrella” là cái ô, dùng để bảo vệ khỏi mưa hoặc nắng."
+}

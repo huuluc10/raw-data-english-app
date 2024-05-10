@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả phụ kiện gì?",
+  "question_image": "images/objects/accessories/sunglasses.png",
+  "answers": [
+    {
+      "text": "Purse",
+      "answer_image": null
+    },
+    {
+      "text": "Sunglasses",
+      "answer_image": null
+    },
+    {
+      "text": "Boots",
+      "answer_image": null
+    },
+    {
+      "text": "Scarf",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Sunglasses",
+  "correct_image": null,
+  "explanation": "“Sunglasses” là một cặp kính có tròng kính tối màu giúp bảo vệ mắt khỏi ánh nắng chói chang."
+}
