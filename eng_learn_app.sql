@@ -144,7 +144,7 @@ create table if not exists user_question
     question_id int not null,
     is_correct tinyint not null,
     date_done datetime default current_timestamp,
-    primary key(username, question_id),
+    primary key(username, question_id, date_done),
     foreign key(username) references user(username),
     foreign key(question_id) references question(question_id)
 );
