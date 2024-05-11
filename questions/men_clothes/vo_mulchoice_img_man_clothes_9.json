@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-sport-shoes.png",
+  "answers": [
+      {
+          "text": "Sport shoes",
+          "answer_image": null
+      },
+      {
+          "text": "Vest",
+          "answer_image": null
+      },
+      {
+          "text": "Polo shirt",
+          "answer_image": null
+      },
+      {
+          "text": "T-shirt",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Sport shoes",
+  "correct_image": null,
+  "explanation": "Giày thể thao là một loại giày được thiết kế đặc biệt để mặc trong hoạt động thể thao. Chúng thường có đế cao su và các tính năng đặc biệt như đệm và khả năng thoáng khí."
+}

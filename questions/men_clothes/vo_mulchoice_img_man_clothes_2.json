@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-sweater.png",
+  "answers": [
+      {
+          "text": "Sweater",
+          "answer_image": null
+      },
+      {
+          "text": "Shirt",
+          "answer_image": null
+      },
+      {
+          "text": "Jeans",
+          "answer_image": null
+      },
+      {
+          "text": "Gloves",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Sweater",
+  "correct_image": null,
+  "explanation": "Áo len là một loại áo dài tay được làm từ len hoặc các chất liệu vải dệt khác. Áo len thường được mặc trong mùa đông để giữ ấm."
+}

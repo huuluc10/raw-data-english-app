@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/straw-hat.png",
+  "answers": [
+    {
+      "text": "Straw hat",
+      "answer_image": null
+    },
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Straw hat",
+  "correct_image": null,
+  "explanation": "Straw hat là một loại mũ được làm bằng tre hoặc cỏ khô, thường có nón rộng và có những lỗ thông hơi để giúp giữ mát. Nó thường được đội trong môi trường ngoài trời và được sử dụng để che nắng."
+}

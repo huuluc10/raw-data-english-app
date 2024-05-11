@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-business-shoes.png",
+  "answers": [
+      {
+          "text": "Business shoes",
+          "answer_image": null
+      },
+      {
+          "text": "Shorts",
+          "answer_image": null
+      },
+      {
+          "text": "Cardigan",
+          "answer_image": null
+      },
+      {
+          "text": "T-shirt",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Business shoes",
+  "correct_image": null,
+  "explanation": "Giày công sở là một loại giày được thiết kế đặc biệt để mặc trong môi trường công việc. Chúng thường có kiểu dáng trang nhã và được làm từ chất liệu bền chắc như da."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-gloves.png",
+  "answers": [
+      {
+          "text": "Gloves",
+          "answer_image": null
+      },
+      {
+          "text": "Cap",
+          "answer_image": null
+      },
+      {
+          "text": "Suit",
+          "answer_image": null
+      },
+      {
+          "text": "Singlet",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Gloves",
+  "correct_image": null,
+  "explanation": "Găng tay là một loại phụ kiện dùng để bảo vệ và giữ ấm tay. Chúng thường được làm từ các chất liệu như len, da, hoặc vải."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-shorts.png",
+  "answers": [
+      {
+          "text": "Shorts",
+          "answer_image": null
+      },
+      {
+          "text": "Cardigan",
+          "answer_image": null
+      },
+      {
+          "text": "Jacket",
+          "answer_image": null
+      },
+      {
+          "text": "Sport shoes",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Shorts",
+  "correct_image": null,
+  "explanation": "Quần soóc là một loại quần ngắn, thường được mặc trong môi trường nóng hoặc khi tham gia các hoạt động thể thao. Chúng thường có chiều dài ngắn và bản rộng."
+}

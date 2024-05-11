@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/derby-hat.png",
+  "answers": [
+    {
+      "text": "Derby hat",
+      "answer_image": null
+    },
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Derby hat",
+  "correct_image": null,
+  "explanation": "Derby hat, còn được gọi là bowler hat, là một loại mũ tròn và cứng, thường được làm bằng lông vũ và có một nón nhỏ. Nó thường được đội bởi nam giới và là một phụ kiện thời trang truyền thống."
+}

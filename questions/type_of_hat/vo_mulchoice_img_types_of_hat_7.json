@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/mortar-board.png",
+  "answers": [
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Mortar board",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Mortar board",
+  "correct_image": null,
+  "explanation": "Mortar board là một loại mũ hình vuông được đội trong các lễ tốt nghiệp. Nó thường là một biểu tượng của sự hoàn thành học vấn và được đội bởi sinh viên khi nhận bằng cử nhân hoặc thạc sĩ."
+}

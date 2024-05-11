@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/beret.png",
+  "answers": [
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Beret",
+  "correct_image": null,
+  "explanation": "Beret là một loại mũ tròn phẳng, thường được làm bằng vải và có nón nhỏ. Nó thường được đội như một biểu tượng của phong cách và thường được liên kết với nền văn hóa Pháp."
+}

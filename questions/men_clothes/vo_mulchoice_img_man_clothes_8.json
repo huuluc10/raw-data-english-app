@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-cardigan.png",
+  "answers": [
+      {
+          "text": "Jacket",
+          "answer_image": null
+      },
+      {
+          "text": "Sport shoes",
+          "answer_image": null
+      },
+      {
+          "text": "Vest",
+          "answer_image": null
+      },
+      {
+          "text": "Cardigan",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Cardigan",
+  "correct_image": null,
+  "explanation": "Áo len dài, hay áo khoác len, là một loại áo len có chiều dài dưới hông hoặc đùi. Áo len dài thường được mặc trong mùa đông để giữ ấm."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/cap.png",
+  "answers": [
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Cap",
+  "correct_image": null,
+  "explanation": "Cap là một loại mũ có nón, thường được làm bằng vải hoặc vật liệu khác và có thể có nhiều kiểu dáng và màu sắc khác nhau. Nó thường được đội để che nắng hoặc làm phụ kiện thời trang."
+}

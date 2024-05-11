@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/top-hat.png",
+  "answers": [
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Top hat",
+  "correct_image": null,
+  "explanation": "Top hat là một loại mũ cao và hẹp, thường được làm bằng vải hoặc da. Đây là một loại mũ truyền thống và thường được đội trong các dịp đặc biệt hoặc trong các sự kiện thời trang cao cấp."
+}

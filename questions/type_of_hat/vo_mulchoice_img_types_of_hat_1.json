@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/beanie.png",
+  "answers": [
+    {
+      "text": "Top hat",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Beanie",
+  "correct_image": null,
+  "explanation": "Beanie là một loại mũ nhỏ, thường được làm bằng len hoặc vải mềm. Beanie thường được đội để giữ ấm đầu trong thời tiết lạnh, và nó cũng có thể là một phụ kiện thời trang."
+}

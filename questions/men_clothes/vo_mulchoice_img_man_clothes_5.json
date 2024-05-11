@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-suit.png",
+  "answers": [
+      {
+          "text": "Tie",
+          "answer_image": null
+      },
+      {
+          "text": "Wallet",
+          "answer_image": null
+      },
+      {
+          "text": "Suit",
+          "answer_image": null
+      },
+      {
+          "text": "Belt",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Suit",
+  "correct_image": null,
+  "explanation": "Bộ vest là một bộ trang phục phổ biến trong các dịp trang trọng như đám cưới, buổi lễ hoặc sự kiện chuyên nghiệp. Bộ vest thường bao gồm áo vest, áo sơ mi, quần tây và nơ hoặc cà vạt."
+}

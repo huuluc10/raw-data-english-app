@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/clothes/men-shirt.png",
+  "answers": [
+      {
+          "text": "Sweater",
+          "answer_image": null
+      },
+      {
+          "text": "Shirt",
+          "answer_image": null
+      },
+      {
+          "text": "Jeans",
+          "answer_image": null
+      },
+      {
+          "text": "Gloves",
+          "answer_image": null
+      }
+  ],
+  "correct_answer": "Shirt",
+  "correct_image": null,
+  "explanation": "Áo sơ mi là một loại áo dài tay hoặc áo ngắn tay được làm từ chất liệu vải mềm. Áo sơ mi thường được mặc trong các dịp trang trọng hoặc trong môi trường công việc."
+}

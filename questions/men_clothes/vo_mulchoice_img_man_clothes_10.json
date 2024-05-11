@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/men-singlet.png",
+    "answers": [
+        {
+            "text": "Singlet",
+            "answer_image": null
+        },
+        {
+            "text": "Business shoes",
+            "answer_image": null
+        },
+        {
+            "text": "Flip flops",
+            "answer_image": null
+        },
+        {
+            "text": "Shorts",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Singlet",
+    "correct_image": null,
+    "explanation": "Áo ba lỗ, hay còn gọi là áo sơ mi không tay, là một loại áo có cổ và không có tay áo. Áo ba lỗ thường được mặc trong thời tiết nóng hoặc khi tham gia các hoạt động thể thao."
+}

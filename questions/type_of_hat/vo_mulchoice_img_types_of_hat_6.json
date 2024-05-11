@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả vật gì?",
+  "question_image": "images/objects/hats/helmet.png",
+  "answers": [
+    {
+      "text": "Helmet",
+      "answer_image": null
+    },
+    {
+      "text": "Cap",
+      "answer_image": null
+    },
+    {
+      "text": "Beanie",
+      "answer_image": null
+    },
+    {
+      "text": "Beret",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Helmet",
+  "correct_image": null,
+  "explanation": "Helmet là một loại mũ bảo hiểm được thiết kế để bảo vệ đầu khỏi các nguy hiểm và chấn động. Nó thường được sử dụng bởi các người lái xe mô tô, người chơi thể thao và công nhân trong các ngành công nghiệp nguy hiểm."
+}
