@@ -1,0 +1,21 @@
+{
+  "question": "Everyone was watching me and I felt very ________ - conscious.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "un",
+      "answer_image": null
+    },
+    {
+      "text": "over",
+      "answer_image": null
+    },
+    {
+      "text": "self",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "self",
+  "correct_image": null,
+  "explanation": "Cảm thấy tự ti (self-conscious) có nghĩa là nhận thức và quan tâm đến cách người khác nhìn nhận mình."
+}

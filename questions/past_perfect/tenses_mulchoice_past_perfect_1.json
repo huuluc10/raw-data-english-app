@@ -1,0 +1,25 @@
+{
+  "question": "By the time they arrived, the party ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already started",
+      "answer_image": null
+    },
+    {
+      "text": "had already started",
+      "answer_image": null
+    },
+    {
+      "text": "already starting",
+      "answer_image": null
+    },
+    {
+      "text": "already starts",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already started",
+  "correct_image": null,
+  "explanation": "Trước khi họ đến, bữa tiệc đã bắt đầu."
+}

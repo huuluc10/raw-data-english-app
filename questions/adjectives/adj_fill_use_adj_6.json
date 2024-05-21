@@ -1,0 +1,17 @@
+{
+  "question": "That fridge produces a very ________________ effect.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "pleased",
+      "answer_image": null
+    },
+    {
+      "text": "pleasing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "pleasing",
+  "correct_image": null,
+  "explanation": "Dùng pleasing để miêu tả tính chất của tủ lạnh"
+}

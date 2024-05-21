@@ -1,0 +1,25 @@
+{
+  "question": "When preparing a diet, a person should be aware that vitamin D acts to increase the amount of calcium absorbed by the body.\nĐồng nghĩa của \"a diet\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "schedule of exercise",
+      "answer_image": null
+    },
+    {
+      "text": "medicinal chart",
+      "answer_image": null
+    },
+    {
+      "text": "study of longevity",
+      "answer_image": null
+    },
+    {
+      "text": "nutritional plan",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "nutritional plan",
+  "correct_image": null,
+  "explanation": "Diet = nutritional plan (n) chế độ ăn kiêng"
+}

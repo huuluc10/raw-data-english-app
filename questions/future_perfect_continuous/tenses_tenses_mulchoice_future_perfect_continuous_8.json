@@ -1,0 +1,21 @@
+{
+  "question": "The teachers will ________ for a month by the time the deal is made.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been striking",
+      "answer_image": null
+    },
+    {
+      "text": "will strike",
+      "answer_image": null
+    },
+    {
+      "text": "will be striking",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been striking",
+  "correct_image": null,
+  "explanation": "Các giáo viên sẽ đã đình công được một tháng vào lúc thỏa thuận được thực hiện."
+}

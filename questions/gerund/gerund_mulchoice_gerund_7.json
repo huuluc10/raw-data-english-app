@@ -1,0 +1,17 @@
+{
+  "question": "Sandra decided ________ economics in London.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to study",
+      "answer_image": null
+    },
+    {
+      "text": "studying",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to study",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này nên sử dụng cấu trúc 'decided to + động từ nguyên thể'."
+}

@@ -1,0 +1,17 @@
+{
+  "question": "Mike is a ___. teacher.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "good",
+      "answer_image": null
+    },
+    {
+      "text": "well",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "good",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'good' là tính từ được sử dụng để mô tả chất lượng của một giáo viên."
+}

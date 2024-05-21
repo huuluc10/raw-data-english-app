@@ -1,0 +1,25 @@
+{
+  "question": "By the time she arrived at the concert, her favorite band ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already play",
+      "answer_image": null
+    },
+    {
+      "text": "had already play",
+      "answer_image": null
+    },
+    {
+      "text": "already played",
+      "answer_image": null
+    },
+    {
+      "text": "had already played",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already played",
+  "correct_image": null,
+  "explanation": "Trước khi cô đến buổi hòa nhạc, ban nhạc yêu thích của cô đã biểu diễn."
+}

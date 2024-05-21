@@ -1,0 +1,25 @@
+{
+  "question": "I said that I had met her ______ .",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "yesterday",
+      "answer_image": null
+    },
+    {
+      "text": "the previous day",
+      "answer_image": null
+    },
+    {
+      "text": "the day",
+      "answer_image": null
+    },
+    {
+      "text": "the before day",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "yesterday",
+  "correct_image": null,
+  "explanation": "Tôi nói rằng tôi đã gặp cô ấy hôm qua."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "What did that man say ______?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "at you",
+      "answer_image": null
+    },
+    {
+      "text": "for you",
+      "answer_image": null
+    },
+    {
+      "text": "to you",
+      "answer_image": null
+    },
+    {
+      "text": "you",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to you",
+  "correct_image": null,
+  "explanation": "Người đàn ông đó nói gì với bạn?"
+}

@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-long-coat.png",
+    "answers": [
+      {
+        "text": "Purse",
+        "answer_image": null
+      },
+      {
+        "text": "Long coat",
+        "answer_image": null
+      },
+      {
+        "text": "Ring",
+        "answer_image": null
+      },
+      {
+        "text": "Uniform",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Long coat",
+    "correct_image": null,
+    "explanation": "Long coat là một loại áo khoác dài, thường có độ dài từ đầu gối trở xuống. Nó thường được làm từ vật liệu ấm áp để giữ ấm trong thời tiết lạnh."
+  }

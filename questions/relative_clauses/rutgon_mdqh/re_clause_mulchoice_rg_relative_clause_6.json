@@ -1,0 +1,21 @@
+{
+  "question": "The boy who is playing the guitar is very talented.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The boy playing the guitar is very talented.",
+      "answer_image": null
+    },
+    {
+      "text": "The playing the guitar boy is very talented.",
+      "answer_image": null
+    },
+    {
+      "text": "The boy who playing the guitar is very talented.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The boy playing the guitar is very talented.",
+  "correct_image": null,
+  "explanation": "Cậu bé đang chơi đàn guitar rất tài năng."
+}

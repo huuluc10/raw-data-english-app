@@ -1,0 +1,21 @@
+{
+  "question": "The films run all night. We ________ movies for six hours by the time the feature comes on.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "watched",
+      "answer_image": null
+    },
+    {
+      "text": "will have been watching",
+      "answer_image": null
+    },
+    {
+      "text": "will watch",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have been watching",
+  "correct_image": null,
+  "explanation": "Các bộ phim chiếu suốt đêm. Chúng tôi sẽ đã xem phim suốt sáu giờ vào lúc phần nổi bật xuất hiện."
+}

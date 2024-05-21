@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-necklace.png",
+    "answers": [
+      {
+        "text": "Purse",
+        "answer_image": null
+      },
+      {
+        "text": "Ring",
+        "answer_image": null
+      },
+      {
+        "text": "Necklace",
+        "answer_image": null
+      },
+      {
+        "text": "Earrings",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Necklace",
+    "correct_image": null,
+    "explanation": "Necklace là một loại dây chuyền được đeo xung quanh cổ. Nó thường được làm từ các hạt, kim loại quý, hoặc vật liệu khác và được sử dụng như một phụ kiện."
+}

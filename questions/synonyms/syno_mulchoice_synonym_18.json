@@ -1,0 +1,25 @@
+{
+  "question": "Participants from 100 countries go to the Olympic Games.\nĐồng nghĩa của \"Participants\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "People who represent.",
+      "answer_image": null
+    },
+    {
+      "text": "People who come",
+      "answer_image": null
+    },
+    {
+      "text": "People who take part in",
+      "answer_image": null
+    },
+    {
+      "text": "People who are athletes",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "People who take part in",
+  "correct_image": null,
+  "explanation": "Participants = people who take part in (n) người tham gia"
+}

@@ -1,0 +1,17 @@
+{
+  "question": "There ________ some changes when the new management takes over.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will have been",
+      "answer_image": null
+    },
+    {
+      "text": "will be",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have been",
+  "correct_image": null,
+  "explanation": "Sẽ có một số thay đổi khi quản lý mới tiếp quản."
+}

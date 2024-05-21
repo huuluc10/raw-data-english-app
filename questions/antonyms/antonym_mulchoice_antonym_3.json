@@ -1,0 +1,25 @@
+{
+  "question": "I have a modest little glass fish tank where I keep a variety of small fish.\nTừ trái nghĩa của \"modest\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "moderate",
+      "answer_image": null
+    },
+    {
+      "text": "limited",
+      "answer_image": null
+    },
+    {
+      "text": "narrow",
+      "answer_image": null
+    },
+    {
+      "text": "large",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "large",
+  "correct_image": null,
+  "explanation": "modest: nhỏ nhắn, khiêm tốn >< large: to lớn"
+}

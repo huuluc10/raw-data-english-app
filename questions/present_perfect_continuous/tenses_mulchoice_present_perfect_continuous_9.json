@@ -1,0 +1,25 @@
+{
+  "question": "They ………. in the garden since morning.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "play",
+      "answer_image": null
+    },
+    {
+      "text": "have played",
+      "answer_image": null
+    },
+    {
+      "text": "are playing",
+      "answer_image": null
+    },
+    {
+      "text": "have been playing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been playing",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là They (số nhiều) và câu này cho biết một hành động đã kéo dài từ quá khứ đến hiện tại, nên câu trúc đúng là \"have been playing\"."
+}

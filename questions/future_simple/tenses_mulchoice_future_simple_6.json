@@ -1,0 +1,21 @@
+{
+  "question": "That __________ our gift to the school.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be",
+      "answer_image": null
+    },
+    {
+      "text": "would be",
+      "answer_image": null
+    },
+    {
+      "text": "will have been",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be",
+  "correct_image": null,
+  "explanation": "Đó sẽ là món quà của chúng ta cho trường."
+}

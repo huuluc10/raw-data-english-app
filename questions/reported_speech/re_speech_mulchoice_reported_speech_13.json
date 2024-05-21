@@ -1,0 +1,25 @@
+{
+  "question": "When I rang Tessa some time last week, she said she was busy ______ day.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "that",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    },
+    {
+      "text": "then",
+      "answer_image": null
+    },
+    {
+      "text": "this",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "that",
+  "correct_image": null,
+  "explanation": "Khi tôi gọi Tessa vào một lúc trong tuần trước, cô ấy nói cô ấy bận vào ngày đó."
+}

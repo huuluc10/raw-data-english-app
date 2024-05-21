@@ -1,0 +1,21 @@
+{
+  "question": "If Lanny ______(live) in Vietnam, she ______(speak) Vietnamese fluently.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "lived – could speak",
+      "answer_image": null
+    },
+    {
+      "text": "lived – spoke",
+      "answer_image": null
+    },
+    {
+      "text": "lived – will speak",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "lived – could speak",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2, chúng ta sử dụng 'could' + động từ nguyên mẫu (could speak) trong mệnh đề kết quả và 'lived' trong mệnh đề điều kiện."
+}

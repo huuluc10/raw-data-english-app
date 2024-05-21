@@ -1,0 +1,25 @@
+{
+  "question": "By the time we got to the airport, the plane ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already took off",
+      "answer_image": null
+    },
+    {
+      "text": "had already taken off",
+      "answer_image": null
+    },
+    {
+      "text": "already taking off",
+      "answer_image": null
+    },
+    {
+      "text": "already take off",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already taken off",
+  "correct_image": null,
+  "explanation": "Trước khi chúng tôi đến sân bay, máy bay đã cất cánh."
+}

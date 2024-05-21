@@ -1,0 +1,21 @@
+{
+  "question": "I didn't go to the mall. I thought it closed at 5pm. In fact, it closed at 7pm.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "If I had known the mall closed at 7pm, I would've gone.",
+      "answer_image": null
+    },
+    {
+      "text": "If I knew the mall would have closed at 7pm, I would've gone.",
+      "answer_image": null
+    },
+    {
+      "text": "I would've gone to the mall if I know it had closed at 7pm.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "If I had known the mall closed at 7pm, I would've gone.",
+  "correct_image": null,
+  "explanation": null
+}

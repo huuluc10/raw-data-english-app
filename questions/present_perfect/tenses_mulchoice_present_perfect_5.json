@@ -1,0 +1,25 @@
+{
+  "question": "Quan _______ ________ to work 5 months ago because he _______ a car.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "starts – driving – will buy",
+      "answer_image": null
+    },
+    {
+      "text": "started – driven – buys",
+      "answer_image": null
+    },
+    {
+      "text": "has started – driving – bought",
+      "answer_image": null
+    },
+    {
+      "text": "started – to drive – has bought",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has started – driving – bought",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu trong thì hiện tại hoàn thành: S + have/has + Vpp + since/for + S + V2"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/funny.png",
+  "answers": [
+    {
+      "text": "Beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "Funny",
+      "answer_image": null
+    },
+    {
+      "text": "Cute",
+      "answer_image": null
+    },
+    {
+      "text": "Ugly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Funny",
+  "correct_image": null,
+  "explanation": "Từ \"funny\" trong tiếng Anh có nghĩa là vui nhộn hoặc hài hước, thường được sử dụng để miêu tả cái gì đó gây cười hoặc mang tính giải trí."
+}

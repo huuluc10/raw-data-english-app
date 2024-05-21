@@ -1,0 +1,25 @@
+{
+  "question": "Is everything OK? You _______ you have cried.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "look",
+      "answer_image": null
+    },
+    {
+      "text": "seem that",
+      "answer_image": null
+    },
+    {
+      "text": "look as though",
+      "answer_image": null
+    },
+    {
+      "text": "look",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "look as though",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'look as though' được sử dụng để diễn đạt sự biểu hiện của người nói giống như họ đã khóc."
+}

@@ -1,0 +1,25 @@
+{
+    "question": "Đâu là từ bạn nghe được?",
+    "question_image": null,
+    "answers": [
+      {
+        "text": "Stand up",
+        "answer_image": null
+      },
+      {
+        "text": "Turn off",
+        "answer_image": null
+      },
+      {
+        "text": "Play",
+        "answer_image": null
+      },
+      {
+        "text": "Listen",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Turn off",
+    "correct_image": null,
+    "explanation": null
+  }

@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/dance.png",
+    "answers": [
+      {
+        "text": "Play",
+        "answer_image": null
+      },
+      {
+        "text": "Dance",
+        "answer_image": null
+      },
+      {
+        "text": "Sing",
+        "answer_image": null
+      },
+      {
+        "text": "Watch TV",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Dance",
+    "correct_image": null,
+    "explanation": "“Dance” có nghĩa là nhảy múa."
+  }

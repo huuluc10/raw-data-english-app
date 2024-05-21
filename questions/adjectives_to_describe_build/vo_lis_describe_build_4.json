@@ -1,0 +1,26 @@
+{
+    "question": "Đâu là từ bạn nghe được?",
+    "question_image": null,
+    "answers": [
+      {
+        "text": "Fat",
+        "answer_image": null
+      },
+      {
+        "text": "Slim",
+        "answer_image": null
+      },
+      {
+        "text": "Well-built",
+        "answer_image": null
+      },
+      {
+        "text": "Thin",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Thin",
+    "correct_image": null,
+    "explanation": null
+  }
+  

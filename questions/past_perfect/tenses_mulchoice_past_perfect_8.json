@@ -1,0 +1,25 @@
+{
+  "question": "By the time they reached the museum, the tour guide ______ for the day.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had already left",
+      "answer_image": null
+    },
+    {
+      "text": "already leave",
+      "answer_image": null
+    },
+    {
+      "text": "already left",
+      "answer_image": null
+    },
+    {
+      "text": "had already leave",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already left",
+  "correct_image": null,
+  "explanation": "Trước khi họ đến bảo tàng, người hướng dẫn đã kết thúc công việc của mình trong ngày."
+}

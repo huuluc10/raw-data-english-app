@@ -1,0 +1,25 @@
+{
+  "question": "I had only a sandwich_______ lunch.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "for",
+      "answer_image": null
+    },
+    {
+      "text": "to",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    },
+    {
+      "text": "by",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "for",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'for' được sử dụng để chỉ thời gian mà một hành động xảy ra, như 'for lunch'."
+}

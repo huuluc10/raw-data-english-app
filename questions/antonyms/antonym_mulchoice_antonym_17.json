@@ -1,0 +1,25 @@
+{
+  "question": "He is writing a book on the representation of woman in medieval art.\nTừ trái nghĩa của \"woman\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "men",
+      "answer_image": null
+    },
+    {
+      "text": "female",
+      "answer_image": null
+    },
+    {
+      "text": "girl",
+      "answer_image": null
+    },
+    {
+      "text": "mother",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "men",
+  "correct_image": null,
+  "explanation": "woman: phụ nữ >< men: đàn ông"
+}

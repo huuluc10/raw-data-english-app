@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/ride.png",
+    "answers": [
+      {
+        "text": "Listen",
+        "answer_image": null
+      },
+      {
+        "text": "Laugh",
+        "answer_image": null
+      },
+      {
+        "text": "Watch TV",
+        "answer_image": null
+      },
+      {
+        "text": "Ride",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Ride",
+    "correct_image": null,
+    "explanation": "“Ride” là động từ có nghĩa là di chuyển trên hoặc trên một phương tiện hoặc động vật."
+  }

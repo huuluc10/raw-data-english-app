@@ -1,0 +1,21 @@
+{
+  "question": "We __________ what happened to her.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "would never know",
+      "answer_image": null
+    },
+    {
+      "text": "will never know",
+      "answer_image": null
+    },
+    {
+      "text": "will never be knowing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will never know",
+  "correct_image": null,
+  "explanation": "Chúng tôi sẽ không bao giờ biết điều gì đã xảy ra với cô ấy."
+}

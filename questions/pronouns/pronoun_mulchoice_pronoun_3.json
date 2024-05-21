@@ -1,0 +1,25 @@
+{
+  "question": "Where are _______ friends now?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "your",
+      "answer_image": null
+    },
+    {
+      "text": "you",
+      "answer_image": null
+    },
+    {
+      "text": "yours",
+      "answer_image": null
+    },
+    {
+      "text": "A and B are right",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "your",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'friends' thuộc về bạn, nên sử dụng 'your'."
+}

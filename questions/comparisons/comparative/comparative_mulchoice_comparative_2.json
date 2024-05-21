@@ -1,0 +1,25 @@
+{
+  "question": "My company is ________ away than her.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "father",
+      "answer_image": null
+    },
+    {
+      "text": "more far",
+      "answer_image": null
+    },
+    {
+      "text": "farther",
+      "answer_image": null
+    },
+    {
+      "text": "farer",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "farther",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'farther' là dạng so sánh hơn của 'far'."
+}

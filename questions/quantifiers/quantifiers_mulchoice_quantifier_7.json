@@ -1,0 +1,25 @@
+{
+  "question": "He has _______ experience in web design.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "no",
+      "answer_image": null
+    },
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "a lot of",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a lot of",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'a lot of' được sử dụng để chỉ một lượng lớn kinh nghiệm trong thiết kế web."
+}

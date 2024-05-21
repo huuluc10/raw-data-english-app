@@ -1,0 +1,25 @@
+{
+  "question": "The police ___ his letter in the post office at that time.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is sending",
+      "answer_image": null
+    },
+    {
+      "text": "was sending",
+      "answer_image": null
+    },
+    {
+      "text": "sending",
+      "answer_image": null
+    },
+    {
+      "text": "was sending",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was sending",
+  "correct_image": null,
+  "explanation": "Cảnh sát đang gửi thư của anh ấy ở bưu điện vào thời điểm đó."
+}

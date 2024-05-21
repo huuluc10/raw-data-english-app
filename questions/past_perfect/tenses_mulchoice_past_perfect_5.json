@@ -1,0 +1,25 @@
+{
+  "question": "When I arrived at the office, everyone ______ for lunch.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already leave",
+      "answer_image": null
+    },
+    {
+      "text": "had already leave",
+      "answer_image": null
+    },
+    {
+      "text": "had already left",
+      "answer_image": null
+    },
+    {
+      "text": "already left",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already left",
+  "correct_image": null,
+  "explanation": "Khi tôi đến văn phòng, mọi người đã đi ăn trưa."
+}

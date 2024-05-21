@@ -1,0 +1,21 @@
+{
+  "question": "If we ______(talk) about this topic, Ahn ______(be) very happy.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "talked – would be",
+      "answer_image": null
+    },
+    {
+      "text": "talked – will be",
+      "answer_image": null
+    },
+    {
+      "text": "talked – was",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "talked – would be",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would be) trong mệnh đề kết quả và 'talked' trong mệnh đề điều kiện."
+}

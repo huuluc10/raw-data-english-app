@@ -1,0 +1,25 @@
+{
+  "question": "I was really relieved when I found the documents. I _________ (look for) them the whole morning.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had been looking for",
+      "answer_image": null
+    },
+    {
+      "text": "had looked for",
+      "answer_image": null
+    },
+    {
+      "text": "had been looked for",
+      "answer_image": null
+    },
+    {
+      "text": "had been looked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been looking for",
+  "correct_image": null,
+  "explanation": "Tôi thật sự nhẹ nhõm khi tôi tìm thấy các tài liệu. Tôi đã tìm kiếm chúng suốt cả buổi sáng."
+}

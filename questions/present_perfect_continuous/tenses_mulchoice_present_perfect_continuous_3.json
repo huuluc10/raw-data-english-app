@@ -1,0 +1,25 @@
+{
+  "question": "Tim ………. 4 movies when he had free time.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "watched",
+      "answer_image": null
+    },
+    {
+      "text": "has been watching",
+      "answer_image": null
+    },
+    {
+      "text": "has watched",
+      "answer_image": null
+    },
+    {
+      "text": "has been watched",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has watched",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là Tim (số ít) nên câu trúc đúng là \"has watched\""
+}

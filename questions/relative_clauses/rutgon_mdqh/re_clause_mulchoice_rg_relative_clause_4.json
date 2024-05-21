@@ -1,0 +1,21 @@
+{
+  "question": "The woman who is wearing a red dress is my sister.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The woman wearing a red dress is my sister.",
+      "answer_image": null
+    },
+    {
+      "text": "The wearing a red dress woman is my sister.",
+      "answer_image": null
+    },
+    {
+      "text": "The woman who wearing a red dress is my sister.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The woman wearing a red dress is my sister.",
+  "correct_image": null,
+  "explanation": "Người phụ nữ đang mặc váy đỏ là chị gái của tôi."
+}

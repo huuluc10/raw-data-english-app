@@ -1,0 +1,21 @@
+{
+  "question": "The quality of the work was very poor and much of it had to be ______done.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "pre",
+      "answer_image": null
+    },
+    {
+      "text": "un",
+      "answer_image": null
+    },
+    {
+      "text": "re",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "re",
+  "correct_image": null,
+  "explanation": "Phải làm lại (redone) nhiều phần công việc vì chất lượng rất kém."
+}

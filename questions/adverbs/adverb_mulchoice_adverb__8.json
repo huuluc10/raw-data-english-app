@@ -1,0 +1,17 @@
+{
+  "question": "Laura is walking ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "quite",
+      "answer_image": null
+    },
+    {
+      "text": "quitely",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "quite",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'quite' được sử dụng để mô tả mức độ hoặc cách thức của hành động."
+}

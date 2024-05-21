@@ -1,0 +1,25 @@
+{
+  "question": "Luckily! You are here. We ………. for you since yesterday.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been looked",
+      "answer_image": null
+    },
+    {
+      "text": "have looked",
+      "answer_image": null
+    },
+    {
+      "text": "have been looking",
+      "answer_image": null
+    },
+    {
+      "text": "looked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been looking",
+  "correct_image": null,
+  "explanation": "Câu có từ khóa \"since yesterday\" và đề cập đến một hành động kéo dài trong quá khứ, nên câu trúc đúng là \"have been + Ving\""
+}

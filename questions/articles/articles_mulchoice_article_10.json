@@ -1,0 +1,25 @@
+{
+  "question": "Do you go to ________ prison to visit him?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the",
+      "answer_image": null
+    },
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "x",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the",
+  "correct_image": null,
+  "explanation": "Bạn có đến nhà tù để thăm anh ấy không?"
+}

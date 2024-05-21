@@ -1,0 +1,25 @@
+{
+  "question": "Please, go ___________ the stairs carefully.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "below",
+      "answer_image": null
+    },
+    {
+      "text": "down",
+      "answer_image": null
+    },
+    {
+      "text": "through",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "down",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'down' được sử dụng để chỉ hành động di chuyển xuống, trong trường hợp này là đi xuống các bậc cầu thang."
+}

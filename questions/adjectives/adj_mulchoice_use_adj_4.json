@@ -1,0 +1,21 @@
+{
+  "question": "We were very ________satisfied with the service at the restaurant.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "un",
+      "answer_image": null
+    },
+    {
+      "text": "mis",
+      "answer_image": null
+    },
+    {
+      "text": "dis",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "un",
+  "correct_image": null,
+  "explanation": "Chũng tôi không hài lòng (unsatisfied) với dịch vụ tại nhà hàng."
+}

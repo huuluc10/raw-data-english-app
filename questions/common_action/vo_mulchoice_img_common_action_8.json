@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/think.png",
+    "answers": [
+      {
+        "text": "Dance",
+        "answer_image": null
+      },
+      {
+        "text": "Turn on",
+        "answer_image": null
+      },
+      {
+        "text": "Think",
+        "answer_image": null
+      },
+      {
+        "text": "Turn off",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Think",
+    "correct_image": null,
+    "explanation": "“Think” có nghĩa là suy nghĩ hoặc nghĩ về điều gì đó."
+  }

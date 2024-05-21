@@ -1,0 +1,25 @@
+{
+  "question": "My new apartment is ________ than the old one.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "more comfortable",
+      "answer_image": null
+    },
+    {
+      "text": "comfortably",
+      "answer_image": null
+    },
+    {
+      "text": "more comfortabler",
+      "answer_image": null
+    },
+    {
+      "text": "comfortable",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "more comfortable",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'more comfortable' là dạng so sánh hơn của 'comfortable'."
+}

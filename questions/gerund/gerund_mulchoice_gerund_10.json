@@ -1,0 +1,17 @@
+{
+  "question": "Mrs. Naidoo appears ________ the most qualified person for the job.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to be",
+      "answer_image": null
+    },
+    {
+      "text": "being",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to be",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này nên sử dụng cấu trúc 'appears to + động từ nguyên thể'."
+}

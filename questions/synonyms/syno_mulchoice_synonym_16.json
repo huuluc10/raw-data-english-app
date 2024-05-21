@@ -1,0 +1,25 @@
+{
+  "question": "Fallout from a nuclear power station damaged in the tsunami may endanger the vegetation.\nĐồng nghĩa của \"damaged\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "stimulate",
+      "answer_image": null
+    },
+    {
+      "text": "harm",
+      "answer_image": null
+    },
+    {
+      "text": "inhibit",
+      "answer_image": null
+    },
+    {
+      "text": "benefit",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "harm",
+  "correct_image": null,
+  "explanation": "Damaged = harm (gây hại)"
+}

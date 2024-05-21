@@ -1,0 +1,25 @@
+{
+  "question": "We decided to pay for the car on the installment plan.\nĐồng nghĩa của \"installment\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "cash and carry",
+      "answer_image": null
+    },
+    {
+      "text": "monthly payment",
+      "answer_image": null
+    },
+    {
+      "text": "credit card",
+      "answer_image": null
+    },
+    {
+      "text": "piece by piece",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "monthly payment",
+  "correct_image": null,
+  "explanation": "Installment = monthly payment (n) trả góp trả tiền hằng tháng"
+}

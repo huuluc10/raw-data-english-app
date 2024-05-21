@@ -1,0 +1,25 @@
+{
+  "question": "_______ company builds ships.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "He",
+      "answer_image": null
+    },
+    {
+      "text": "His",
+      "answer_image": null
+    },
+    {
+      "text": "Him",
+      "answer_image": null
+    },
+    {
+      "text": "All are right",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "His",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, chúng ta đề cập đến công ty của một người, nên sử dụng 'His'."
+}

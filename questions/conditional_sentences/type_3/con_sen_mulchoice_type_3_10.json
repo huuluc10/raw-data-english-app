@@ -1,0 +1,21 @@
+{
+  "question": "Irene didn’t buy the blue skirt because she didn’t have enough money.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "If Irene had enough money, she would have bought the blue skirt.",
+      "answer_image": null
+    },
+    {
+      "text": "If Irene would have had enough money, she would have bought the blue skirt.",
+      "answer_image": null
+    },
+    {
+      "text": "If Irene had had enough money, she would have bought the blue skirt.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "If Irene had had enough money, she would have bought the blue skirt.",
+  "correct_image": null,
+  "explanation": null
+}

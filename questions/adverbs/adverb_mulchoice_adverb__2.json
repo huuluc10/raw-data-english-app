@@ -1,0 +1,17 @@
+{
+  "question": "You should do it ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "careful",
+      "answer_image": null
+    },
+    {
+      "text": "carefully",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "carefully",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'carefully' là trạng từ được sử dụng để mô tả cách thức hoặc phương pháp của việc làm."
+}

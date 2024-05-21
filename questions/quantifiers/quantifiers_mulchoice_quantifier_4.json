@@ -1,0 +1,21 @@
+{
+  "question": "Some children eat ____________ sweets.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a lot of",
+      "answer_image": null
+    },
+    {
+      "text": "many",
+      "answer_image": null
+    },
+    {
+      "text": "much",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a lot of",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'a lot of' được sử dụng để chỉ một lượng lớn kẹo."
+}

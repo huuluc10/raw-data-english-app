@@ -1,0 +1,21 @@
+{
+  "question": "If he continues drinking so fast, he ________ (drink) the whole bottle by midnight.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will drink",
+      "answer_image": null
+    },
+    {
+      "text": "will have drunk",
+      "answer_image": null
+    },
+    {
+      "text": "will be drinking",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have drunk",
+  "correct_image": null,
+  "explanation": "Nếu anh ấy tiếp tục uống nhanh như vậy, anh ấy sẽ uống hết chai vào nửa đêm."
+}

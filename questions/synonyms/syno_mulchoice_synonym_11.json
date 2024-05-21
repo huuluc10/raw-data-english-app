@@ -1,0 +1,25 @@
+{
+  "question": "People are busy buying gifts, cleaning and decorating the house and cooking traditional foods to welcome Tet holiday now.\nĐồng nghĩa của \"traditional\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "favorite",
+      "answer_image": null
+    },
+    {
+      "text": "important",
+      "answer_image": null
+    },
+    {
+      "text": "customary",
+      "answer_image": null
+    },
+    {
+      "text": "national",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "customary",
+  "correct_image": null,
+  "explanation": "Traditional = customary (a) có tính truyền thống"
+}

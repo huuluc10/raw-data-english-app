@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/cook.png",
+  "answers": [
+    {
+      "text": "Wait",
+      "answer_image": null
+    },
+    {
+      "text": "Climb",
+      "answer_image": null
+    },
+    {
+      "text": "Cook",
+      "answer_image": null
+    },
+    {
+      "text": "Clap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Cook",
+  "correct_image": null,
+  "explanation": "“Cook” là động từ có nghĩa là nấu ăn."
+}

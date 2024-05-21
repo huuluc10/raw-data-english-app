@@ -1,0 +1,25 @@
+{
+  "question": "He fell ___________ the bridge but he was OK.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "over",
+      "answer_image": null
+    },
+    {
+      "text": "under",
+      "answer_image": null
+    },
+    {
+      "text": "up",
+      "answer_image": null
+    },
+    {
+      "text": "off",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "off",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'off' được sử dụng để chỉ hành động rơi từ trên một cái cầu."
+}

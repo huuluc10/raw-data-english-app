@@ -1,0 +1,21 @@
+{
+  "question": "My mom ________ for two days by the time I see her.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has been traveling",
+      "answer_image": null
+    },
+    {
+      "text": "will have been traveling",
+      "answer_image": null
+    },
+    {
+      "text": "will has been traveling",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have been traveling",
+  "correct_image": null,
+  "explanation": "Mẹ của tôi sẽ đã đi du lịch được hai ngày vào lúc tôi gặp mẹ."
+}

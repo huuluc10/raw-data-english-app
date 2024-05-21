@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/pretty.png",
+  "answers": [
+    {
+      "text": "Ugly",
+      "answer_image": null
+    },
+    {
+      "text": "Pretty",
+      "answer_image": null
+    },
+    {
+      "text": "Cute",
+      "answer_image": null
+    },
+    {
+      "text": "Beautiful",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Pretty",
+  "correct_image": null,
+  "explanation": "Từ \"pretty\" trong tiếng Anh có nghĩa là xinh đẹp hoặc dễ thương, thường được sử dụng để miêu tả ngoại hình dễ thương và hấp dẫn."
+}

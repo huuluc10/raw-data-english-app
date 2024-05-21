@@ -1,0 +1,21 @@
+{
+  "question": "They ______(get) the trophy if they ______(win) the match.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "would get – won",
+      "answer_image": null
+    },
+    {
+      "text": "will get – won",
+      "answer_image": null
+    },
+    {
+      "text": "would get – won",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "would get – won",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would get) trong mệnh đề kết quả và 'won' trong mệnh đề điều kiện."
+}

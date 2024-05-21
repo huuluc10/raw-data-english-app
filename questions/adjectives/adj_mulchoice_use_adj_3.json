@@ -1,0 +1,21 @@
+{
+  "question": "His _________ -wife is suing him for $5 million.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "pre",
+      "answer_image": null
+    },
+    {
+      "text": "ex",
+      "answer_image": null
+    },
+    {
+      "text": "post",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "ex",
+  "correct_image": null,
+  "explanation": "Người vợ trước đây (ex-wife) của anh ta đang kiện anh ta với số tiền 5 triệu đô la."
+}

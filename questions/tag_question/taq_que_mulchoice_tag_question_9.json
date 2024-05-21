@@ -1,0 +1,25 @@
+{
+  "question": "He hardly has anything nowadays, _________________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "hasn’t she",
+      "answer_image": null
+    },
+    {
+      "text": "has he",
+      "answer_image": null
+    },
+    {
+      "text": "doesn’t he",
+      "answer_image": null
+    },
+    {
+      "text": "does she",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has he",
+  "correct_image": null,
+  "explanation": "Anh ta khó có bất cứ cái gì ngày nay, phải không?"
+}

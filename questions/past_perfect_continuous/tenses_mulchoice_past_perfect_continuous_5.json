@@ -1,0 +1,25 @@
+{
+  "question": "I was very nervous while holding my speech. I ________ (never stand) in front of so many people.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "hadn’t never been standing",
+      "answer_image": null
+    },
+    {
+      "text": "hadn’t been standing never",
+      "answer_image": null
+    },
+    {
+      "text": "had never been standing",
+      "answer_image": null
+    },
+    {
+      "text": "had been standing never",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had never been standing",
+  "correct_image": null,
+  "explanation": "Tôi rất lo lắng khi phát biểu. Tôi chưa bao giờ đứng trước nhiều người như vậy."
+}

@@ -1,0 +1,21 @@
+{
+  "question": "The students who are taking the exam should arrive early.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The taking the exam students should arrive early.",
+      "answer_image": null
+    },
+    {
+      "text": "The students taking the exam should arrive early.",
+      "answer_image": null
+    },
+    {
+      "text": "The students who taking the exam should arrive early.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The students taking the exam should arrive early.",
+  "correct_image": null,
+  "explanation": "Các sinh viên tham gia kỳ thi nên đến sớm."
+}

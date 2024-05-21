@@ -1,0 +1,25 @@
+{
+  "question": "Albert Einstein’s contributions to scientific theory were ________ those of Galileo and Newton.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "important than",
+      "answer_image": null
+    },
+    {
+      "text": "more important",
+      "answer_image": null
+    },
+    {
+      "text": "the most important",
+      "answer_image": null
+    },
+    {
+      "text": "as important as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "as important as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'as important as' được sử dụng để so sánh sự đóng góp của Albert Einstein với lý thuyết khoa học với Galileo và Newton."
+}

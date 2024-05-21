@@ -1,0 +1,25 @@
+{
+  "question": "When they reached the hotel, the receptionist ______ for the day.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already leave",
+      "answer_image": null
+    },
+    {
+      "text": "had already left",
+      "answer_image": null
+    },
+    {
+      "text": "already left",
+      "answer_image": null
+    },
+    {
+      "text": "had already leave",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already left",
+  "correct_image": null,
+  "explanation": "Khi họ đến khách sạn, nhân viên lễ tân đã kết thúc ca làm của mình."
+}

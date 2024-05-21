@@ -1,0 +1,25 @@
+{
+  "question": "She ………. a book for the past two hours.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "reads",
+      "answer_image": null
+    },
+    {
+      "text": "has read",
+      "answer_image": null
+    },
+    {
+      "text": "is reading",
+      "answer_image": null
+    },
+    {
+      "text": "has been reading",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has been reading",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là She (số ít) và câu này cho biết một hành động đã kéo dài từ quá khứ đến hiện tại, nên câu trúc đúng là \"has been reading\"."
+}

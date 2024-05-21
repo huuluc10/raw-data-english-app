@@ -1,0 +1,25 @@
+{
+  "question": "My wedding ring ____ yellow and white gold.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is made",
+      "answer_image": null
+    },
+    {
+      "text": "is making",
+      "answer_image": null
+    },
+    {
+      "text": "made",
+      "answer_image": null
+    },
+    {
+      "text": "make",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is made",
+  "correct_image": null,
+  "explanation": "Chiếc nhẫn cưới của tôi được làm bằng vàng vàng và vàng trắng."
+}

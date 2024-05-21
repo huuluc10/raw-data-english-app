@@ -1,0 +1,25 @@
+{
+  "question": "The engineers ________ on a project when you come here.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will working",
+      "answer_image": null
+    },
+    {
+      "text": "will be working",
+      "answer_image": null
+    },
+    {
+      "text": "will be worked",
+      "answer_image": null
+    },
+    {
+      "text": "will have worked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be working",
+  "correct_image": null,
+  "explanation": "Các kỹ sư sẽ đang làm việc trên một dự án khi bạn đến đây."
+}

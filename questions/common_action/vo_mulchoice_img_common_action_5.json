@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/read.png",
+    "answers": [
+      {
+        "text": "Play",
+        "answer_image": null
+      },
+      {
+        "text": "Read",
+        "answer_image": null
+      },
+      {
+        "text": "Write",
+        "answer_image": null
+      },
+      {
+        "text": "Listen",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Read",
+    "correct_image": null,
+    "explanation": "“Read” có nghĩa là đọc."
+  }

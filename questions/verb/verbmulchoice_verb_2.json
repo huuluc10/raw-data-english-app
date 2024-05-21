@@ -1,0 +1,25 @@
+{
+  "question": "The chicken _______ a bit too salty.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tastes",
+      "answer_image": null
+    },
+    {
+      "text": "feels",
+      "answer_image": null
+    },
+    {
+      "text": "tastes like",
+      "answer_image": null
+    },
+    {
+      "text": "feels like",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "tastes",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'tastes' được sử dụng để diễn đạt hương vị của gà."
+}

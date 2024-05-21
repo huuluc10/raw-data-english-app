@@ -1,0 +1,25 @@
+{
+  "question": "He is studying hard. I think he ________ in a few weeks.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is going to speaking",
+      "answer_image": null
+    },
+    {
+      "text": "has been speaking",
+      "answer_image": null
+    },
+    {
+      "text": "will be speaking",
+      "answer_image": null
+    },
+    {
+      "text": "will have spoken",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be speaking",
+  "correct_image": null,
+  "explanation": "Anh ta đang học chăm chỉ. Tôi nghĩ anh ta sẽ đang nói tốt trong vài tuần."
+}

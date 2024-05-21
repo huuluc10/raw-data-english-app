@@ -1,0 +1,17 @@
+{
+  "question": "You want to spend ten years in Europe. By that time you ______ every major city then.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will have visited",
+      "answer_image": null
+    },
+    {
+      "text": "will visit",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have visited",
+  "correct_image": null,
+  "explanation": "Bạn muốn dành mười năm ở châu Âu. Đến lúc đó, bạn đã thăm qua mọi thành phố lớn."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I saw him go out last night.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "He had seen to go out last night",
+      "answer_image": null
+    },
+    {
+      "text": "He was seen to go out last night",
+      "answer_image": null
+    },
+    {
+      "text": "He was seen to have gone out last night",
+      "answer_image": null
+    },
+    {
+      "text": "He was seen gone out last night",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "He was seen to go out last night",
+  "correct_image": null,
+  "explanation": "Tôi đã thấy anh ấy ra ngoài tối qua."
+}

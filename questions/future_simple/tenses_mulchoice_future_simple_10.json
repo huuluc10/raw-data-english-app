@@ -1,0 +1,21 @@
+{
+  "question": "Someday I __________ a novel.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be writing",
+      "answer_image": null
+    },
+    {
+      "text": "will write",
+      "answer_image": null
+    },
+    {
+      "text": "would write",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will write",
+  "correct_image": null,
+  "explanation": "Một ngày nào đó, tôi sẽ viết một cuốn tiểu thuyết."
+}

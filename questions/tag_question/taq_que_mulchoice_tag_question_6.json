@@ -1,0 +1,25 @@
+{
+  "question": "The air-hostess knows the time she has been here, ______________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "does she",
+      "answer_image": null
+    },
+    {
+      "text": "isn’t it",
+      "answer_image": null
+    },
+    {
+      "text": "doesn’t she",
+      "answer_image": null
+    },
+    {
+      "text": "did she",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "doesn't she",
+  "correct_image": null,
+  "explanation": "Tiếp viên không khí biết mình đã ở đây bao lâu, phải không?"
+}

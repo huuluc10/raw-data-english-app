@@ -1,0 +1,17 @@
+{
+  "question": "I am such a ________________ girl. I only ever talk about myself.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "bored",
+      "answer_image": null
+    },
+    {
+      "text": "boring",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "boring",
+  "correct_image": null,
+  "explanation": "dùng boring để miêu tả tính cách của cô gái"
+}

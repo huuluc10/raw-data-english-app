@@ -1,0 +1,25 @@
+{
+  "question": "Ann ______ and left.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "said goodbye to me",
+      "answer_image": null
+    },
+    {
+      "text": "says goodbye to me",
+      "answer_image": null
+    },
+    {
+      "text": "tell me goodbye",
+      "answer_image": null
+    },
+    {
+      "text": "told me goodbye",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "said goodbye to me",
+  "correct_image": null,
+  "explanation": "Ann nói tạm biệt và ra về."
+}

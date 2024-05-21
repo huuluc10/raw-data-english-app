@@ -1,0 +1,21 @@
+{
+  "question": "I ______(visit) Philip’s friend if I ______(have) her address.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "visited – had",
+      "answer_image": null
+    },
+    {
+      "text": "would visit – had",
+      "answer_image": null
+    },
+    {
+      "text": "would visit – have",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "would visit – had",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would visit) trong mệnh đề kết quả và 'had' trong mệnh đề điều kiện."
+}

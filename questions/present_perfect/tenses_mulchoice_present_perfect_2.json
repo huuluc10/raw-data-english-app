@@ -1,0 +1,25 @@
+{
+  "question": "_____________ in Vietnamese?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Did you ever worked",
+      "answer_image": null
+    },
+    {
+      "text": "Have you ever worked",
+      "answer_image": null
+    },
+    {
+      "text": "Worked you",
+      "answer_image": null
+    },
+    {
+      "text": "Didn't you have worked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Have you ever worked",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu hỏi trong thì hiện tại hoàn thành: Have/Has + S + ever + Vpp?"
+}

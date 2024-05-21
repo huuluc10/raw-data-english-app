@@ -1,0 +1,25 @@
+{
+  "question": "What continent is ____________: America or Africa?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "large",
+      "answer_image": null
+    },
+    {
+      "text": "very large",
+      "answer_image": null
+    },
+    {
+      "text": "larger",
+      "answer_image": null
+    },
+    {
+      "text": "the largest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the largest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the largest' được sử dụng để hỏi về lục địa lớn nhất giữa Mỹ và châu Phi."
+}

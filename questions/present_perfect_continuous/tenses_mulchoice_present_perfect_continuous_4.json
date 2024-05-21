@@ -1,0 +1,25 @@
+{
+  "question": "My husband ………. tennis recently.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "plays",
+      "answer_image": null
+    },
+    {
+      "text": "is playing",
+      "answer_image": null
+    },
+    {
+      "text": "has played",
+      "answer_image": null
+    },
+    {
+      "text": "has been playing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has been playing",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là My husband (số ít) và câu cho biết hành động đã diễn ra gần đây, nên câu trúc đúng là \"has been playing\""
+}

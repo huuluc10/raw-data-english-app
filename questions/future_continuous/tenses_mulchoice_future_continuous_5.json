@@ -1,0 +1,25 @@
+{
+  "question": "Winter is coming. Migratory birds ________ next week.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be immigrating",
+      "answer_image": null
+    },
+    {
+      "text": "will immigrate",
+      "answer_image": null
+    },
+    {
+      "text": "will immigrating",
+      "answer_image": null
+    },
+    {
+      "text": "will have immigrated",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be immigrating",
+  "correct_image": null,
+  "explanation": "Mùa đông đang đến. Những loài chim di cư sẽ đang di cư vào tuần tới."
+}

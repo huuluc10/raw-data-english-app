@@ -1,0 +1,25 @@
+{
+  "question": "Sarah is wearing a blouse. It ____ cotton.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "be made",
+      "answer_image": null
+    },
+    {
+      "text": "are made",
+      "answer_image": null
+    },
+    {
+      "text": "is made",
+      "answer_image": null
+    },
+    {
+      "text": "made",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is made",
+  "correct_image": null,
+  "explanation": "Sarah đang mặc một chiếc áo sơ mi. Nó được làm bằng vải cotton."
+}

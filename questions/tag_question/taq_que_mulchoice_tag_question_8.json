@@ -1,0 +1,25 @@
+{
+  "question": "They must do as they are told, ________________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "mustn’t they",
+      "answer_image": null
+    },
+    {
+      "text": "must they",
+      "answer_image": null
+    },
+    {
+      "text": "are they",
+      "answer_image": null
+    },
+    {
+      "text": "aren’t they",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "mustn’t they",
+  "correct_image": null,
+  "explanation": "Họ phải làm như những gì họ được bảo, phải không?"
+}

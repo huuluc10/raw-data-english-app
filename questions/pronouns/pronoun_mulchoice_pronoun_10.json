@@ -1,0 +1,25 @@
+{
+  "question": "Never mind. I and Nam will do it _______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "herself",
+      "answer_image": null
+    },
+    {
+      "text": "myself",
+      "answer_image": null
+    },
+    {
+      "text": "themselves",
+      "answer_image": null
+    },
+    {
+      "text": "ourselves",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "ourselves",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'I and Nam' là chủ thể, nên sử dụng 'ourselves' để chỉ 'chúng tôi và Nam'."
+}

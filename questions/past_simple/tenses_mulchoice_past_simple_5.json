@@ -1,0 +1,25 @@
+{
+  "question": "What __________ you _________ last summer vacation?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "were / do",
+      "answer_image": null
+    },
+    {
+      "text": "did / did",
+      "answer_image": null
+    },
+    {
+      "text": "did / do",
+      "answer_image": null
+    },
+    {
+      "text": "do / did",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "did / do",
+  "correct_image": null,
+  "explanation": "Trong câu hỏi này, chúng ta cần sử dụng 'did' và 'do' là dạng quá khứ của động từ 'do', và đây là cách diễn đạt chính xác cho hành động đã diễn ra trong quá khứ."
+}

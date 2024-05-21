@@ -1,0 +1,25 @@
+{
+  "question": "In the first two decades of its existence, the cinema developed rapidly.\nTừ trái nghĩa của \"rapidly\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "leisurely",
+      "answer_image": null
+    },
+    {
+      "text": "slowly",
+      "answer_image": null
+    },
+    {
+      "text": "weakly",
+      "answer_image": null
+    },
+    {
+      "text": "shortly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "slowly",
+  "correct_image": null,
+  "explanation": "rapidly: nhanh chóng >< slowly: chậm chạp"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I’d like to pay some money into my bank account.\nTừ trái nghĩa của \"pay some money into\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "withdraw some money from",
+      "answer_image": null
+    },
+    {
+      "text": "put some money into",
+      "answer_image": null
+    },
+    {
+      "text": "give some money out",
+      "answer_image": null
+    },
+    {
+      "text": "leave some money aside",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "withdraw some money from",
+  "correct_image": null,
+  "explanation": "pay some money into: gửi tiền vào tài khoản >< withdraw some money from: rút tiền từ tài khoản"
+}

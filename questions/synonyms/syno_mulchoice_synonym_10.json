@@ -1,0 +1,25 @@
+{
+  "question": "Flight MH370 of Malaysia Airlines is reported to vanish on the way from Kuala Lumpur to Beijing.\nĐồng nghĩa của \"vanish\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "land",
+      "answer_image": null
+    },
+    {
+      "text": "control",
+      "answer_image": null
+    },
+    {
+      "text": "cancel",
+      "answer_image": null
+    },
+    {
+      "text": "disappear",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "disappear",
+  "correct_image": null,
+  "explanation": "Vanish = disappear (v) tan biến, biến mất"
+}

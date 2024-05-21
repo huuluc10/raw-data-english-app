@@ -1,0 +1,21 @@
+{
+  "question": "I didn't know watching this material was useful for our exam, so I didn't watch it.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "If I had known this material was useful, I would've watched it.",
+      "answer_image": null
+    },
+    {
+      "text": "If I knew this material was useful, I had watched it.",
+      "answer_image": null
+    },
+    {
+      "text": "If I had known this material was useful, I would've watched it.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "If I had known this material was useful, I would've watched it.",
+  "correct_image": null,
+  "explanation": null
+}

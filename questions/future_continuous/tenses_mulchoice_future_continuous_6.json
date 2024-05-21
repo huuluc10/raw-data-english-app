@@ -1,0 +1,25 @@
+{
+  "question": "I’ll be busy all day tomorrow. When you have fun with your friends, I ________ the house.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will clean",
+      "answer_image": null
+    },
+    {
+      "text": "clean",
+      "answer_image": null
+    },
+    {
+      "text": "have been cleaning",
+      "answer_image": null
+    },
+    {
+      "text": "will be cleaning",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be cleaning",
+  "correct_image": null,
+  "explanation": "Tôi sẽ bận rộn suốt cả ngày mai. Khi bạn vui vẻ với bạn bè của bạn, tôi sẽ đang dọn dẹp nhà."
+}

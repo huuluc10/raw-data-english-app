@@ -1,0 +1,22 @@
+{
+    "question": "Đâu là từ bạn nghe được?",
+    "question_image": null,
+    "answers": [
+      {
+        "text": "Young",
+        "answer_image": null
+      },
+      {
+        "text": "Middle-aged",
+        "answer_image": null
+      },
+      {
+        "text": "Old",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Old",
+    "correct_image": null,
+    "explanation": null
+  }
+  

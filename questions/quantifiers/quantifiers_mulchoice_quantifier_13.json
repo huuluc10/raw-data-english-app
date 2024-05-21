@@ -1,0 +1,25 @@
+{
+  "question": "________ people attended the event last night.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a few",
+      "answer_image": null
+    },
+    {
+      "text": "much",
+      "answer_image": null
+    },
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "A large number of",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a few",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'a few' được sử dụng để chỉ một số lượng nhỏ người đã tham dự sự kiện vào đêm qua."
+}

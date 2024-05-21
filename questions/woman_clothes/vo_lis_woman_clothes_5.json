@@ -1,0 +1,25 @@
+{
+  "question": "Đâu là từ bạn nghe được?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Jeans",
+      "answer_image": null
+    },
+    {
+      "text": "Dress pants",
+      "answer_image": null
+    },
+    {
+      "text": "Uniform",
+      "answer_image": null
+    },
+    {
+      "text": "Skirt",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Dress pants",
+  "correct_image": null,
+  "explanation": null
+}

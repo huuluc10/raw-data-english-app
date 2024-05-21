@@ -1,0 +1,17 @@
+{
+  "question": "It _______ raining heavily.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "are",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là It (ngôi thứ ba số ít) nên động từ tobe sẽ là is."
+}

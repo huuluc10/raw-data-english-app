@@ -1,0 +1,25 @@
+{
+  "question": "_______ they collaborate, _______ their productivity is.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The more efficient/the higher",
+      "answer_image": null
+    },
+    {
+      "text": "More efficient/higher",
+      "answer_image": null
+    },
+    {
+      "text": "Efficient/higher",
+      "answer_image": null
+    },
+    {
+      "text": "The more efficiently/the higher",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The more efficiently/the higher",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'The more efficiently/the higher' được sử dụng để chỉ càng hợp tác hiệu quả càng tăng sản xuất."
+}

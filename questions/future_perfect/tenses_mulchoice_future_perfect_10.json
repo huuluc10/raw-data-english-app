@@ -1,0 +1,21 @@
+{
+  "question": "When we arrive in Los Angeles we'll need to rest, because we _______ about 800 miles.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be driving",
+      "answer_image": null
+    },
+    {
+      "text": "will have driven",
+      "answer_image": null
+    },
+    {
+      "text": "will drive",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have driven",
+  "correct_image": null,
+  "explanation": "Khi chúng ta đến Los Angeles, chúng ta sẽ cần nghỉ ngơi, vì chúng ta đã lái xe khoảng 800 dặm."
+}

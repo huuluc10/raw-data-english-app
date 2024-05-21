@@ -1,0 +1,25 @@
+{
+  "question": "It ___ and cloudy when I left Ireland.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "was rain",
+      "answer_image": null
+    },
+    {
+      "text": "was raining",
+      "answer_image": null
+    },
+    {
+      "text": "is raining",
+      "answer_image": null
+    },
+    {
+      "text": "raining",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was raining",
+  "correct_image": null,
+  "explanation": "Khi tôi rời khỏi Ireland, trời đang mưa và u ám."
+}

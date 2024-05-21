@@ -1,0 +1,17 @@
+{
+  "question": "I think that before I graduate I __________ quite a few exams.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will have done",
+      "answer_image": null
+    },
+    {
+      "text": "will do",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have done",
+  "correct_image": null,
+  "explanation": "Tôi nghĩ rằng trước khi tốt nghiệp, tôi đã làm khá nhiều bài kiểm tra."
+}

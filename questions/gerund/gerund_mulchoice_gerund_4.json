@@ -1,0 +1,17 @@
+{
+  "question": "Mr. Edwards chose ________ the management position in Chicago rather than the position in Miami.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to accept",
+      "answer_image": null
+    },
+    {
+      "text": "accepting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to accept",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'chose' được dùng với cấu trúc 'chose to + động từ nguyên thể'."
+}

@@ -1,0 +1,21 @@
+{
+  "question": "In two days, I __________ my results.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will know",
+      "answer_image": null
+    },
+    {
+      "text": "would know",
+      "answer_image": null
+    },
+    {
+      "text": "will be knowing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will know",
+  "correct_image": null,
+  "explanation": "Trong hai ngày tới, tôi sẽ biết kết quả của mình."
+}

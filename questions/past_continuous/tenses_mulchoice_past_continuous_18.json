@@ -1,0 +1,25 @@
+{
+  "question": "What did you watch on TV while you ___ dinner last night?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "were having",
+      "answer_image": null
+    },
+    {
+      "text": "was having",
+      "answer_image": null
+    },
+    {
+      "text": "were having",
+      "answer_image": null
+    },
+    {
+      "text": "was having",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "were having",
+  "correct_image": null,
+  "explanation": "Bạn đã xem gì trên TV trong khi bạn đang ăn tối tối qua?"
+}

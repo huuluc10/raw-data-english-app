@@ -1,0 +1,25 @@
+{
+  "question": "Her eyes were red. It was obvious that she _____ (cry).",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "cried",
+      "answer_image": null
+    },
+    {
+      "text": "have cried",
+      "answer_image": null
+    },
+    {
+      "text": "had cried",
+      "answer_image": null
+    },
+    {
+      "text": "had been crying",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been crying",
+  "correct_image": null,
+  "explanation": "Mắt cô ấy đỏ. Rõ ràng là cô ấy đã khóc."
+}

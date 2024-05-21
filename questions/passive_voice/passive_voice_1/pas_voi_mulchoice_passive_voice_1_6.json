@@ -1,0 +1,25 @@
+{
+  "question": "James ____ the news as soon as possible.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "should tell",
+      "answer_image": null
+    },
+    {
+      "text": "should be told",
+      "answer_image": null
+    },
+    {
+      "text": "should told",
+      "answer_image": null
+    },
+    {
+      "text": "should be telled",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "should be told",
+  "correct_image": null,
+  "explanation": "James nên thông báo tin tức càng sớm càng tốt."
+}

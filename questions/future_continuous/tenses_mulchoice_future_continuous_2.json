@@ -1,0 +1,25 @@
+{
+  "question": "Jack’s daughter is studying at high school now and she ________ at university when Jack is 45.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will studying",
+      "answer_image": null
+    },
+    {
+      "text": "studies",
+      "answer_image": null
+    },
+    {
+      "text": "has studied",
+      "answer_image": null
+    },
+    {
+      "text": "will be studying",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be studying",
+  "correct_image": null,
+  "explanation": "Con gái của Jack đang học ở trường cấp ba và cô ấy sẽ đang học ở đại học khi Jack 45 tuổi."
+}

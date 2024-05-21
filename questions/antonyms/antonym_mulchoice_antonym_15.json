@@ -1,0 +1,25 @@
+{
+  "question": "The Red Cross is an international humanitarian agency dedicated to reducing the sufferings of wounded soldiers, civilians and prisoners of war.\nTừ trái nghĩa của \"sufferings\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "worry and sadness",
+      "answer_image": null
+    },
+    {
+      "text": "pain and sorrow",
+      "answer_image": null
+    },
+    {
+      "text": "loss",
+      "answer_image": null
+    },
+    {
+      "text": "happiness",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "happiness",
+  "correct_image": null,
+  "explanation": "sufferings: nỗi thống khổ >< happiness: niềm hạnh phúc"
+}

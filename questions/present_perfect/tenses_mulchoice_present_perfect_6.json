@@ -1,0 +1,25 @@
+{
+  "question": "______ from a business trip to New York.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "I come back",
+      "answer_image": null
+    },
+    {
+      "text": "I came back",
+      "answer_image": null
+    },
+    {
+      "text": "I never came back",
+      "answer_image": null
+    },
+    {
+      "text": "I've just come back",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "I've just come back",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu trong thì hiện tại hoàn thành: S + have/has + just + Vpp"
+}

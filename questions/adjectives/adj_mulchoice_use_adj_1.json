@@ -1,0 +1,21 @@
+{
+  "question": "She works for a _________national company. It has offices in over 30 countries.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "inter",
+      "answer_image": null
+    },
+    {
+      "text": "multi",
+      "answer_image": null
+    },
+    {
+      "text": "bi",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "multi",
+  "correct_image": null,
+  "explanation": "Cô ấy làm việc cho một công ty đa quốc gia (multinational). Công ty này có văn phòng tại hơn 30 quốc gia."
+}

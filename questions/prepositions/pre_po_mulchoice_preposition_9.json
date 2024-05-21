@@ -1,0 +1,25 @@
+{
+  "question": "April comes _____ March.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "after",
+      "answer_image": null
+    },
+    {
+      "text": "before",
+      "answer_image": null
+    },
+    {
+      "text": "during",
+      "answer_image": null
+    },
+    {
+      "text": "with",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "after",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'April' đến sau 'March', nên sử dụng 'after'."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Anna found the book that ________________ wanted at the bookshop.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "∅",
+      "answer_image": null
+    },
+    {
+      "text": "where",
+      "answer_image": null
+    },
+    {
+      "text": "she",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "she",
+  "correct_image": null,
+  "explanation": "Anna tìm thấy cuốn sách mà cô ấy muốn ở cửa hàng sách."
+}

@@ -1,0 +1,21 @@
+{
+  "question": "Won't they ________ travelling for two weeks by then?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been",
+      "answer_image": null
+    },
+    {
+      "text": "had been",
+      "answer_image": null
+    },
+    {
+      "text": "has been",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been",
+  "correct_image": null,
+  "explanation": "Họ sẽ không đã đi du lịch được hai tuần vào lúc đó chứ?"
+}

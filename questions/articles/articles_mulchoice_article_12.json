@@ -1,0 +1,21 @@
+{
+  "question": "Are you looking for________________ job?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a",
+  "correct_image": null,
+  "explanation": "Bạn đang tìm kiếm một công việc?"
+}

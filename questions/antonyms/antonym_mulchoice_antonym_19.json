@@ -1,0 +1,25 @@
+{
+  "question": "The earth is being threatened and the future looks bad.\nTừ trái nghĩa của \"threaten\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "done",
+      "answer_image": null
+    },
+    {
+      "text": "made",
+      "answer_image": null
+    },
+    {
+      "text": "protected",
+      "answer_image": null
+    },
+    {
+      "text": "varied",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "protected",
+  "correct_image": null,
+  "explanation": "threaten: đe dọa >< protect: bảo vệ"
+}

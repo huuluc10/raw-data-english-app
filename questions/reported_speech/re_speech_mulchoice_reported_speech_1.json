@@ -1,0 +1,25 @@
+{
+  "question": "Jack asked me _____.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "where do you come from?",
+      "answer_image": null
+    },
+    {
+      "text": "where I came from",
+      "answer_image": null
+    },
+    {
+      "text": "where I came from",
+      "answer_image": null
+    },
+    {
+      "text": "where did I come from?",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "where I came from",
+  "correct_image": null,
+  "explanation": "Jack hỏi tôi đến từ đâu."
+}

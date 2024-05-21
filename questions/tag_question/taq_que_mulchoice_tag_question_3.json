@@ -1,0 +1,25 @@
+{
+  "question": "These books aren’t yours, ____________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "are these",
+      "answer_image": null
+    },
+    {
+      "text": "aren’t these",
+      "answer_image": null
+    },
+    {
+      "text": "are they",
+      "answer_image": null
+    },
+    {
+      "text": "aren’t they",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "are they",
+  "correct_image": null,
+  "explanation": "Những quyển sách này không phải của bạn, phải không?"
+}

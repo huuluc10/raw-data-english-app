@@ -1,0 +1,25 @@
+{
+  "question": "I wonder _____ the tickets are on sale yet.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "what",
+      "answer_image": null
+    },
+    {
+      "text": "when",
+      "answer_image": null
+    },
+    {
+      "text": "where",
+      "answer_image": null
+    },
+    {
+      "text": "whether",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whether",
+  "correct_image": null,
+  "explanation": "Tôi tự hỏi liệu vé đã được bán chưa."
+}

@@ -1,0 +1,17 @@
+{
+  "question": "Sorry! I acted ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "stupid",
+      "answer_image": null
+    },
+    {
+      "text": "stupidly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "stupidly",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'stupidly' là trạng từ được sử dụng để mô tả cách thức hoặc phương pháp của hành động."
+}

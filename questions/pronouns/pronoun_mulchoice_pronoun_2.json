@@ -1,0 +1,25 @@
+{
+  "question": "What is _______ phone number?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "you",
+      "answer_image": null
+    },
+    {
+      "text": "your",
+      "answer_image": null
+    },
+    {
+      "text": "yours",
+      "answer_image": null
+    },
+    {
+      "text": "all are right",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "your",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'phone number' là của bạn, nên sử dụng 'your'."
+}

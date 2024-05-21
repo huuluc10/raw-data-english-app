@@ -1,0 +1,25 @@
+{
+  "question": "That’s Bod’s, ____________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is that",
+      "answer_image": null
+    },
+    {
+      "text": "isn’t it",
+      "answer_image": null
+    },
+    {
+      "text": "isn’t that",
+      "answer_image": null
+    },
+    {
+      "text": "is it",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "isn’t it",
+  "correct_image": null,
+  "explanation": "Đó là của Bod, phải không?"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Tom said that New York _______ more lively than London.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "be",
+      "answer_image": null
+    },
+    {
+      "text": "was",
+      "answer_image": null
+    },
+    {
+      "text": "were",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is",
+  "correct_image": null,
+  "explanation": "Tom nói rằng New York sống động hơn London."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Mathew _____ Emma that her train was about to leave.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has reminded",
+      "answer_image": null
+    },
+    {
+      "text": "has reminded that",
+      "answer_image": null
+    },
+    {
+      "text": "reminded",
+      "answer_image": null
+    },
+    {
+      "text": "reminded that",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "reminded",
+  "correct_image": null,
+  "explanation": "Mathew nhắc lại cho Emma biết rằng tàu của cô ấy sắp rời khỏi."
+}

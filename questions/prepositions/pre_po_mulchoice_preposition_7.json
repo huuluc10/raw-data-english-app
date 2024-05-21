@@ -1,0 +1,25 @@
+{
+  "question": "I like skiing ___________ big mountains.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "up",
+      "answer_image": null
+    },
+    {
+      "text": "down",
+      "answer_image": null
+    },
+    {
+      "text": "over",
+      "answer_image": null
+    },
+    {
+      "text": "across",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "down",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'down' được sử dụng để chỉ hành động đi trượt tuyết từ trên xuống ở dốc của những ngọn núi lớn."
+}

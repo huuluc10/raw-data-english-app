@@ -1,0 +1,21 @@
+{
+    "question": "Hình sau mô tả tính từ gì?",
+    "question_image": "images/objects/age/young.png",
+    "answers": [
+        {
+            "text": "Young",
+            "answer_image": null
+        },
+        {
+            "text": "Middle-aged",
+            "answer_image": null
+        },
+        {
+            "text": "Old",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Young",
+    "correct_image": null,
+    "explanation": "Từ này thường được sử dụng để miêu tả một người, độ tuổi hoặc giai đoạn trong cuộc sống khi còn trẻ."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "When was ______________ summer in your country?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "hot",
+      "answer_image": null
+    },
+    {
+      "text": "very hot",
+      "answer_image": null
+    },
+    {
+      "text": "hotter",
+      "answer_image": null
+    },
+    {
+      "text": "the hottest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the hottest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the hottest' được sử dụng để hỏi về mùa hè nóng nhất trong quốc gia của bạn."
+}

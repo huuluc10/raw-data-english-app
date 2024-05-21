@@ -1,0 +1,25 @@
+{
+  "question": "Sue was very pessimistic about the situation. I advised her _____.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "no worry",
+      "answer_image": null
+    },
+    {
+      "text": "not worry",
+      "answer_image": null
+    },
+    {
+      "text": "no to worry",
+      "answer_image": null
+    },
+    {
+      "text": "not to worry",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "not to worry",
+  "correct_image": null,
+  "explanation": "Sue rất bi quan về tình hình. Tôi khuyên cô ấy không nên lo lắng."
+}

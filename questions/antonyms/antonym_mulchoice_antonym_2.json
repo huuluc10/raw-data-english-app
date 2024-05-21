@@ -1,0 +1,25 @@
+{
+  "question": "We ought to keep these proposals secret from the chairman for the time being.\nTừ trái nghĩa của \"secret\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "lively",
+      "answer_image": null
+    },
+    {
+      "text": "frequented",
+      "answer_image": null
+    },
+    {
+      "text": "accessible",
+      "answer_image": null
+    },
+    {
+      "text": "revealed",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "revealed",
+  "correct_image": null,
+  "explanation": "secret: bí mật >< revealed: bị tiết lộ"
+}

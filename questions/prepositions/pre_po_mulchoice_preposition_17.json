@@ -1,0 +1,25 @@
+{
+  "question": "We will be there _____ 5:00 o'clock early_____ the morning.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "on / in",
+      "answer_image": null
+    },
+    {
+      "text": "at / in",
+      "answer_image": null
+    },
+    {
+      "text": "in /on",
+      "answer_image": null
+    },
+    {
+      "text": "in / at",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "at / in",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'in the morning' được sử dụng để chỉ buổi sáng, 'at' được sử dụng để chỉ một điểm thời gian cụ thể."
+}

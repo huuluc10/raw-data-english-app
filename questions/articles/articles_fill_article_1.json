@@ -1,0 +1,8 @@
+{
+  "question": "I have _____ bag and _____ umbrella.",
+  "question_image": null,
+  "answers": null,
+  "correct_answer": "a/an",
+  "correct_image": null,
+  "explanation": "Trong tiếng Anh, 'a' hoặc 'an' được sử dụng để chỉ một đối tượng không xác định hoặc không định danh cụ thể. Trong trường hợp này, 'a' được sử dụng trước từ 'bag' vì 'bag' bắt đầu bằng phụ âm, và 'an' được sử dụng trước từ 'umbrella' vì 'umbrella' bắt đầu bằng nguyên âm."
+}

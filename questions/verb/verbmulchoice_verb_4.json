@@ -1,0 +1,25 @@
+{
+  "question": "It _______ a plane, but it _______ some kind of UFO was flying over our heads.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "looked like / sounded",
+      "answer_image": null
+    },
+    {
+      "text": "looked / sounded like",
+      "answer_image": null
+    },
+    {
+      "text": "looked as if / sounded as though",
+      "answer_image": null
+    },
+    {
+      "text": "looked like / sounded as if",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "looked like / sounded as if",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'looked like / sounded as if' được sử dụng để diễn đạt sự tưởng tượng của người nói về một vật thể lạ bay qua đầu họ."
+}

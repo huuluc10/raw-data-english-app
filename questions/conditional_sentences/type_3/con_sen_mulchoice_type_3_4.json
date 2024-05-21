@@ -1,0 +1,21 @@
+{
+  "question": "I used to walk home from the bar. My boyfriend was too drunk to drive at that time.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "I hadn't walked home from the bar if my boyfriend wasn't too drunk to drive.",
+      "answer_image": null
+    },
+    {
+      "text": "I wouldn't have walked home from the bar if my boyfriend hadn't been too drunk to drive.",
+      "answer_image": null
+    },
+    {
+      "text": "I wouldn't have walked home from the bar if my boyfriend had been too drunk to drive.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "I wouldn't have walked home from the bar if my boyfriend hadn't been too drunk to drive.",
+  "correct_image": null,
+  "explanation": null
+}

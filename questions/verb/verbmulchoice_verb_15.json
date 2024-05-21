@@ -1,0 +1,21 @@
+{
+  "question": "My brother is trying _____ smoking.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "quit",
+      "answer_image": null
+    },
+    {
+      "text": "to quit",
+      "answer_image": null
+    },
+    {
+      "text": "quitting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to quit",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'to quit' được sử dụng để diễn đạt ý định của người nói về việc cố gắng bỏ thuốc lá."
+}

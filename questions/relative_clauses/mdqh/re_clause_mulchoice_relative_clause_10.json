@@ -1,0 +1,25 @@
+{
+  "question": "Please remember to take back to the library all the books ________ are due this week.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "∅",
+      "answer_image": null
+    },
+    {
+      "text": "that",
+      "answer_image": null
+    },
+    {
+      "text": "when",
+      "answer_image": null
+    },
+    {
+      "text": "they",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "that",
+  "correct_image": null,
+  "explanation": "Vui lòng nhớ mang lại thư viện tất cả các sách mà hết hạn trong tuần này."
+}

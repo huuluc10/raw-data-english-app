@@ -1,0 +1,25 @@
+{
+  "question": "Now I understand why you moved out of that house.\nĐồng nghĩa của \"I understand\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "I am surprised",
+      "answer_image": null
+    },
+    {
+      "text": "it frustrates me",
+      "answer_image": null
+    },
+    {
+      "text": "I am intrigued",
+      "answer_image": null
+    },
+    {
+      "text": "it makes sense to me",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "it makes sense to me",
+  "correct_image": null,
+  "explanation": "Understand = make sense (v) hiểu"
+}

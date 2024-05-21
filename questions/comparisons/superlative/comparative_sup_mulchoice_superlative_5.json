@@ -1,0 +1,25 @@
+{
+  "question": "Last winter was ___________ winter in our country.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "cold",
+      "answer_image": null
+    },
+    {
+      "text": "cold as",
+      "answer_image": null
+    },
+    {
+      "text": "colder",
+      "answer_image": null
+    },
+    {
+      "text": "the coldest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the coldest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the coldest' được sử dụng để chỉ mùa đông trước là mùa đông lạnh nhất trong quốc gia của chúng ta."
+}

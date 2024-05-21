@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/close.png",
+  "answers": [
+    {
+      "text": "Cook",
+      "answer_image": null
+    },
+    {
+      "text": "Climb",
+      "answer_image": null
+    },
+    {
+      "text": "Wait",
+      "answer_image": null
+    },
+    {
+      "text": "Close",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Close",
+  "correct_image": null,
+  "explanation": "“Close” là động từ có nghĩa là đóng lại."
+}

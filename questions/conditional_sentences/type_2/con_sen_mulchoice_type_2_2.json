@@ -1,0 +1,21 @@
+{
+  "question": "If Sany ______(have) free time, he ______(come) to Linda’s party.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had – would come",
+      "answer_image": null
+    },
+    {
+      "text": "had – will come",
+      "answer_image": null
+    },
+    {
+      "text": "had – came",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had – would come",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would come) trong mệnh đề kết quả và 'had' trong mệnh đề điều kiện."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "There is a meeting_____9:00 AM and 2:00 PM.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "till",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    },
+    {
+      "text": "on",
+      "answer_image": null
+    },
+    {
+      "text": "between",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "between",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'between' được sử dụng để chỉ khoảng thời gian giữa 9:00 AM và 2:00 PM."
+}

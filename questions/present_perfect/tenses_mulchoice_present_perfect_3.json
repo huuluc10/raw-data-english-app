@@ -1,0 +1,25 @@
+{
+  "question": "I ___________ hot food before. It is quite strange to me.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "haven’t try",
+      "answer_image": null
+    },
+    {
+      "text": "haven’t tried",
+      "answer_image": null
+    },
+    {
+      "text": "don’t try",
+      "answer_image": null
+    },
+    {
+      "text": "didn’t try",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "haven’t tried",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu phủ định trong thì hiện tại hoàn thành: S + haven't/hasn't + Vpp"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I've put the cake on a high shelf where he can't get at it.\nTừ trái nghĩa của \"high\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "low",
+      "answer_image": null
+    },
+    {
+      "text": "untouchable",
+      "answer_image": null
+    },
+    {
+      "text": "far",
+      "answer_image": null
+    },
+    {
+      "text": "difficult to reach",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "low",
+  "correct_image": null,
+  "explanation": "high: cao >< low: thấp"
+}

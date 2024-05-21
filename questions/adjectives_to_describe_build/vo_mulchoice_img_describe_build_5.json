@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả từ gì?",
+    "question_image": "images/objects/describe_build/slim.png",
+    "answers": [
+        {
+            "text": "Plump",
+            "answer_image": null
+        },
+        {
+            "text": "Well-built",
+            "answer_image": null
+        },
+        {
+            "text": "Fat",
+            "answer_image": null
+        },
+        {
+            "text": "Slim",
+            "answer_image": null
+        }
+    ],
+    "correct_answer": "Slim",
+    "correct_image": null,
+    "explanation": "Từ này thường được sử dụng để miêu tả một người mảnh mai, thon thả."
+}

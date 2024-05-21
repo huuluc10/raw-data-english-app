@@ -1,0 +1,25 @@
+{
+  "question": "My parents never let me do anything by myself",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "I’m never let to do anything by myself",
+      "answer_image": null
+    },
+    {
+      "text": "I’m never let doing anything by myself",
+      "answer_image": null
+    },
+    {
+      "text": "I’m never allowed to do anything by myself",
+      "answer_image": null
+    },
+    {
+      "text": "I’m never allowing to do anything by myself",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "I’m never allowed to do anything by myself",
+  "correct_image": null,
+  "explanation": "Bố mẹ tôi không bao giờ cho phép tôi tự làm bất cứ điều gì."
+}

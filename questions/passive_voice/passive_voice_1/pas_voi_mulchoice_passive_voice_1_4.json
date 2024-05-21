@@ -1,0 +1,25 @@
+{
+  "question": "They had a boy ____ that yesterday.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "done",
+      "answer_image": null
+    },
+    {
+      "text": "to do",
+      "answer_image": null
+    },
+    {
+      "text": "did",
+      "answer_image": null
+    },
+    {
+      "text": "do",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "done",
+  "correct_image": null,
+  "explanation": "Họ đã có một cậu bé làm việc đó ngày hôm qua."
+}

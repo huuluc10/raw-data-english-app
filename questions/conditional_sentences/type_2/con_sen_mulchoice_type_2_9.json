@@ -1,0 +1,21 @@
+{
+  "question": "If Lam ______(shave) his head, her parents ______(be) mad.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "shaved – would be",
+      "answer_image": null
+    },
+    {
+      "text": "shaved – will be",
+      "answer_image": null
+    },
+    {
+      "text": "shaved – were",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "shaved – would be",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would be) trong mệnh đề kết quả và 'shaved' trong mệnh đề điều kiện."
+}

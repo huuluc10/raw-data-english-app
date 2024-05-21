@@ -1,0 +1,25 @@
+{
+  "question": "Be careful when you walk ____________ the street.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "through",
+      "answer_image": null
+    },
+    {
+      "text": "above",
+      "answer_image": null
+    },
+    {
+      "text": "across",
+      "answer_image": null
+    },
+    {
+      "text": "up",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "across",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'across' được sử dụng để chỉ sự đi băng qua một không gian, đặc biệt là đường phố."
+}

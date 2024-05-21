@@ -1,0 +1,25 @@
+{
+  "question": "Nobody in our class plays ________ Nathan.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "as good as",
+      "answer_image": null
+    },
+    {
+      "text": "so well than",
+      "answer_image": null
+    },
+    {
+      "text": "as best as",
+      "answer_image": null
+    },
+    {
+      "text": "as well as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "as well as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'as well as' được sử dụng để so sánh khả năng chơi của mọi người trong lớp với Nathan."
+}

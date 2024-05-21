@@ -1,0 +1,21 @@
+{
+  "question": "They'll be exhausted by dinner. They will have been _____ hockey for seven hours.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "playing",
+      "answer_image": null
+    },
+    {
+      "text": "played",
+      "answer_image": null
+    },
+    {
+      "text": "play",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "playing",
+  "correct_image": null,
+  "explanation": "Họ sẽ mệt mỏi vào bữa tối. Họ sẽ đã chơi khúc côn cầu được bảy giờ."
+}

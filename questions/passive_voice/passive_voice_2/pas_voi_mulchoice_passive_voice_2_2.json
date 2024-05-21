@@ -1,0 +1,25 @@
+{
+  "question": "____ broken several world records in swimming.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "She is said to have",
+      "answer_image": null
+    },
+    {
+      "text": "People say she had",
+      "answer_image": null
+    },
+    {
+      "text": "She is said that she has",
+      "answer_image": null
+    },
+    {
+      "text": "It is said to have",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "It is said to have",
+  "correct_image": null,
+  "explanation": "Người ta nói cô ấy đã phá vỡ nhiều kỷ lục thế giới về bơi lội."
+}

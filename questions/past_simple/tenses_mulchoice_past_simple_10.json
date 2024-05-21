@@ -1,0 +1,25 @@
+{
+  "question": "Lam __________  a lot of money last night. She __________ an expensive dress.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "spend / buy",
+      "answer_image": null
+    },
+    {
+      "text": "spent / buy",
+      "answer_image": null
+    },
+    {
+      "text": "spent / bought",
+      "answer_image": null
+    },
+    {
+      "text": "was spent / bought",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "spent / bought",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'spent' và 'bought' là dạng quá khứ của động từ 'spend' và 'buy', và phản ánh hành động đã diễn ra trong quá khứ."
+}

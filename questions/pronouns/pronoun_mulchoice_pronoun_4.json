@@ -1,0 +1,25 @@
+{
+  "question": "Here is a postcard from _______ friend Peggy.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "me",
+      "answer_image": null
+    },
+    {
+      "text": "mine",
+      "answer_image": null
+    },
+    {
+      "text": "my",
+      "answer_image": null
+    },
+    {
+      "text": "all are right",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "my",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'friend Peggy' là bạn của bạn, nên sử dụng 'my'."
+}

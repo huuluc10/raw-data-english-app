@@ -1,0 +1,25 @@
+{
+  "question": "My daughter ………. a bike since she was 12.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "drove",
+      "answer_image": null
+    },
+    {
+      "text": "has been riding",
+      "answer_image": null
+    },
+    {
+      "text": "has been ridden",
+      "answer_image": null
+    },
+    {
+      "text": "have ridden",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has been riding",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là my daughter (số ít) nên câu trúc đúng là \"has been + Ving\""
+}

@@ -1,0 +1,25 @@
+{
+  "question": "My manager made us do all the projects.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "We were made to do all the projects",
+      "answer_image": null
+    },
+    {
+      "text": "We made to do all the projects",
+      "answer_image": null
+    },
+    {
+      "text": "We were done all the projects",
+      "answer_image": null
+    },
+    {
+      "text": "We were made doing all the projects",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "We were made to do all the projects",
+  "correct_image": null,
+  "explanation": "Chúng tôi đã bị buộc phải làm tất cả các dự án."
+}

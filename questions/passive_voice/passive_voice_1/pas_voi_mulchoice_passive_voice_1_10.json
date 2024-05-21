@@ -1,0 +1,25 @@
+{
+  "question": "Laura ____ in Boston.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "are born",
+      "answer_image": null
+    },
+    {
+      "text": "were born",
+      "answer_image": null
+    },
+    {
+      "text": "was born",
+      "answer_image": null
+    },
+    {
+      "text": "born",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was born",
+  "correct_image": null,
+  "explanation": "Laura được sinh ra ở Boston."
+}

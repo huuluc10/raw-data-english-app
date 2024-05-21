@@ -1,0 +1,25 @@
+{
+  "question": "Can you show me ________way to ________station?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the/the",
+      "answer_image": null
+    },
+    {
+      "text": "a/a",
+      "answer_image": null
+    },
+    {
+      "text": "the/a",
+      "answer_image": null
+    },
+    {
+      "text": "a/the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the/the",
+  "correct_image": null,
+  "explanation": "Bạn có thể chỉ cho tôi đường đến ga không?"
+}

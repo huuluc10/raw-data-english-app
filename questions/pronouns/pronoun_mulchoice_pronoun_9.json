@@ -1,0 +1,25 @@
+{
+  "question": "The exam _______ wasn't difficult, but exam room was horrible.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "himself",
+      "answer_image": null
+    },
+    {
+      "text": "herself",
+      "answer_image": null
+    },
+    {
+      "text": "myself",
+      "answer_image": null
+    },
+    {
+      "text": "itself",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "itself",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'exam' không có khả năng tự quyết định nên sử dụng 'itself'."
+}

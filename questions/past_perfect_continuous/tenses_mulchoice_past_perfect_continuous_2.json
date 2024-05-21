@@ -1,0 +1,25 @@
+{
+  "question": "I ___________ (wait) for her for hours before she came.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had been waiting",
+      "answer_image": null
+    },
+    {
+      "text": "has been waiting",
+      "answer_image": null
+    },
+    {
+      "text": "had been waited",
+      "answer_image": null
+    },
+    {
+      "text": "had waited",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been waiting",
+  "correct_image": null,
+  "explanation": "Tôi đã đợi cô ấy suốt hàng giờ đồng hồ trước khi cô ấy đến."
+}

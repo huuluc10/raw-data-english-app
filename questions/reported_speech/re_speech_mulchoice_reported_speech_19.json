@@ -1,0 +1,25 @@
+{
+  "question": "Bill was slow, so I ________ hurry up.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tell him",
+      "answer_image": null
+    },
+    {
+      "text": "told him for",
+      "answer_image": null
+    },
+    {
+      "text": "told to",
+      "answer_image": null
+    },
+    {
+      "text": "told him to",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "told him to",
+  "correct_image": null,
+  "explanation": "Bill làm chậm, vì vậy tôi đã nói cho anh ta phải nhanh lên."
+}

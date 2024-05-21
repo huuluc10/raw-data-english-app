@@ -1,0 +1,25 @@
+{
+  "question": "My dog _______________ my cat since I came home.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is chasing",
+      "answer_image": null
+    },
+    {
+      "text": "has chased",
+      "answer_image": null
+    },
+    {
+      "text": "chased",
+      "answer_image": null
+    },
+    {
+      "text": "chases",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has chased",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu trong thì hiện tại hoàn thành: S + have/has + Vpp"
+}

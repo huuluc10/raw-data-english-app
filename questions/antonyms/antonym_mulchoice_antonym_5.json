@@ -1,0 +1,25 @@
+{
+  "question": "We offer a speedy and secure service of transferring money in less than 24 hours.\nTừ trái nghĩa của \"speedy\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "slow",
+      "answer_image": null
+    },
+    {
+      "text": "open",
+      "answer_image": null
+    },
+    {
+      "text": "unsure",
+      "answer_image": null
+    },
+    {
+      "text": "uninterested",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "slow",
+  "correct_image": null,
+  "explanation": "speedy: nhanh nhạy >< slow: chậm chạp"
+}

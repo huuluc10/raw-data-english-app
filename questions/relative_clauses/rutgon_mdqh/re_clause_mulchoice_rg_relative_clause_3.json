@@ -1,0 +1,21 @@
+{
+  "question": "The car that is parked in front of the house belongs to my neighbor.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The car parked in front of the house belongs to my neighbor.",
+      "answer_image": null
+    },
+    {
+      "text": "The parked in front of the house car belongs to my neighbor.",
+      "answer_image": null
+    },
+    {
+      "text": "The car that parked in front of the house belongs to my neighbor.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The car parked in front of the house belongs to my neighbor.",
+  "correct_image": null,
+  "explanation": "Chiếc xe đậu trước nhà thuộc sở hữu của hàng xóm tôi."
+}

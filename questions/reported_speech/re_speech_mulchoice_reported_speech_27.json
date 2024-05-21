@@ -1,0 +1,25 @@
+{
+  "question": "Judy ______ going for a walk, but no one else wanted to.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "admitted",
+      "answer_image": null
+    },
+    {
+      "text": "offered",
+      "answer_image": null
+    },
+    {
+      "text": "promised",
+      "answer_image": null
+    },
+    {
+      "text": "suggested",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "suggested",
+  "correct_image": null,
+  "explanation": "Judy đề xuất đi dạo, nhưng không ai muốn đi."
+}

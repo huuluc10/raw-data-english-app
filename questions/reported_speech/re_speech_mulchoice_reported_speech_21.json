@@ -1,0 +1,25 @@
+{
+  "question": "Someone ______ me there’s been an accident on the motorway.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "asked",
+      "answer_image": null
+    },
+    {
+      "text": "said",
+      "answer_image": null
+    },
+    {
+      "text": "spoke",
+      "answer_image": null
+    },
+    {
+      "text": "told",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "told",
+  "correct_image": null,
+  "explanation": "Một ai đó nói với tôi rằng đã xảy ra một tai nạn trên đường cao tốc."
+}

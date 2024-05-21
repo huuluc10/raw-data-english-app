@@ -1,0 +1,21 @@
+{
+  "question": "If I were you, I ______(not drink) red wine.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "wouldn’t drink",
+      "answer_image": null
+    },
+    {
+      "text": "won’t drink",
+      "answer_image": null
+    },
+    {
+      "text": "didn’t drink",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "wouldn’t drink",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + not + động từ nguyên mẫu (wouldn’t drink) trong mệnh đề kết quả."
+}

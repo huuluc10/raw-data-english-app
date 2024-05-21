@@ -1,0 +1,21 @@
+{
+  "question": "He was born into______poor family.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a",
+  "correct_image": null,
+  "explanation": "Anh ấy sinh ra trong một gia đình nghèo."
+}

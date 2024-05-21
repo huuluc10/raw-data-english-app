@@ -1,0 +1,21 @@
+{
+  "question": "The movie that was directed by Steven Spielberg won several awards.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The directed by Steven Spielberg movie won several awards.",
+      "answer_image": null
+    },
+    {
+      "text": "The movie directed by Steven Spielberg won several awards.",
+      "answer_image": null
+    },
+    {
+      "text": "The movie that directed by Steven Spielberg won several awards.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The movie directed by Steven Spielberg won several awards.",
+  "correct_image": null,
+  "explanation": "Bộ phim do Steven Spielberg đạo diễn đã giành được nhiều giải thưởng."
+}

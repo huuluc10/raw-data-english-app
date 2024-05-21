@@ -1,0 +1,25 @@
+{
+  "question": "It was cool, so I _____________ the window.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "shut",
+      "answer_image": null
+    },
+    {
+      "text": "was shut",
+      "answer_image": null
+    },
+    {
+      "text": "am shut",
+      "answer_image": null
+    },
+    {
+      "text": "shutted",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "shut",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'shut' là dạng quá khứ của động từ 'shut', và phản ánh hành động đã diễn ra trong quá khứ."
+}

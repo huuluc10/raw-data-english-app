@@ -1,0 +1,25 @@
+{
+  "question": "I get up ____ seven o'clock every morning.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "till",
+      "answer_image": null
+    },
+    {
+      "text": "in",
+      "answer_image": null
+    },
+    {
+      "text": "for",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "at",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'at' được sử dụng để chỉ thời gian cụ thể, như 'at seven o'clock'."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "My sister ………. French for two years.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has been learning",
+      "answer_image": null
+    },
+    {
+      "text": "learned",
+      "answer_image": null
+    },
+    {
+      "text": "is learning",
+      "answer_image": null
+    },
+    {
+      "text": "learn",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has been learning",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là My sister (số ít) và câu này cho biết một hành động đã kéo dài trong một khoảng thời gian, nên câu trúc đúng là \"has been learning\"."
+}

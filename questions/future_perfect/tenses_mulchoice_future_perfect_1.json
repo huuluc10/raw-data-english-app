@@ -1,0 +1,22 @@
+
+{
+  "question": "By the time we get there, the store ________ (close).",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will close",
+      "answer_image": null
+    },
+    {
+      "text": "will have closed",
+      "answer_image": null
+    },
+    {
+      "text": "closed",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have closed",
+  "correct_image": null,
+  "explanation": "Khi chúng ta đến đó, cửa hàng đã đóng cửa."
+}

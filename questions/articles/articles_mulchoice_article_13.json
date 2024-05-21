@@ -1,0 +1,21 @@
+{
+  "question": "I checked_________email twice.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the",
+  "correct_image": null,
+  "explanation": "Tôi đã kiểm tra email hai lần."
+}

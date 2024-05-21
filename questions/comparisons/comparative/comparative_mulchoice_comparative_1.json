@@ -1,0 +1,25 @@
+{
+  "question": "It is ________ in the area than it is in the country.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "noisily",
+      "answer_image": null
+    },
+    {
+      "text": "more noisier",
+      "answer_image": null
+    },
+    {
+      "text": "noisier",
+      "answer_image": null
+    },
+    {
+      "text": "noisy",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "noisier",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'noisier' là dạng so sánh hơn của 'noisy'."
+}

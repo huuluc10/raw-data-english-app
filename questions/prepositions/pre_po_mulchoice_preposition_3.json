@@ -1,0 +1,25 @@
+{
+  "question": "Put the toys _______ the basket, please.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "on",
+      "answer_image": null
+    },
+    {
+      "text": "in",
+      "answer_image": null
+    },
+    {
+      "text": "up",
+      "answer_image": null
+    },
+    {
+      "text": "through",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "in",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'in' được sử dụng để chỉ việc đặt các đồ chơi bên trong cái rổ."
+}

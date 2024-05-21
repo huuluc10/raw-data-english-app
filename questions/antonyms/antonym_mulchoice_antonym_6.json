@@ -1,0 +1,25 @@
+{
+  "question": "She went to live in another state after the break-up of her marriage.\nTừ trái nghĩa của \"marriage\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "loneliness",
+      "answer_image": null
+    },
+    {
+      "text": "anniversary",
+      "answer_image": null
+    },
+    {
+      "text": "celebrity",
+      "answer_image": null
+    },
+    {
+      "text": "divorce",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "divorce",
+  "correct_image": null,
+  "explanation": "marriage: hôn nhân >< divorce: sự đổ vỡ"
+}

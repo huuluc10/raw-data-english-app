@@ -1,0 +1,25 @@
+{
+  "question": "The Germany’s war hysteria has accounted for its people’s hostility towards foreigners.\nTừ trái nghĩa của \"hostility\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "disease",
+      "answer_image": null
+    },
+    {
+      "text": "ceremony",
+      "answer_image": null
+    },
+    {
+      "text": "malaria",
+      "answer_image": null
+    },
+    {
+      "text": "friendliness",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "friendliness",
+  "correct_image": null,
+  "explanation": "hostility: sự thù địch >< friendliness: sự thân thiện"
+}

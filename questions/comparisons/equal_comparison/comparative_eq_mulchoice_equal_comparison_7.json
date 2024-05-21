@@ -1,0 +1,25 @@
+{
+  "question": "Impalas cannot run as ________ cheetahs but they are more efficient runners.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "faster than",
+      "answer_image": null
+    },
+    {
+      "text": "fast as",
+      "answer_image": null
+    },
+    {
+      "text": "fast",
+      "answer_image": null
+    },
+    {
+      "text": "are fast as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "fast as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'fast as' được sử dụng để so sánh tốc độ chạy."
+}

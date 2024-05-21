@@ -1,0 +1,21 @@
+{
+  "question": "Kind words __________ others joy.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will give",
+      "answer_image": null
+    },
+    {
+      "text": "would give",
+      "answer_image": null
+    },
+    {
+      "text": "will be giving",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will give",
+  "correct_image": null,
+  "explanation": "Những lời tử tế sẽ mang lại niềm vui cho người khác."
+}

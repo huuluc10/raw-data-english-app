@@ -1,0 +1,21 @@
+{
+  "question": "If I ______(catch) that bus, I ______(go) to school on time.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "caught – would go",
+      "answer_image": null
+    },
+    {
+      "text": "caught – will go",
+      "answer_image": null
+    },
+    {
+      "text": "caught – would go",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "caught – would go",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would go) trong mệnh đề kết quả và 'caught' trong mệnh đề điều kiện."
+}

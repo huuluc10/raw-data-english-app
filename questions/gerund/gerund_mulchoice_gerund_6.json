@@ -1,0 +1,17 @@
+{
+  "question": "Frank offered ________ us paint the house.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to help",
+      "answer_image": null
+    },
+    {
+      "text": "helping",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to help",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này nên sử dụng cấu trúc 'offered to + động từ nguyên thể'."
+}

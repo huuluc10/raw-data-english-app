@@ -1,0 +1,17 @@
+{
+  "question": "We had such a ________________ trip so all of us went to bed.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tired",
+      "answer_image": null
+    },
+    {
+      "text": "tiring",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "tiring",
+  "correct_image": null,
+  "explanation": "Dùng tiring để miêu tả trạng thái của chuyến đi"
+}

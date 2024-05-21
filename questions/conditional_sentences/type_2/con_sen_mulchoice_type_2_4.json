@@ -1,0 +1,21 @@
+{
+  "question": "If they ______(decide) to stay here, they ______(spend) more time for each other.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "decided – spent",
+      "answer_image": null
+    },
+    {
+      "text": "decided – will spend",
+      "answer_image": null
+    },
+    {
+      "text": "decided – would spend",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "decided – would spend",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would spend) trong mệnh đề kết quả và 'decided' trong mệnh đề điều kiện."
+}

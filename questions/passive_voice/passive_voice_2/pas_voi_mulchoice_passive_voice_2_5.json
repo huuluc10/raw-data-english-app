@@ -1,0 +1,25 @@
+{
+  "question": "More than five thousand people ____ in the earthquake in Indonesia last year.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "was said to be died",
+      "answer_image": null
+    },
+    {
+      "text": "were said to be died",
+      "answer_image": null
+    },
+    {
+      "text": "was said to die",
+      "answer_image": null
+    },
+    {
+      "text": "were said to die",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "were said to die",
+  "correct_image": null,
+  "explanation": "Hơn năm ngàn người được cho là đã chết trong trận động đất ở Indonesia năm ngoái."
+}

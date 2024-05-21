@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/cry.png",
+    "answers": [
+      {
+        "text": "Cut",
+        "answer_image": null
+      },
+      {
+        "text": "Throw away",
+        "answer_image": null
+      },
+      {
+        "text": "Sleep",
+        "answer_image": null
+      },
+      {
+        "text": "Cry",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Cry",
+    "correct_image": null,
+    "explanation": "“Cry” có nghĩa là khóc."
+  }

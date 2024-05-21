@@ -1,0 +1,21 @@
+{
+  "question": "Can you buy ____________ eggs, please?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "not any",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "some",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'some' được sử dụng để yêu cầu một số quả trứng."
+}

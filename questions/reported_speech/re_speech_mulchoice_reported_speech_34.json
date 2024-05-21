@@ -1,0 +1,25 @@
+{
+  "question": "\"I don’t usually drink milk when ______ \" Mrs. Pike said.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "she was hungry",
+      "answer_image": null
+    },
+    {
+      "text": "I was hungry",
+      "answer_image": null
+    },
+    {
+      "text": "I am hungry",
+      "answer_image": null
+    },
+    {
+      "text": "I will be",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "I am hungry",
+  "correct_image": null,
+  "explanation": "Bà Pike nói: \"Tôi thường không uống sữa khi tôi đói.\""
+}

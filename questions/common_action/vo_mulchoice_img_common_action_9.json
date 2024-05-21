@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/sleep.png",
+    "answers": [
+      {
+        "text": "Cry",
+        "answer_image": null
+      },
+      {
+        "text": "Think",
+        "answer_image": null
+      },
+      {
+        "text": "Sleep",
+        "answer_image": null
+      },
+      {
+        "text": "Sing",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Sleep",
+    "correct_image": null,
+    "explanation": "“Sleep” có nghĩa là ngủ."
+  }

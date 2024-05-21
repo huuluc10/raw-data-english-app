@@ -1,0 +1,25 @@
+{
+  "question": "________ youngest boy has just started going to ________ school.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a/x",
+      "answer_image": null
+    },
+    {
+      "text": "x/the",
+      "answer_image": null
+    },
+    {
+      "text": "an/x",
+      "answer_image": null
+    },
+    {
+      "text": "the/x",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the/x",
+  "correct_image": null,
+  "explanation": "Cậu bé trẻ nhất vừa mới bắt đầu đi học."
+}

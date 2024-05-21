@@ -1,0 +1,25 @@
+{
+  "question": "Her mom ___ in the park when she saw a tree.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "was going",
+      "answer_image": null
+    },
+    {
+      "text": "was going",
+      "answer_image": null
+    },
+    {
+      "text": "were going",
+      "answer_image": null
+    },
+    {
+      "text": "were going",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was going",
+  "correct_image": null,
+  "explanation": "Mẹ cô ấy đang đi trong công viên thì cô ấy nhìn thấy một cái cây."
+}

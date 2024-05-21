@@ -1,0 +1,21 @@
+{
+  "question": "Here is a book that is for you to read.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Here is a book for you to read.",
+      "answer_image": null
+    },
+    {
+      "text": "Here is a book that for you to read.",
+      "answer_image": null
+    },
+    {
+      "text": "Here is a book for you read.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Here is a book for you to read.",
+  "correct_image": null,
+  "explanation": "Đây là một cuốn sách để bạn đọc."
+}

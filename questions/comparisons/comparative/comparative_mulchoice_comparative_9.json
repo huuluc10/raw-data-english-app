@@ -1,0 +1,25 @@
+{
+  "question": "She did the test ________ I did.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "as bad as",
+      "answer_image": null
+    },
+    {
+      "text": "badder than",
+      "answer_image": null
+    },
+    {
+      "text": "more badly than",
+      "answer_image": null
+    },
+    {
+      "text": "better than",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "better than",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'better than' được sử dụng để chỉ sự tốt hơn."
+}

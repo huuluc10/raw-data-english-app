@@ -1,0 +1,25 @@
+{
+  "question": "Lana is ________ than David.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "handsome",
+      "answer_image": null
+    },
+    {
+      "text": "the more handsome",
+      "answer_image": null
+    },
+    {
+      "text": "more handsome",
+      "answer_image": null
+    },
+    {
+      "text": "the most handsome",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "more handsome",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'more handsome' được sử dụng cho so sánh hơn giữa hai người."
+}

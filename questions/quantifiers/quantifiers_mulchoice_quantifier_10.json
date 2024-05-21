@@ -1,0 +1,25 @@
+{
+  "question": "We need to buy _______ apples for the pie.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "several",
+      "answer_image": null
+    },
+    {
+      "text": "no",
+      "answer_image": null
+    },
+    {
+      "text": "many",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "many",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'many' được sử dụng để chỉ một số lượng lớn táo cần thiết cho bánh."
+}

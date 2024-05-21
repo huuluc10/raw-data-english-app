@@ -1,0 +1,25 @@
+{
+  "question": "Nam and Ba painted the house by _______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "yourself",
+      "answer_image": null
+    },
+    {
+      "text": "himself",
+      "answer_image": null
+    },
+    {
+      "text": "themselves",
+      "answer_image": null
+    },
+    {
+      "text": "itself",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "themselves",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'Nam and Ba' là nhóm người, nên sử dụng 'themselves'."
+}

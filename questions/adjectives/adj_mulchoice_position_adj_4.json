@@ -1,0 +1,21 @@
+{
+  "question": "He used to drive ________ motorbike.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a blue old Japanese",
+      "answer_image": null
+    },
+    {
+      "text": "an old Japanese blue",
+      "answer_image": null
+    },
+    {
+      "text": "an old blue Japanese",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "an old Japanese blue",
+  "correct_image": null,
+  "explanation": "Anh ta đã từng lái một chiếc xe máy màu xanh cũ của Nhật."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I told you ______ switch off the computer, didn’t I ?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "don’t",
+      "answer_image": null
+    },
+    {
+      "text": "not",
+      "answer_image": null
+    },
+    {
+      "text": "not to",
+      "answer_image": null
+    },
+    {
+      "text": "to not",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "not to",
+  "correct_image": null,
+  "explanation": "Tôi đã nói cho bạn biết đừng quên tắt máy tính, phải không?"
+}

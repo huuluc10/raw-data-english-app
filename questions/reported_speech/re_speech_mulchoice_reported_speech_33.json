@@ -1,0 +1,25 @@
+{
+  "question": "Peter said he was leaving for Paris ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "next week",
+      "answer_image": null
+    },
+    {
+      "text": "the week previous",
+      "answer_image": null
+    },
+    {
+      "text": "following week",
+      "answer_image": null
+    },
+    {
+      "text": "the following week",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the following week",
+  "correct_image": null,
+  "explanation": "Peter nói rằng anh ấy sẽ đi Paris vào tuần sau."
+}

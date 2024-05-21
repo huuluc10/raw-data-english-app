@@ -1,0 +1,25 @@
+{
+  "question": "They ………. for this company since 2010.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "worked",
+      "answer_image": null
+    },
+    {
+      "text": "have been working",
+      "answer_image": null
+    },
+    {
+      "text": "have worked",
+      "answer_image": null
+    },
+    {
+      "text": "are working",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been working",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là They (số nhiều) và câu này cho biết một hành động kéo dài từ quá khứ đến hiện tại, nên câu trúc đúng là \"have been working\"."
+}

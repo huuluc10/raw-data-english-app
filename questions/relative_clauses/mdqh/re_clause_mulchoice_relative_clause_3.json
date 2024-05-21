@@ -1,0 +1,25 @@
+{
+  "question": "She’s the woman_________ sister looks after the baby for .",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "who",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    },
+    {
+      "text": "that’s",
+      "answer_image": null
+    },
+    {
+      "text": "whose",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whose",
+  "correct_image": null,
+  "explanation": "Cô ấy là người phụ nữ mà chị gái chăm sóc em bé cho ."
+}

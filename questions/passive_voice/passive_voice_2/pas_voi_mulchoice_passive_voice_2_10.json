@@ -1,0 +1,25 @@
+{
+  "question": "Soil erosion is a result of forests being cut down carelessly.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "That forests are being cut down carelessly results from soil erosion",
+      "answer_image": null
+    },
+    {
+      "text": "Soil erosion contributes to forests being cut down carelessly",
+      "answer_image": null
+    },
+    {
+      "text": "Soil erosion results in forests being cut down carelessly",
+      "answer_image": null
+    },
+    {
+      "text": "That forests are being cut down carelessly leads to soil erosion",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "That forests are being cut down carelessly leads to soil erosion",
+  "correct_image": null,
+  "explanation": "Hiện tượng mòn đất là kết quả của việc rừng bị chặt phá một cách không cẩn thận."
+}

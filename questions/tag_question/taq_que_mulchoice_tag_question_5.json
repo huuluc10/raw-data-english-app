@@ -1,0 +1,25 @@
+{
+  "question": "No one died in the accident, ______________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "did they",
+      "answer_image": null
+    },
+    {
+      "text": "didn’t they",
+      "answer_image": null
+    },
+    {
+      "text": "did he",
+      "answer_image": null
+    },
+    {
+      "text": "didn’t he",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "did they",
+  "correct_image": null,
+  "explanation": "Không ai chết trong tai nạn, phải không?"
+}

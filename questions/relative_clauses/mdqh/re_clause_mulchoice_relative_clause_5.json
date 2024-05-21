@@ -1,0 +1,25 @@
+{
+  "question": "Marie,_________ I met at the party, called me last night.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "that",
+      "answer_image": null
+    },
+    {
+      "text": "whom",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    },
+    {
+      "text": "whose",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whom",
+  "correct_image": null,
+  "explanation": "Marie, người mà tôi gặp ở buổi tiệc, đã gọi cho tôi tối qua."
+}

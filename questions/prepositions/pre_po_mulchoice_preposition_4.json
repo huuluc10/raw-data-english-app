@@ -1,0 +1,25 @@
+{
+  "question": "I saw them. They were walking __________ the town.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "into",
+      "answer_image": null
+    },
+    {
+      "text": "under",
+      "answer_image": null
+    },
+    {
+      "text": "towards",
+      "answer_image": null
+    },
+    {
+      "text": "above",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "towards",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'towards' được sử dụng để chỉ hướng đi của họ, hướng đến thị trấn."
+}

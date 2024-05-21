@@ -1,0 +1,21 @@
+{
+  "question": "Jame was wearing a ________ short.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "dirty old cotton",
+      "answer_image": null
+    },
+    {
+      "text": "cotton old dirty",
+      "answer_image": null
+    },
+    {
+      "text": "old dirty cotton",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "old dirty cotton",
+  "correct_image": null,
+  "explanation": "Jame đang mặc một cái quần short cotton cũ bẩn."
+}

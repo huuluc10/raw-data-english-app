@@ -1,0 +1,21 @@
+{
+  "question": "The painting that was created by Picasso is displayed in the museum.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The painting that created by Picasso is displayed in the museum.",
+      "answer_image": null
+    },
+    {
+      "text": "The painting created by Picasso is displayed in the museum.",
+      "answer_image": null
+    },
+    {
+      "text": "The created by Picasso painting is displayed in the museum.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The painting created by Picasso is displayed in the museum.",
+  "correct_image": null,
+  "explanation": "Bức tranh được tạo ra bởi Picasso được trưng bày tại bảo tàng."
+}

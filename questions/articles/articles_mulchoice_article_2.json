@@ -1,0 +1,25 @@
+{
+  "question": "Please turn off ________ lights when you leave ________ room.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the/the",
+      "answer_image": null
+    },
+    {
+      "text": "a/a",
+      "answer_image": null
+    },
+    {
+      "text": "the/a",
+      "answer_image": null
+    },
+    {
+      "text": "a/the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the/the",
+  "correct_image": null,
+  "explanation": "Xin vui lòng tắt đèn khi bạn rời phòng."
+}

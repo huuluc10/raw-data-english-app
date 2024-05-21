@@ -1,0 +1,21 @@
+{
+  "question": "The whole nation __________ proud of you.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "will be",
+      "answer_image": null
+    },
+    {
+      "text": "would be",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be",
+  "correct_image": null,
+  "explanation": "Toàn bộ quốc gia sẽ tự hào về bạn."
+}

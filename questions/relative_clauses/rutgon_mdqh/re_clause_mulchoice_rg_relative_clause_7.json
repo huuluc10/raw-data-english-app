@@ -1,0 +1,21 @@
+{
+  "question": "The house that was built in the 19th century has historical significance.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The house built in the 19th century has historical significance.",
+      "answer_image": null
+    },
+    {
+      "text": "The built in the 19th century house has historical significance.",
+      "answer_image": null
+    },
+    {
+      "text": "The house that built in the 19th century has historical significance.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The house built in the 19th century has historical significance.",
+  "correct_image": null,
+  "explanation": "Ngôi nhà được xây dựng vào thế kỷ 19 có ý nghĩa lịch sử."
+}

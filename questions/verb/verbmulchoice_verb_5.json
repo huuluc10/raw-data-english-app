@@ -1,0 +1,25 @@
+{
+  "question": "It _______ a sauna in here. Could you switch on the air-conditioner?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "looks",
+      "answer_image": null
+    },
+    {
+      "text": "feels as if",
+      "answer_image": null
+    },
+    {
+      "text": "feels like",
+      "answer_image": null
+    },
+    {
+      "text": "feels",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "feels like",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'feels like' được sử dụng để diễn đạt cảm giác của người nói về nhiệt độ trong phòng."
+}

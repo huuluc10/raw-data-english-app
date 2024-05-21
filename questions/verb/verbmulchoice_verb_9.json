@@ -1,0 +1,25 @@
+{
+  "question": "This silk ________ incredibly smooth against my skin.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "looks",
+      "answer_image": null
+    },
+    {
+      "text": "looks like",
+      "answer_image": null
+    },
+    {
+      "text": "feels",
+      "answer_image": null
+    },
+    {
+      "text": "feels like",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "feels",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'feels' được sử dụng để diễn đạt cảm giác của người nói khi tiếp xúc với vải lụa."
+}

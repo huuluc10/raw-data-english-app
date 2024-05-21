@@ -1,0 +1,25 @@
+{
+  "question": "He _______ fine, but he _______ he was in a lot of pain.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "sounded like / looked like",
+      "answer_image": null
+    },
+    {
+      "text": "sounded / looked",
+      "answer_image": null
+    },
+    {
+      "text": "sounded as if / looked like",
+      "answer_image": null
+    },
+    {
+      "text": "sounded / looked as though",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "sounded as if / looked like",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'sounded as if / looked like' được sử dụng để diễn đạt sự khác biệt giữa cảm giác và bề ngoài của người nói."
+}

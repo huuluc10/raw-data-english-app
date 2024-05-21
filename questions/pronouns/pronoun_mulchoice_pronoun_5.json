@@ -1,0 +1,25 @@
+{
+  "question": "She lives in Australia now with _______ family.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "she",
+      "answer_image": null
+    },
+    {
+      "text": "her",
+      "answer_image": null
+    },
+    {
+      "text": "hers",
+      "answer_image": null
+    },
+    {
+      "text": "A and b are right",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "her",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'family' là gia đình của cô ấy, nên sử dụng 'her'."
+}

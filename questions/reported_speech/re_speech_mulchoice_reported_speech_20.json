@@ -1,0 +1,25 @@
+{
+  "question": "Sarah was driving to fast, so I ______ to slow down.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "asked her",
+      "answer_image": null
+    },
+    {
+      "text": "asked",
+      "answer_image": null
+    },
+    {
+      "text": "ask",
+      "answer_image": null
+    },
+    {
+      "text": "have asked her",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "asked her",
+  "correct_image": null,
+  "explanation": "Sarah đang lái xe quá nhanh, vì vậy tôi đã yêu cầu cô ấy chậm lại."
+}

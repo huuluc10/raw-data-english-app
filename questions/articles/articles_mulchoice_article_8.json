@@ -1,0 +1,25 @@
+{
+  "question": "Mr. Smith is ________ old customer and ________ honest man.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "An/the",
+      "answer_image": null
+    },
+    {
+      "text": "the/an",
+      "answer_image": null
+    },
+    {
+      "text": "an/an",
+      "answer_image": null
+    },
+    {
+      "text": "the/the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "an/an",
+  "correct_image": null,
+  "explanation": "Ông Smith là một khách hàng cũ và là người đàn ông trung thực."
+}

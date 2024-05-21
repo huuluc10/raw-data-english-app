@@ -1,0 +1,21 @@
+{
+  "question": "They ______(save) more money if they ______(not buy) those goods.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "would save – didn’t buy",
+      "answer_image": null
+    },
+    {
+      "text": "would save – don’t buy",
+      "answer_image": null
+    },
+    {
+      "text": "saved – don’t buy",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "would save – didn’t buy",
+  "correct_image": null,
+  "explanation": "Trong câu điều kiện loại 2 này, chúng ta sử dụng 'would' + động từ nguyên mẫu (would save) trong mệnh đề kết quả và 'didn’t buy' trong mệnh đề điều kiện."
+}

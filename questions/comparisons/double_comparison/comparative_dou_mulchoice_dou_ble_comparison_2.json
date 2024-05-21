@@ -1,0 +1,25 @@
+{
+  "question": "_______ she practices, _______ her performance becomes.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The more frequent/the good",
+      "answer_image": null
+    },
+    {
+      "text": "More frequent/good",
+      "answer_image": null
+    },
+    {
+      "text": "Frequent/good",
+      "answer_image": null
+    },
+    {
+      "text": "The more frequently/the better",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The more frequently/the better",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'The more frequently/the better' được sử dụng để chỉ càng tập luyện cô ấy càng biểu diễn tốt hơn."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "We have _______ time to prepare for the presentation.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "no",
+      "answer_image": null
+    },
+    {
+      "text": "a little",
+      "answer_image": null
+    },
+    {
+      "text": "many",
+      "answer_image": null
+    },
+    {
+      "text": "enough",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "enough",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'enough' được sử dụng để chỉ có đủ thời gian cần thiết để chuẩn bị cho bài thuyết trình."
+}

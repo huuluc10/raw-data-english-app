@@ -1,0 +1,25 @@
+{
+  "question": "Your car is ________ mine.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "as bigger as",
+      "answer_image": null
+    },
+    {
+      "text": "as big as",
+      "answer_image": null
+    },
+    {
+      "text": "much big as",
+      "answer_image": null
+    },
+    {
+      "text": "not many times big",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "as big as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'as big as' được sử dụng để so sánh kích thước của xe của bạn với của tôi."
+}

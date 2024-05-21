@@ -1,0 +1,25 @@
+{
+  "question": "Before they arrived at the party, all the guests ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already arrive",
+      "answer_image": null
+    },
+    {
+      "text": "already arrived",
+      "answer_image": null
+    },
+    {
+      "text": "had already arrived",
+      "answer_image": null
+    },
+    {
+      "text": "had already arrive",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already arrived",
+  "correct_image": null,
+  "explanation": "Trước khi họ đến bữa tiệc, tất cả các khách đã đến."
+}

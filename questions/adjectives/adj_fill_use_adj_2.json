@@ -1,0 +1,17 @@
+{
+  "question": "All of books are ________________.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "disappointed",
+      "answer_image": null
+    },
+    {
+      "text": "disappointing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "disappointing",
+  "correct_image": null,
+  "explanation": "Dùng disappointing để miêu tả tình trạng của các cuốn sách"
+}

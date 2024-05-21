@@ -1,0 +1,25 @@
+{
+  "question": "George couldn’t help me. He ______ me to ask Kate.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tell",
+      "answer_image": null
+    },
+    {
+      "text": "said",
+      "answer_image": null
+    },
+    {
+      "text": "told",
+      "answer_image": null
+    },
+    {
+      "text": "say",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "told",
+  "correct_image": null,
+  "explanation": "George không thể giúp tôi. Anh ấy đã bảo tôi hỏi Kate."
+}

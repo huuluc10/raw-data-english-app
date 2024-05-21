@@ -1,0 +1,25 @@
+{
+  "question": "Who is _____________ runner : Tom or Sam?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "bad",
+      "answer_image": null
+    },
+    {
+      "text": "very bad",
+      "answer_image": null
+    },
+    {
+      "text": "worse",
+      "answer_image": null
+    },
+    {
+      "text": "the worst",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the worst",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the worst' được sử dụng để hỏi xem Tom hay Sam là vận động viên xấu nhất."
+}

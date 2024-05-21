@@ -1,0 +1,25 @@
+{
+  "question": "The doctor ____ him to take more exercise.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "told",
+      "answer_image": null
+    },
+    {
+      "text": "tell",
+      "answer_image": null
+    },
+    {
+      "text": "have told",
+      "answer_image": null
+    },
+    {
+      "text": "are telling",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "told",
+  "correct_image": null,
+  "explanation": "Bác sĩ bảo anh ấy nên tập thể dục thêm."
+}

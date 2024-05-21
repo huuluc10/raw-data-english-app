@@ -1,0 +1,25 @@
+{
+  "question": "Helen is __________ ballet dancer in our city.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "good",
+      "answer_image": null
+    },
+    {
+      "text": "good as",
+      "answer_image": null
+    },
+    {
+      "text": "better",
+      "answer_image": null
+    },
+    {
+      "text": "the best",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the best",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the best' được sử dụng để chỉ Helen là vũ công ballet giỏi nhất trong thành phố của chúng ta."
+}

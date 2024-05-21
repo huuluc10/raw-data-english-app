@@ -1,0 +1,25 @@
+{
+  "question": "Tom has ______ this story wasn’t completely true.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "admitting that",
+      "answer_image": null
+    },
+    {
+      "text": "was admitted that",
+      "answer_image": null
+    },
+    {
+      "text": "admitted that",
+      "answer_image": null
+    },
+    {
+      "text": "admit that",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "admitted that",
+  "correct_image": null,
+  "explanation": "Tom đã thừa nhận rằng câu chuyện này không hoàn toàn đúng."
+}

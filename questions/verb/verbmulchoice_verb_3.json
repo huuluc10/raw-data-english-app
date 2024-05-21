@@ -1,0 +1,25 @@
+{
+  "question": "It _______ bread but it doesn’t really _______ bread.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tastes / looks",
+      "answer_image": null
+    },
+    {
+      "text": "tastes like / look like",
+      "answer_image": null
+    },
+    {
+      "text": "tastes as if / look as if",
+      "answer_image": null
+    },
+    {
+      "text": "tastes as if / look like",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "tastes as if / look like",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'tastes as if / look like' được sử dụng để diễn đạt sự tưởng tượng của người nói về việc sản phẩm không thực sự giống như một ổ bánh mì."
+}

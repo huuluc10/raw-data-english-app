@@ -1,0 +1,21 @@
+{
+  "question": "I might _____ late today. I have a lot of work.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "be",
+      "answer_image": null
+    },
+    {
+      "text": "to be",
+      "answer_image": null
+    },
+    {
+      "text": "being",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "be",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'be' được sử dụng để diễn đạt ý định hoặc khả năng của người nói về việc trễ giờ."
+}

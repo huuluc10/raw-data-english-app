@@ -1,0 +1,25 @@
+{
+  "question": "How many countries took part in in the last Olympic Games?\nĐồng nghĩa của \"took part in\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "participated",
+      "answer_image": null
+    },
+    {
+      "text": "performed",
+      "answer_image": null
+    },
+    {
+      "text": "succeeded",
+      "answer_image": null
+    },
+    {
+      "text": "hosted",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "participated",
+  "correct_image": null,
+  "explanation": "Took part in = participated in (v) tham gia"
+}

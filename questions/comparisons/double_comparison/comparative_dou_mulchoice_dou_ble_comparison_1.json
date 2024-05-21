@@ -1,0 +1,25 @@
+{
+  "question": "_______ he studies, _______ he understands the subject.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The more hard/the better",
+      "answer_image": null
+    },
+    {
+      "text": "More hard/better",
+      "answer_image": null
+    },
+    {
+      "text": "Hard/better",
+      "answer_image": null
+    },
+    {
+      "text": "The harder/the better",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The harder/the better",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'The harder/the better' được sử dụng để chỉ càng học càng hiểu sâu về môn học."
+}

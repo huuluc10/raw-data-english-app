@@ -1,0 +1,17 @@
+{
+  "question": "Stephanie dislikes ________ in front of a computer all day.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "working",
+      "answer_image": null
+    },
+    {
+      "text": "to work",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "working",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, sau 'dislikes' cần sử dụng dạng động từ -ing."
+}

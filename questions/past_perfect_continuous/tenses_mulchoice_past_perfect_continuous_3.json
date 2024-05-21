@@ -1,0 +1,25 @@
+{
+  "question": "When I arrived home, my mom ______ (already cook).",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had already been cooking",
+      "answer_image": null
+    },
+    {
+      "text": "have already been cooking",
+      "answer_image": null
+    },
+    {
+      "text": "had been cooking already",
+      "answer_image": null
+    },
+    {
+      "text": "already had been cooking",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already been cooking",
+  "correct_image": null,
+  "explanation": "Khi tôi đến nhà, mẹ tôi đã nấu ăn rồi."
+}

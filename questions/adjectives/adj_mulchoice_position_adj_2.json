@@ -1,0 +1,21 @@
+{
+  "question": "Pass me the ________ spoon, please.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "plastic big blue",
+      "answer_image": null
+    },
+    {
+      "text": "big blue plastic",
+      "answer_image": null
+    },
+    {
+      "text": "big plastic blue",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "big blue plastic",
+  "correct_image": null,
+  "explanation": "Bán lại cho tôi cái thìa lớn màu xanh bằng nhựa."
+}

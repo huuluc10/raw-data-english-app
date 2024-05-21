@@ -1,0 +1,25 @@
+{
+  "question": "You’ve never been in Italy, _________________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have you",
+      "answer_image": null
+    },
+    {
+      "text": "haven’t you",
+      "answer_image": null
+    },
+    {
+      "text": "been you",
+      "answer_image": null
+    },
+    {
+      "text": "had you",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have you",
+  "correct_image": null,
+  "explanation": "Bạn chưa bao giờ đi Italia, phải không?"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/climb.png",
+  "answers": [
+    {
+      "text": "Wait",
+      "answer_image": null
+    },
+    {
+      "text": "Climb",
+      "answer_image": null
+    },
+    {
+      "text": "Talk",
+      "answer_image": null
+    },
+    {
+      "text": "Clap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Climb",
+  "correct_image": null,
+  "explanation": "“Climb” là động từ có nghĩa là leo lên."
+}

@@ -1,0 +1,21 @@
+{
+  "question": "All the female students like the ________ professor.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "handsome new British",
+      "answer_image": null
+    },
+    {
+      "text": "British new handsome",
+      "answer_image": null
+    },
+    {
+      "text": "new handsome British",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "new handsome British",
+  "correct_image": null,
+  "explanation": "Tất cả các sinh viên nữ thích người giáo sư mới đẹp trai người Anh."
+}

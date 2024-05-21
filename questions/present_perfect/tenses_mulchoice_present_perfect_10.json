@@ -1,0 +1,25 @@
+{
+  "question": "I __________ English for many years.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have learned",
+      "answer_image": null
+    },
+    {
+      "text": "did learn",
+      "answer_image": null
+    },
+    {
+      "text": "are learning",
+      "answer_image": null
+    },
+    {
+      "text": "have been learning",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have learned",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu khẳng định trong thì hiện tại hoàn thành: S + have/ has + Vpp?"
+}

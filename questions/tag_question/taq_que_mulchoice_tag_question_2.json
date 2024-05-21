@@ -1,0 +1,25 @@
+{
+  "question": "Monkeys can’t sing, ______________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "can they",
+      "answer_image": null
+    },
+    {
+      "text": "can it",
+      "answer_image": null
+    },
+    {
+      "text": "can’t they",
+      "answer_image": null
+    },
+    {
+      "text": "can’t it",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "can they",
+  "correct_image": null,
+  "explanation": "Khỉ không thể hát, phải không?"
+}

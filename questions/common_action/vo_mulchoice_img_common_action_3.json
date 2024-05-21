@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/stand-up.png",
+    "answers": [
+      {
+        "text": "Sit down",
+        "answer_image": null
+      },
+      {
+        "text": "Stand up",
+        "answer_image": null
+      },
+      {
+        "text": "Play",
+        "answer_image": null
+      },
+      {
+        "text": "Listen",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Stand up",
+    "correct_image": null,
+    "explanation": "“Stand up” có nghĩa là đứng lên từ tư thế ngồi hoặc nằm."
+  }

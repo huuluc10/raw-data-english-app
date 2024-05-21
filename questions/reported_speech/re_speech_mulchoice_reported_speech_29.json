@@ -1,0 +1,25 @@
+{
+  "question": "The man asked the boys ______ .",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "why did they fight",
+      "answer_image": null
+    },
+    {
+      "text": "why they were fighting",
+      "answer_image": null
+    },
+    {
+      "text": "why they fight",
+      "answer_image": null
+    },
+    {
+      "text": "why were they fighting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "why they were fighting",
+  "correct_image": null,
+  "explanation": "Người đàn ông hỏi các bé trai tại sao họ đang đánh nhau."
+}

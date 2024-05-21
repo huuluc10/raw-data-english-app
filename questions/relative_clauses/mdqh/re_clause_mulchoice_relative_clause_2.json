@@ -1,0 +1,25 @@
+{
+  "question": "The plants which __________ in the living room need a lot of water.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "are",
+      "answer_image": null
+    },
+    {
+      "text": "be",
+      "answer_image": null
+    },
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "was",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "are",
+  "correct_image": null,
+  "explanation": "Các cây cỏ mà đặt trong phòng khách cần nhiều nước."
+}

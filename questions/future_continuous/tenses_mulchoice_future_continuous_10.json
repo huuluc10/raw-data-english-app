@@ -1,0 +1,25 @@
+{
+  "question": "Anne is planning to start her new book soon. Probably she ________ her book next year.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will write",
+      "answer_image": null
+    },
+    {
+      "text": "is going to writing",
+      "answer_image": null
+    },
+    {
+      "text": "will be writing",
+      "answer_image": null
+    },
+    {
+      "text": "will have writing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be writing",
+  "correct_image": null,
+  "explanation": "Anne dự định bắt đầu cuốn sách mới của mình sớm. Có lẽ cô ấy sẽ đang viết cuốn sách của mình vào năm tới."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I remember Alice,_________ rode the bus to school with.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "I",
+      "answer_image": null
+    },
+    {
+      "text": "whom I",
+      "answer_image": null
+    },
+    {
+      "text": "which I",
+      "answer_image": null
+    },
+    {
+      "text": "who",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whom I",
+  "correct_image": null,
+  "explanation": "Tôi nhớ Alice, người cùng tôi đi xe buýt đến trường."
+}

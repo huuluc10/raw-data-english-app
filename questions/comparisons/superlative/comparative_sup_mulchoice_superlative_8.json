@@ -1,0 +1,25 @@
+{
+  "question": "Do you know who _______________ woman in the world is?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "fast",
+      "answer_image": null
+    },
+    {
+      "text": "so fast",
+      "answer_image": null
+    },
+    {
+      "text": "faster",
+      "answer_image": null
+    },
+    {
+      "text": "the fastest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the fastest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the fastest' được sử dụng để hỏi về người phụ nữ nhanh nhất trên thế giới."
+}

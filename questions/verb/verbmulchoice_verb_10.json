@@ -1,0 +1,25 @@
+{
+  "question": "It _______ he’s not going to win the election.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "feels",
+      "answer_image": null
+    },
+    {
+      "text": "looks",
+      "answer_image": null
+    },
+    {
+      "text": "looks as if",
+      "answer_image": null
+    },
+    {
+      "text": "feels as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "looks as if",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'looks as if' được sử dụng để diễn đạt ấn tượng của người nói về kết quả của cuộc bầu cử."
+}

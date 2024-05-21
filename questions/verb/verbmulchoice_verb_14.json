@@ -1,0 +1,21 @@
+{
+  "question": "Keep quiet, I need _____ on my homework.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "concentrate",
+      "answer_image": null
+    },
+    {
+      "text": "to concentrate",
+      "answer_image": null
+    },
+    {
+      "text": "concentrating",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to concentrate",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'to concentrate' được sử dụng để diễn đạt mục đích hoặc ý định của người nói về việc tập trung vào việc làm bài tập."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/eat.png",
+  "answers": [
+    {
+      "text": "Drink",
+      "answer_image": null
+    },
+    {
+      "text": "Cook",
+      "answer_image": null
+    },
+    {
+      "text": "Eat",
+      "answer_image": null
+    },
+    {
+      "text": "Close",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Eat",
+  "correct_image": null,
+  "explanation": "“Eat” là động từ có nghĩa là ăn."
+}

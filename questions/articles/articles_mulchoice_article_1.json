@@ -1,0 +1,25 @@
+{
+  "question": "We are looking for _______ place to spend ________ night.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the/the",
+      "answer_image": null
+    },
+    {
+      "text": "a/the",
+      "answer_image": null
+    },
+    {
+      "text": "a/a",
+      "answer_image": null
+    },
+    {
+      "text": "the/a",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a/the",
+  "correct_image": null,
+  "explanation": "Chúng tôi đang tìm kiếm một nơi để qua đêm."
+}

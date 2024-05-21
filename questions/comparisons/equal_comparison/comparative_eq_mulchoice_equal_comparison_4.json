@@ -1,0 +1,25 @@
+{
+  "question": "Her house is ________ mine.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "twice as big as",
+      "answer_image": null
+    },
+    {
+      "text": "as twice big as",
+      "answer_image": null
+    },
+    {
+      "text": "as two time big as",
+      "answer_image": null
+    },
+    {
+      "text": "as big as twice",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "twice as big as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'twice as big as' được sử dụng để so sánh kích thước của nhà cô ấy với nhà của bạn."
+}

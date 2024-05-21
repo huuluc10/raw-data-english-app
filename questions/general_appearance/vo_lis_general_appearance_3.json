@@ -1,0 +1,25 @@
+{
+  "question": "Đâu là từ bạn nghe được?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Handsome",
+      "answer_image": null
+    },
+    {
+      "text": "Elegant",
+      "answer_image": null
+    },
+    {
+      "text": "Ugly",
+      "answer_image": null
+    },
+    {
+      "text": "Gorgeous",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Elegant",
+  "correct_image": null,
+  "explanation": null
+}

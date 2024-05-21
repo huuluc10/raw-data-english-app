@@ -1,0 +1,21 @@
+{
+  "question": "We are planning _____ to Switzerland next year.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "go",
+      "answer_image": null
+    },
+    {
+      "text": "to go",
+      "answer_image": null
+    },
+    {
+      "text": "going",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to go",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'to go' được sử dụng để diễn đạt mục đích hoặc ý định của người nói về việc đi du lịch đến Thụy Sĩ."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "He doesn’t have _______ experience in woodworking.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "little",
+      "answer_image": null
+    },
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "many",
+      "answer_image": null
+    },
+    {
+      "text": "a few",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a few",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'a few' được sử dụng để chỉ một số lượng ít kinh nghiệm trong ngành chế biến gỗ."
+}

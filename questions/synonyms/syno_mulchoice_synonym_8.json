@@ -1,0 +1,25 @@
+{
+  "question": "If you do not understand the word \"superstitious\", look it up in the dictionary.\nĐồng nghĩa của \"look it up\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "write it",
+      "answer_image": null
+    },
+    {
+      "text": "note it",
+      "answer_image": null
+    },
+    {
+      "text": "find its meaning",
+      "answer_image": null
+    },
+    {
+      "text": "draw it",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "find its meaning",
+  "correct_image": null,
+  "explanation": "Look up = find meaning (tra cứu từ - bằng từ điển)"
+}

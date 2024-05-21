@@ -1,0 +1,21 @@
+{
+  "question": "I didn't know Kai was in town. I didn't call him for dinner.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "If I had known Kai was in town, I would have called him for dinner.",
+      "answer_image": null
+    },
+    {
+      "text": "I had called Kai for dinner if I had know he was in town.",
+      "answer_image": null
+    },
+    {
+      "text": "I would have called Kai for dinner if I have known he was in town.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "If I had known Kai was in town, I would have called him for dinner.",
+  "correct_image": null,
+  "explanation": null
+}

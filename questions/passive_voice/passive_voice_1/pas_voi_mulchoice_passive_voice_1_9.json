@@ -1,0 +1,25 @@
+{
+  "question": "References ____ in the examination room.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "not are used",
+      "answer_image": null
+    },
+    {
+      "text": "is not used",
+      "answer_image": null
+    },
+    {
+      "text": "didn’t used",
+      "answer_image": null
+    },
+    {
+      "text": "are not used",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "are not used",
+  "correct_image": null,
+  "explanation": "Tài liệu tham khảo không được sử dụng trong phòng thi."
+}

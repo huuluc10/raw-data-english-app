@@ -1,0 +1,25 @@
+{
+  "question": "Their grandparents ________ their house when they return home tomorrow.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be painted",
+      "answer_image": null
+    },
+    {
+      "text": "will have paint",
+      "answer_image": null
+    },
+    {
+      "text": "have painted",
+      "answer_image": null
+    },
+    {
+      "text": "will be painting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will be painting",
+  "correct_image": null,
+  "explanation": "Ông bà của họ sẽ đang sơn lại nhà khi họ trở về nhà vào ngày mai."
+}

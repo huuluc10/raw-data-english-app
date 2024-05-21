@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-skirt.png",
+    "answers": [
+      {
+        "text": "Hat",
+        "answer_image": null
+      },
+      {
+        "text": "Necklace",
+        "answer_image": null
+      },
+      {
+        "text": "Ring",
+        "answer_image": null
+      },
+      {
+        "text": "Skirt",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Skirt",
+    "correct_image": null,
+    "explanation": "Skirt là một loại váy có chiều dài từ hông đến gối hoặc dưới gối. Nó thường được làm từ vải mềm mại và được mặc trong các dịp trang trọng hoặc hàng ngày."
+  }

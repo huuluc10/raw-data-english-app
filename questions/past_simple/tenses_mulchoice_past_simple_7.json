@@ -1,0 +1,25 @@
+{
+  "question": "The film is very boring. I _____________ it very much.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "enjoyed",
+      "answer_image": null
+    },
+    {
+      "text": "wasn't enjoy",
+      "answer_image": null
+    },
+    {
+      "text": "didn't enjoyed",
+      "answer_image": null
+    },
+    {
+      "text": "didn't enjoy",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "didn't enjoy",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'didn't enjoy' là cách diễn đạt phản ánh việc không thích bộ phim trong quá khứ."
+}

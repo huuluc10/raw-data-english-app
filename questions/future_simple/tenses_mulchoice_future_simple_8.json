@@ -1,0 +1,21 @@
+{
+  "question": "This piece of wisdom __________ you ten dollars.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will cost",
+      "answer_image": null
+    },
+    {
+      "text": "would cost",
+      "answer_image": null
+    },
+    {
+      "text": "will be costing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will cost",
+  "correct_image": null,
+  "explanation": "Mẫu sưu tập này sẽ làm bạn mất mười đô la."
+}

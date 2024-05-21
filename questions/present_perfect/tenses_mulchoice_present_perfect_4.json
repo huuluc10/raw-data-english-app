@@ -1,0 +1,25 @@
+{
+  "question": "I __________ his mother since I _________ 5 years old because she was my neighbour.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have known – be",
+      "answer_image": null
+    },
+    {
+      "text": "have known – was",
+      "answer_image": null
+    },
+    {
+      "text": "knew – was",
+      "answer_image": null
+    },
+    {
+      "text": "knew – were",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have known – was",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu trong thì hiện tại hoàn thành: S + have/has + Vpp + since + S + was/were"
+}

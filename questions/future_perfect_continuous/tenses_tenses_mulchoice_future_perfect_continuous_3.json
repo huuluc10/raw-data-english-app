@@ -1,0 +1,21 @@
+{
+  "question": "Will you ________ here for ten years by the time of the Christmas party?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been worked",
+      "answer_image": null
+    },
+    {
+      "text": "have to work",
+      "answer_image": null
+    },
+    {
+      "text": "have been working",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been working",
+  "correct_image": null,
+  "explanation": "Bạn sẽ đã làm việc ở đây được mười năm vào lúc buổi tiệc Giáng Sinh không?"
+}

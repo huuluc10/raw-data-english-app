@@ -1,0 +1,25 @@
+{
+  "question": "The whole village was wiped out in the bombing raids.\nĐồng nghĩa của \"wiped out\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "cleaned well",
+      "answer_image": null
+    },
+    {
+      "text": "removed quickly",
+      "answer_image": null
+    },
+    {
+      "text": "changed completely",
+      "answer_image": null
+    },
+    {
+      "text": "destroyed completely",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "destroyed completely",
+  "correct_image": null,
+  "explanation": "Be wiped out = be destroyed (bị tàn phá)"
+}

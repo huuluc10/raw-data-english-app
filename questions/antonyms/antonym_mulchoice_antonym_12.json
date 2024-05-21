@@ -1,0 +1,25 @@
+{
+  "question": "Certain courses are compulsory; others are optional.\nTừ trái nghĩa của \"optional\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "voluntary",
+      "answer_image": null
+    },
+    {
+      "text": "free",
+      "answer_image": null
+    },
+    {
+      "text": "pressure",
+      "answer_image": null
+    },
+    {
+      "text": "mandatory",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "mandatory",
+  "correct_image": null,
+  "explanation": "optional: tùy chọn >< mandatory: bắt buộc"
+}

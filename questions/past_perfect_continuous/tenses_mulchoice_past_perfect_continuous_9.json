@@ -1,0 +1,25 @@
+{
+  "question": "When I first met Ann, she _____ (work) in Samsung for 15 years.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had worked",
+      "answer_image": null
+    },
+    {
+      "text": "had been working",
+      "answer_image": null
+    },
+    {
+      "text": "have been working",
+      "answer_image": null
+    },
+    {
+      "text": "worked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been working",
+  "correct_image": null,
+  "explanation": "Khi tôi gặp Ann lần đầu, cô ấy đã làm việc ở Samsung suốt 15 năm."
+}

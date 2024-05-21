@@ -1,0 +1,25 @@
+{
+  "question": "Students are expected ____ during the examinations.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "not to talk",
+      "answer_image": null
+    },
+    {
+      "text": "not to be talked",
+      "answer_image": null
+    },
+    {
+      "text": "not talking",
+      "answer_image": null
+    },
+    {
+      "text": "not being talked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "not to be talked",
+  "correct_image": null,
+  "explanation": "Người ta mong đợi học sinh không nói chuyện trong khi kiểm tra."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/handsome.png",
+  "answers": [
+    {
+      "text": "Pretty",
+      "answer_image": null
+    },
+    {
+      "text": "Beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "Handsome",
+      "answer_image": null
+    },
+    {
+      "text": "Cute",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Handsome",
+  "correct_image": null,
+  "explanation": "Từ \"handsome\" trong tiếng Anh có nghĩa là đẹp trai, thường được sử dụng để miêu tả ngoại hình nam tính và hấp dẫn."
+}

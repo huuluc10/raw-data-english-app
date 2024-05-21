@@ -1,0 +1,25 @@
+{
+  "question": "She ________ (teach) chemistry before she became a journalist.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had teached",
+      "answer_image": null
+    },
+    {
+      "text": "had been taught",
+      "answer_image": null
+    },
+    {
+      "text": "had been teaching",
+      "answer_image": null
+    },
+    {
+      "text": "had been teached",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been teaching",
+  "correct_image": null,
+  "explanation": "Cô ấy đã dạy hóa trước khi trở thành một nhà báo."
+}

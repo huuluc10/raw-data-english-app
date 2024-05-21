@@ -1,0 +1,25 @@
+{
+  "question": "Yesterday, Laura ______ him to put some shelves up.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "asked",
+      "answer_image": null
+    },
+    {
+      "text": "is asking",
+      "answer_image": null
+    },
+    {
+      "text": "ask",
+      "answer_image": null
+    },
+    {
+      "text": "was asked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was asked",
+  "correct_image": null,
+  "explanation": "Hôm qua, Laura yêu cầu anh ta lắp đặt một số kệ."
+}

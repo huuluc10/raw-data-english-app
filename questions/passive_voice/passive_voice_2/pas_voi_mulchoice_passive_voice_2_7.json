@@ -1,0 +1,25 @@
+{
+  "question": "He last had his eyes tested ten months ago.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "He had tested his eyes ten months ago",
+      "answer_image": null
+    },
+    {
+      "text": "He had not tested his eyes for ten months then",
+      "answer_image": null
+    },
+    {
+      "text": "He hasn’t had his eyes tested for ten months",
+      "answer_image": null
+    },
+    {
+      "text": "He didn’t have any test on his eyes in ten months",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "He hasn’t had his eyes tested for ten months",
+  "correct_image": null,
+  "explanation": "Anh ấy đã kiểm tra mắt lần cuối cách đây mười tháng."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "My children ………. homework all evening.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been doing",
+      "answer_image": null
+    },
+    {
+      "text": "have done",
+      "answer_image": null
+    },
+    {
+      "text": "done",
+      "answer_image": null
+    },
+    {
+      "text": "have been done",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been doing",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là My children (số nhiều) nên câu trúc đúng là \"have been + Ving\""
+}

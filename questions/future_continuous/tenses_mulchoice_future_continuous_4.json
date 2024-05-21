@@ -1,0 +1,25 @@
+{
+  "question": "Will you be ________ when I arrive?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "waited",
+      "answer_image": null
+    },
+    {
+      "text": "waiting",
+      "answer_image": null
+    },
+    {
+      "text": "wait",
+      "answer_image": null
+    },
+    {
+      "text": "have waited",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "waiting",
+  "correct_image": null,
+  "explanation": "Bạn sẽ đang chờ khi tôi đến chứ?"
+}

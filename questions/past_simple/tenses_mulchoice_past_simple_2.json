@@ -1,0 +1,25 @@
+{
+  "question": "They _______ him in town a few days ago.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "did see",
+      "answer_image": null
+    },
+    {
+      "text": "was saw",
+      "answer_image": null
+    },
+    {
+      "text": "did saw",
+      "answer_image": null
+    },
+    {
+      "text": "saw",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "saw",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'saw' là dạng quá khứ của động từ 'see', và phù hợp với ngữ cảnh của câu."
+}

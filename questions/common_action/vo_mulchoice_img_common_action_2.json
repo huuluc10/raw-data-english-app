@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/run.png",
+    "answers": [
+      {
+        "text": "Ride",
+        "answer_image": null
+      },
+      {
+        "text": "Run",
+        "answer_image": null
+      },
+      {
+        "text": "Sit down",
+        "answer_image": null
+      },
+      {
+        "text": "Stand up",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Run",
+    "correct_image": null,
+    "explanation": "“Run” có nghĩa là di chuyển nhanh chân."
+  }

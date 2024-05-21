@@ -1,0 +1,25 @@
+{
+  "question": "\"______ the door\", he said.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "please open",
+      "answer_image": null
+    },
+    {
+      "text": "open pleased",
+      "answer_image": null
+    },
+    {
+      "text": "please to open",
+      "answer_image": null
+    },
+    {
+      "text": "please, opening",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "please open",
+  "correct_image": null,
+  "explanation": "\"Làm ơn mở cửa,\" anh ta nói."
+}

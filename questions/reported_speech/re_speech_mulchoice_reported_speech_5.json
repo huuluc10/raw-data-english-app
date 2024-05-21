@@ -1,0 +1,25 @@
+{
+  "question": "Claire told me that her father____ a race horse.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "owned",
+      "answer_image": null
+    },
+    {
+      "text": "own",
+      "answer_image": null
+    },
+    {
+      "text": "owning",
+      "answer_image": null
+    },
+    {
+      "text": "to own",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "owned",
+  "correct_image": null,
+  "explanation": "Claire nói với tôi rằng bố cô ấy sở hữu một con ngựa đua."
+}

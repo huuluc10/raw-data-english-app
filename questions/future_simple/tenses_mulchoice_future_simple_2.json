@@ -1,0 +1,21 @@
+{
+  "question": "'There is the doorbell.' - 'I __________'",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "would go",
+      "answer_image": null
+    },
+    {
+      "text": "am going",
+      "answer_image": null
+    },
+    {
+      "text": "will go",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will go",
+  "correct_image": null,
+  "explanation": "‘Đó là chuông cửa.’ - ‘Tôi sẽ đi.’"
+}

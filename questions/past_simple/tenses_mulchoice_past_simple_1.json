@@ -1,0 +1,25 @@
+{
+  "question": "He ___________ more than 60 pieces of music.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "writes",
+      "answer_image": null
+    },
+    {
+      "text": "wrote",
+      "answer_image": null
+    },
+    {
+      "text": "writed",
+      "answer_image": null
+    },
+    {
+      "text": "was wrote",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "wrote",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, chúng ta đang nói về một hành động đã diễn ra trong quá khứ, do đó chúng ta sử dụng dạng quá khứ của động từ 'write', là 'wrote'."
+}

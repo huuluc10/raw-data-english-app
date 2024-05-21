@@ -1,0 +1,25 @@
+{
+  "question": "This water _______ horrible. It _______ it comes straight from the sewer.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "tastes / tastes as though",
+      "answer_image": null
+    },
+    {
+      "text": "tastes like / tastes as if",
+      "answer_image": null
+    },
+    {
+      "text": "tastes as if / tastes like",
+      "answer_image": null
+    },
+    {
+      "text": "tastes / tastes",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "tastes like / tastes as if",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'tastes like / tastes as if' được sử dụng để diễn đạt cảm giác của người nói về hương vị của nước."
+}

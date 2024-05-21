@@ -1,0 +1,25 @@
+{
+  "question": "The boy ____ the teacher yesterday.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "punish",
+      "answer_image": null
+    },
+    {
+      "text": "punished",
+      "answer_image": null
+    },
+    {
+      "text": "punishing",
+      "answer_image": null
+    },
+    {
+      "text": "was punished",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was punished",
+  "correct_image": null,
+  "explanation": "Cậu bé đã bị giáo viên phạt ngày hôm qua."
+}

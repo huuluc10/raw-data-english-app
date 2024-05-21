@@ -1,0 +1,21 @@
+{
+  "question": "It's a 24-hour relay. They'll only have been ________ for half the time by 6pm.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "ran",
+      "answer_image": null
+    },
+    {
+      "text": "run",
+      "answer_image": null
+    },
+    {
+      "text": "running",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "running",
+  "correct_image": null,
+  "explanation": "Đó là một cuộc truyền đạt kéo dài 24 giờ. Họ chỉ đã chạy được một nửa thời gian vào lúc 6 giờ tối."
+}

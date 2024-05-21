@@ -1,0 +1,25 @@
+{
+  "question": "Population growth rates vary among regions and even among countries within the same region.\nTừ trái nghĩa của \"vary\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "fluctuate",
+      "answer_image": null
+    },
+    {
+      "text": "stay unchanged",
+      "answer_image": null
+    },
+    {
+      "text": "restrain",
+      "answer_image": null
+    },
+    {
+      "text": "remain unstable",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "stay unchanged",
+  "correct_image": null,
+  "explanation": "vary: thay đổi >< stay unchanged: không đổi"
+}

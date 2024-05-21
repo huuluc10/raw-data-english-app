@@ -1,0 +1,25 @@
+{
+  "question": "He was born_____15th, January.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "on",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    },
+    {
+      "text": "in",
+      "answer_image": null
+    },
+    {
+      "text": "of",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "on",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'on' được sử dụng để chỉ ngày cụ thể, như 'on 15th, January'."
+}

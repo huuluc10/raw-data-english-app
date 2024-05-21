@@ -1,0 +1,25 @@
+{
+  "question": "Barry seems happy enough working for himself.\nTừ trái nghĩa của \"happy\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "funny",
+      "answer_image": null
+    },
+    {
+      "text": "satisfied",
+      "answer_image": null
+    },
+    {
+      "text": "upset",
+      "answer_image": null
+    },
+    {
+      "text": "interested",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "upset",
+  "correct_image": null,
+  "explanation": "happy: vui vẻ >< upset: buồn, nản"
+}

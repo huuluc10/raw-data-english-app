@@ -1,0 +1,21 @@
+{
+  "question": "You __________ my position.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will never understand",
+      "answer_image": null
+    },
+    {
+      "text": "would never understand",
+      "answer_image": null
+    },
+    {
+      "text": "never understand",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will never understand",
+  "correct_image": null,
+  "explanation": "Bạn sẽ không bao giờ hiểu vị trí của tôi."
+}

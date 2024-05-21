@@ -1,0 +1,17 @@
+{
+  "question": "Mandy has promised ________ care of our dog while we are on vacation.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to take",
+      "answer_image": null
+    },
+    {
+      "text": "taking",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to take",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'promised' được dùng với cấu trúc 'promise to + động từ nguyên thể'."
+}

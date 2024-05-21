@@ -1,0 +1,21 @@
+{
+  "question": "My brother married a ________ girl.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "young beautiful French",
+      "answer_image": null
+    },
+    {
+      "text": "beautiful young French",
+      "answer_image": null
+    },
+    {
+      "text": "beautiful French young",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "young beautiful French",
+  "correct_image": null,
+  "explanation": "Anh trai tôi đã kết hôn với một cô gái trẻ đẹp người Pháp."
+}

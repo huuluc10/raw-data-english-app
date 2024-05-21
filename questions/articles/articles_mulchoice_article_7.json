@@ -1,0 +1,25 @@
+{
+  "question": "You’ll get ________shock if you touch ________ live wire with that screwdriver.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "an/the",
+      "answer_image": null
+    },
+    {
+      "text": "x/the",
+      "answer_image": null
+    },
+    {
+      "text": "a/a",
+      "answer_image": null
+    },
+    {
+      "text": "an/the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "x/the",
+  "correct_image": null,
+  "explanation": "Bạn sẽ bị giật nếu chạm vào dây điện bằng cây tua vít đó."
+}

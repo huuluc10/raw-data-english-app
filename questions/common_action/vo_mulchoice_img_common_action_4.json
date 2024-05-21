@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả hành động gì?",
+    "question_image": "images/objects/common_action/fight.png",
+    "answers": [
+      {
+        "text": "Laugh",
+        "answer_image": null
+      },
+      {
+        "text": "Cry",
+        "answer_image": null
+      },
+      {
+        "text": "Fight",
+        "answer_image": null
+      },
+      {
+        "text": "Think",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Fight",
+    "correct_image": null,
+    "explanation": "“Fight” có nghĩa là chiến đấu hoặc đánh nhau."
+  }

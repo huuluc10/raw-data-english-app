@@ -1,0 +1,21 @@
+{
+  "question": "We ________ been waiting long.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will not have",
+      "answer_image": null
+    },
+    {
+      "text": "have not will",
+      "answer_image": null
+    },
+    {
+      "text": "will have not",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will not have",
+  "correct_image": null,
+  "explanation": "Chúng tôi sẽ không đã chờ lâu."
+}

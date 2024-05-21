@@ -1,0 +1,17 @@
+{
+  "question": "Witnesses reported ________ the bank robber as he was climbing out of the second-story window.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to see",
+      "answer_image": null
+    },
+    {
+      "text": "seeing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "seeing",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này,sau 'reported' cần sử dụng dạng động từ -ing."
+}

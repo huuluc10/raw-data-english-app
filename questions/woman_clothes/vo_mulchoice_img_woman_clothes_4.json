@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-coat.png",
+    "answers": [
+      {
+        "text": "Purse",
+        "answer_image": null
+      },
+      {
+        "text": "Coat",
+        "answer_image": null
+      },
+      {
+        "text": "Ring",
+        "answer_image": null
+      },
+      {
+        "text": "Dress pants",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Coat",
+    "correct_image": null,
+    "explanation": "Coat là một loại áo khoác thường có độ dài từ vai đến đầu gối. Nó thường được làm từ chất liệu ấm áp để giữ ấm trong mùa đông hoặc thời tiết lạnh."
+  }

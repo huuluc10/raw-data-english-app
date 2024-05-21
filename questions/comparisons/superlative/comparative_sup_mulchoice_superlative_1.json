@@ -1,0 +1,25 @@
+{
+  "question": "Do you know what ­__________ animal in the world is?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "slow",
+      "answer_image": null
+    },
+    {
+      "text": "slow as",
+      "answer_image": null
+    },
+    {
+      "text": "slower",
+      "answer_image": null
+    },
+    {
+      "text": "the slowest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the slowest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the slowest' được sử dụng để chỉ con vật chậm nhất."
+}

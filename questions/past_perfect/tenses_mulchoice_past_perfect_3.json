@@ -1,0 +1,26 @@
+{
+  "question": "Before I arrived, they ______ all the tickets.",
+  "question_image": null,
+  "answers": [
+    
+    {
+      "text": "had already sold",
+      "answer_image": null
+    },
+    {
+      "text": "already sold",
+      "answer_image": null
+    },
+    {
+      "text": "already selling",
+      "answer_image": null
+    },
+    {
+      "text": "already sell",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already sold",
+  "correct_image": null,
+  "explanation": "Trước khi tôi đến, họ đã bán hết vé."
+}

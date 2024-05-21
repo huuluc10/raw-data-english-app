@@ -1,0 +1,25 @@
+{
+  "question": "I _____ (work) for Exxon for 15 years.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have been working",
+      "answer_image": null
+    },
+    {
+      "text": "had been working",
+      "answer_image": null
+    },
+    {
+      "text": "was working",
+      "answer_image": null
+    },
+    {
+      "text": "worked",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been working",
+  "correct_image": null,
+  "explanation": "Tôi đã làm việc cho Exxon suốt 15 năm."
+}

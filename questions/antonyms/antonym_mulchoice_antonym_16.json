@@ -1,0 +1,25 @@
+{
+  "question": "You did a beautiful thing in helping those poor children.\nTừ trái nghĩa của \"beautiful\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "meaningful",
+      "answer_image": null
+    },
+    {
+      "text": "good",
+      "answer_image": null
+    },
+    {
+      "text": "terrible",
+      "answer_image": null
+    },
+    {
+      "text": "positive",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "terrible",
+  "correct_image": null,
+  "explanation": "beautiful: tốt đẹp >< terrible: tồi tệ"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "That’s the doctor for__________ Cliff works.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "that",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    },
+    {
+      "text": "whom",
+      "answer_image": null
+    },
+    {
+      "text": "whose",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whose",
+  "correct_image": null,
+  "explanation": "Đó là bác sĩ mà Cliff làm việc."
+}

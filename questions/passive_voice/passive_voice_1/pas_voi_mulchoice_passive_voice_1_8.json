@@ -1,0 +1,25 @@
+{
+  "question": "Mr. Wilson is ____ as Willie to his friend.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "known",
+      "answer_image": null
+    },
+    {
+      "text": "knew",
+      "answer_image": null
+    },
+    {
+      "text": "is known",
+      "answer_image": null
+    },
+    {
+      "text": "know",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "known",
+  "correct_image": null,
+  "explanation": "Ông Wilson được biết đến như là Willie với bạn của ông."
+}

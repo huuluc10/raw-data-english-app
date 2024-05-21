@@ -1,0 +1,17 @@
+{
+  "question": "My neighbor _______ washing his motorbike now.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "are",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là My neighbor (ngôi thứ ba số ít) nên động từ to be sẽ là is"
+}

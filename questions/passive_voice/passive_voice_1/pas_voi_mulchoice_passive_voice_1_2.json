@@ -1,0 +1,25 @@
+{
+  "question": "“Ms Jones, please type those letters before noon”_ “They’ve already ____ sir. They’re on your desk.”",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "typed",
+      "answer_image": null
+    },
+    {
+      "text": "been being typed",
+      "answer_image": null
+    },
+    {
+      "text": "being typed",
+      "answer_image": null
+    },
+    {
+      "text": "been typed",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "been typed",
+  "correct_image": null,
+  "explanation": "Chúng đã được gõ rồi, thưa ông. Chúng ở trên bàn của ông."
+}

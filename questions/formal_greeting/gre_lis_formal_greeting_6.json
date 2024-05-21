@@ -1,0 +1,25 @@
+{
+  "question": "Đâu là từ bạn nghe được?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Good morning",
+      "answer_image": null
+    },
+    {
+      "text": "Good evening",
+      "answer_image": null
+    },
+    {
+      "text": "Hi there",
+      "answer_image": null
+    },
+    {
+      "text": "It’s nice to meet you",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "It’s nice to meet you",
+  "correct_image": null,
+  "explanation": null
+}

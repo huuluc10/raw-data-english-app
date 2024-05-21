@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/buy.png",
+  "answers": [
+    {
+      "text": "Paint",
+      "answer_image": null
+    },
+    {
+      "text": "Buy",
+      "answer_image": null
+    },
+    {
+      "text": "Jump",
+      "answer_image": null
+    },
+    {
+      "text": "Eat",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Buy",
+  "correct_image": null,
+  "explanation": "“Buy” là động từ có nghĩa là mua."
+}

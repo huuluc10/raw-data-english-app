@@ -1,0 +1,25 @@
+{
+  "question": "Tell me about the city ______________ you grew up.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "that",
+      "answer_image": null
+    },
+    {
+      "text": "where",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    },
+    {
+      "text": "∅",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "where",
+  "correct_image": null,
+  "explanation": "Kể cho tôi về thành phố mà bạn lớn lên."
+}

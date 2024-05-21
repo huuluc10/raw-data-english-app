@@ -1,0 +1,21 @@
+{
+  "question": "Does she bring ________________ umbrella?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a",
+  "correct_image": null,
+  "explanation": "Cô ấy có mang một cái ô không?"
+}

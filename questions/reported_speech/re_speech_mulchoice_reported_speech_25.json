@@ -1,0 +1,25 @@
+{
+  "question": "When he was at Oliver’s flat yesterday, Martin asked if he ______ use the phone.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "can",
+      "answer_image": null
+    },
+    {
+      "text": "could",
+      "answer_image": null
+    },
+    {
+      "text": "may",
+      "answer_image": null
+    },
+    {
+      "text": "must",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "could",
+  "correct_image": null,
+  "explanation": "Khi anh ấy ở trong căn hộ của Oliver hôm qua, Martin đã hỏi liệu anh ấy có thể sử dụng điện thoại không."
+}

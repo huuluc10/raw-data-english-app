@@ -1,0 +1,25 @@
+{
+  "question": "It’s two months since I ____ my hair cut.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "had",
+      "answer_image": null
+    },
+    {
+      "text": "have had",
+      "answer_image": null
+    },
+    {
+      "text": "have",
+      "answer_image": null
+    },
+    {
+      "text": "had had",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had",
+  "correct_image": null,
+  "explanation": "Đã hai tháng kể từ khi tôi cắt tóc."
+}

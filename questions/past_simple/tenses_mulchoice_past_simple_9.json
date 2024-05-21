@@ -1,0 +1,25 @@
+{
+  "question": "The window was open and a bird ___________ into the room.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "fly",
+      "answer_image": null
+    },
+    {
+      "text": "flew",
+      "answer_image": null
+    },
+    {
+      "text": "was flew",
+      "answer_image": null
+    },
+    {
+      "text": "did fly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "flew",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'flew' là dạng quá khứ của động từ 'fly', và phản ánh hành động đã diễn ra trong quá khứ."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "This car is _____________ car produced by this company.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "new",
+      "answer_image": null
+    },
+    {
+      "text": "so new",
+      "answer_image": null
+    },
+    {
+      "text": "newer",
+      "answer_image": null
+    },
+    {
+      "text": "the newest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the newest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the newest' được sử dụng để chỉ chiếc ô tô này là chiếc mới nhất được sản xuất bởi công ty này."
+}

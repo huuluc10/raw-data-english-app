@@ -1,0 +1,25 @@
+{
+  "question": "I wanted to know_____ return home.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "when would she",
+      "answer_image": null
+    },
+    {
+      "text": "when will she",
+      "answer_image": null
+    },
+    {
+      "text": "when she will",
+      "answer_image": null
+    },
+    {
+      "text": "when she would",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "when she would",
+  "correct_image": null,
+  "explanation": "Tôi muốn biết khi nào cô ấy sẽ trở về nhà."
+}

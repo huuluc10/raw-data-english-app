@@ -1,0 +1,25 @@
+{
+  "question": "A boat is ....... than a plane.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "slower",
+      "answer_image": null
+    },
+    {
+      "text": "slowest",
+      "answer_image": null
+    },
+    {
+      "text": "more slow",
+      "answer_image": null
+    },
+    {
+      "text": "more slower",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "slower",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'slower' là dạng so sánh hơn của 'slow'."
+}

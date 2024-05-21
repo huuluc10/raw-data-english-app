@@ -1,0 +1,17 @@
+{
+  "question": "I don’t know what she wants ________ tonight. Why don’t you ask her?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to do",
+      "answer_image": null
+    },
+    {
+      "text": "doing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to do",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'want' được dùng với cấu trúc 'want to + động từ nguyên thể'."
+}

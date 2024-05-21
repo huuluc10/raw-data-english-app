@@ -1,0 +1,25 @@
+{
+  "question": "Tom has got __________ message from his parents.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "long",
+      "answer_image": null
+    },
+    {
+      "text": "long as",
+      "answer_image": null
+    },
+    {
+      "text": "longer",
+      "answer_image": null
+    },
+    {
+      "text": "the longest",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the longest",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the longest' được sử dụng để chỉ thông điệp của Tom là dài nhất."
+}

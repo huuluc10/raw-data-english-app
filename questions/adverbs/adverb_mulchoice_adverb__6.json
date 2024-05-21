@@ -1,0 +1,17 @@
+{
+  "question": "That engine is very ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "noisy",
+      "answer_image": null
+    },
+    {
+      "text": "noisily",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "noisy",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'noisy' là tính từ được sử dụng để mô tả âm thanh của động cơ."
+}

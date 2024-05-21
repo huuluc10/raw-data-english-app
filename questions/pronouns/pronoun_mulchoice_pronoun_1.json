@@ -1,0 +1,25 @@
+{
+  "question": "You and Nam ate all of the ice cream by _______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "yourselves",
+      "answer_image": null
+    },
+    {
+      "text": "himself",
+      "answer_image": null
+    },
+    {
+      "text": "themselves",
+      "answer_image": null
+    },
+    {
+      "text": "yourself",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "yourselves",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'you and Nam' là chủ ngữ phức hợp, nên sử dụng 'yourselves' để chỉ 'bởi chính các bạn và Nam'."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "I used to enjoy the summer, ______ we had a big family picnic.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "where",
+      "answer_image": null
+    },
+    {
+      "text": "when",
+      "answer_image": null
+    },
+    {
+      "text": "which",
+      "answer_image": null
+    },
+    {
+      "text": "that",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "when",
+  "correct_image": null,
+  "explanation": "Tôi thường thích mùa hè, khi chúng tôi có một buổi dã ngoại gia đình lớn."
+}

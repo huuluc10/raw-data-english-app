@@ -1,0 +1,25 @@
+{
+  "question": "This is the second time she’s been here, ______________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "isn’t this",
+      "answer_image": null
+    },
+    {
+      "text": "isn’t it",
+      "answer_image": null
+    },
+    {
+      "text": "has she",
+      "answer_image": null
+    },
+    {
+      "text": "hasn’t she",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "isn’t it",
+  "correct_image": null,
+  "explanation": "Đây là lần thứ hai cô ấy đến đây, phải không?"
+}

@@ -1,0 +1,25 @@
+{
+  "question": "We have lived in Hanoi_____ 4 years.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "since",
+      "answer_image": null
+    },
+    {
+      "text": "for",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    },
+    {
+      "text": "in",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "for",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'for' được sử dụng để chỉ khoảng thời gian đã trôi qua, như 'for 4 years'."
+}

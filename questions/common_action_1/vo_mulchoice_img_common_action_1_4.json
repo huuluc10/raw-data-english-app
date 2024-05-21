@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/drink.png",
+  "answers": [
+    {
+      "text": "Cook",
+      "answer_image": null
+    },
+    {
+      "text": "Drink",
+      "answer_image": null
+    },
+    {
+      "text": "Wait",
+      "answer_image": null
+    },
+    {
+      "text": "Clap",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Drink",
+  "correct_image": null,
+  "explanation": "“Drink” là động từ có nghĩa là uống."
+}

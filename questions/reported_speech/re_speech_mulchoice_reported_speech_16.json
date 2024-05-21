@@ -1,0 +1,25 @@
+{
+  "question": "Hello, Jim. I didn’t expect to see you today. Sophie said you _____ ill.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "are",
+      "answer_image": null
+    },
+    {
+      "text": "were",
+      "answer_image": null
+    },
+    {
+      "text": "was",
+      "answer_image": null
+    },
+    {
+      "text": "should be",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "were",
+  "correct_image": null,
+  "explanation": "Xin chào, Jim. Tôi không ngờ sẽ gặp bạn hôm nay. Sophie nói bạn bị ốm."
+}

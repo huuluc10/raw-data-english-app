@@ -1,0 +1,25 @@
+{
+  "question": "They said that their house had been broken into ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the two days before",
+      "answer_image": null
+    },
+    {
+      "text": "two days ago",
+      "answer_image": null
+    },
+    {
+      "text": "two days before",
+      "answer_image": null
+    },
+    {
+      "text": "since two days",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "two days ago",
+  "correct_image": null,
+  "explanation": "Họ nói rằng nhà của họ đã bị đột nhập hai ngày trước đó."
+}

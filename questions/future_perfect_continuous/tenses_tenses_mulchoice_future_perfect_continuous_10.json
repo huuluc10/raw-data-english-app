@@ -1,0 +1,21 @@
+{
+  "question": "She'll still be groggy. She ________ undergoing surgery for three hours.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will has been",
+      "answer_image": null
+    },
+    {
+      "text": "will have been",
+      "answer_image": null
+    },
+    {
+      "text": "will be have",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have been",
+  "correct_image": null,
+  "explanation": "Cô ấy sẽ vẫn mơ màng. Cô ấy sẽ đã phẫu thuật được ba giờ."
+}

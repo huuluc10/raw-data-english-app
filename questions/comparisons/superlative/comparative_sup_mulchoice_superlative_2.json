@@ -1,0 +1,25 @@
+{
+  "question": "I think spring is _________ season of the year.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "very beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "more beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "the most beautiful",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "the most beautiful",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh nhất này, 'the most beautiful' được sử dụng để chỉ mùa xuân là mùa đẹp nhất trong năm."
+}

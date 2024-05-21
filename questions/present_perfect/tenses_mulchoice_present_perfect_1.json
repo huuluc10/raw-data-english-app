@@ -1,0 +1,25 @@
+{
+  "question": "When ____________ to Ha Long?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "have you joined",
+      "answer_image": null
+    },
+    {
+      "text": "did you joined",
+      "answer_image": null
+    },
+    {
+      "text": "did you join",
+      "answer_image": null
+    },
+    {
+      "text": "have you ever joined",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have you ever joined",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu hỏi Wh trong thì hiện tại hoàn thành: Wh- + have/has + S + ever + Vpp"
+}

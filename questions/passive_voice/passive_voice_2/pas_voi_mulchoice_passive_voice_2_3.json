@@ -1,0 +1,25 @@
+{
+  "question": "The manager had his secretary ____ the report for him.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to have typed",
+      "answer_image": null
+    },
+    {
+      "text": "typed",
+      "answer_image": null
+    },
+    {
+      "text": "type",
+      "answer_image": null
+    },
+    {
+      "text": "to type",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "type",
+  "correct_image": null,
+  "explanation": "Quản lý đã yêu cầu thư ký của mình đánh máy báo cáo cho anh ấy."
+}

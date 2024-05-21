@@ -1,0 +1,25 @@
+{
+  "question": "Mr. Smith’s new neighbors appear to be very friendly.\nTừ trái nghĩa của \"friendly\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "amicable",
+      "answer_image": null
+    },
+    {
+      "text": "inapplicable",
+      "answer_image": null
+    },
+    {
+      "text": "hostile",
+      "answer_image": null
+    },
+    {
+      "text": "futile",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "hostile",
+  "correct_image": null,
+  "explanation": "friendly: thân thiện >< hostile: thù địch"
+}

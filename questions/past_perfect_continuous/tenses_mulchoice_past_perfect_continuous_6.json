@@ -1,0 +1,25 @@
+{
+  "question": "Jenny was annoyed. Jim _______ (call) her every night for the whole week!",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has been calling",
+      "answer_image": null
+    },
+    {
+      "text": "had called",
+      "answer_image": null
+    },
+    {
+      "text": "had been calling",
+      "answer_image": null
+    },
+    {
+      "text": "called",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been calling",
+  "correct_image": null,
+  "explanation": "Jenny bực bội. Jim đã gọi cho cô ấy mỗi đêm suốt cả tuần!"
+}

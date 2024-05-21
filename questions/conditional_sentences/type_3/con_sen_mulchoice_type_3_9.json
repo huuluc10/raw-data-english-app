@@ -1,0 +1,21 @@
+{
+  "question": "I didn’t forget Ren’s birthday because Anna reminded me about Ren’s birthday.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "If Anna hadn’t reminded me about Ren’s birthday, I would have forgotten his birthday.",
+      "answer_image": null
+    },
+    {
+      "text": "If Anna reminded me about Ren’s birthday, I wouldn’t have forgotten his birthday.",
+      "answer_image": null
+    },
+    {
+      "text": "If Anna wouldn’t have reminded me about Ren’s birthday, I would have forgotten his birthday.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "If Anna hadn’t reminded me about Ren’s birthday, I would have forgotten his birthday.",
+  "correct_image": null,
+  "explanation": null
+}

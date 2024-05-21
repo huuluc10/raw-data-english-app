@@ -1,0 +1,25 @@
+{
+  "question": "I have _______ time to finish this assignment before the deadline.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "few",
+      "answer_image": null
+    },
+    {
+      "text": "a little",
+      "answer_image": null
+    },
+    {
+      "text": "plenty of",
+      "answer_image": null
+    },
+    {
+      "text": "a great number of",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "a little",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'a little' được sử dụng để chỉ một ít thời gian."
+}

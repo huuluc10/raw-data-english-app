@@ -1,0 +1,25 @@
+{
+  "question": "_______ children go to school in Newcastle.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "They",
+      "answer_image": null
+    },
+    {
+      "text": "Their",
+      "answer_image": null
+    },
+    {
+      "text": "Them",
+      "answer_image": null
+    },
+    {
+      "text": "Theirs",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Their",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'children' thuộc về họ, nên sử dụng 'Their'."
+}

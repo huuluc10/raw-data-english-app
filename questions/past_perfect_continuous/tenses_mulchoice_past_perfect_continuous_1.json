@@ -1,0 +1,25 @@
+{
+  "question": "She was very tired. She _____ (type) letters all day long.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has typed",
+      "answer_image": null
+    },
+    {
+      "text": "has been typing",
+      "answer_image": null
+    },
+    {
+      "text": "had been typing",
+      "answer_image": null
+    },
+    {
+      "text": "had typed",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had been typing",
+  "correct_image": null,
+  "explanation": "Cô ấy rất mệt mỏi. Cô ấy đã gõ thư suốt cả ngày."
+}

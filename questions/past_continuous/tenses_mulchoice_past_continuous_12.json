@@ -1,0 +1,25 @@
+{
+  "question": "Her dad found some money while she ___ her suitcase.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "packing",
+      "answer_image": null
+    },
+    {
+      "text": "package",
+      "answer_image": null
+    },
+    {
+      "text": "are packing",
+      "answer_image": null
+    },
+    {
+      "text": "was packing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was packing",
+  "correct_image": null,
+  "explanation": "Bố cô ấy đã tìm thấy một số tiền trong khi cô ấy đang đóng gói vali."
+}

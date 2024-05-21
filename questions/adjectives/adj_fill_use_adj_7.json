@@ -1,0 +1,17 @@
+{
+  "question": "She doesn't like watch ________________ TV shows on her own.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "depressed",
+      "answer_image": null
+    },
+    {
+      "text": "depressing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "depressing",
+  "correct_image": null,
+  "explanation": "Dùng depressing để miêu tả tính chất của các chương trình trên TV"
+}

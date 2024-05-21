@@ -1,0 +1,17 @@
+{
+  "question": "She is wearing a ___ dress.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "colourful",
+      "answer_image": null
+    },
+    {
+      "text": "colourfully",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "colourful",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'colourful' là tính từ được sử dụng để mô tả màu sắc của chiếc váy."
+}

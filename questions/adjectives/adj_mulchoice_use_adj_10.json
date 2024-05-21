@@ -1,0 +1,21 @@
+{
+  "question": "She's training to become a psycholog _____.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "er",
+      "answer_image": null
+    },
+    {
+      "text": "y",
+      "answer_image": null
+    },
+    {
+      "text": "ist",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "ist",
+  "correct_image": null,
+  "explanation": "Cô ấy đang được đào tạo để trở thành một nhà tâm lý học (psychologist)."
+}

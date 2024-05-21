@@ -1,0 +1,25 @@
+{
+  "question": "What ___ when his mother came?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "were you doing",
+      "answer_image": null
+    },
+    {
+      "text": "was you doing",
+      "answer_image": null
+    },
+    {
+      "text": "are you doing",
+      "answer_image": null
+    },
+    {
+      "text": "are you doing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Were you doing",
+  "correct_image": null,
+  "explanation": "Bạn đang làm gì khi mẹ anh ấy đến?"
+}

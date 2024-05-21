@@ -1,0 +1,25 @@
+{
+  "question": "Can you smell that? It _______ a gas leak.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "smells",
+      "answer_image": null
+    },
+    {
+      "text": "smells like",
+      "answer_image": null
+    },
+    {
+      "text": "smells as if",
+      "answer_image": null
+    },
+    {
+      "text": "smells as though",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "smells like",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'smells like' được sử dụng để diễn đạt cảm giác của người nói về mùi gas bị rò rỉ."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "My phone ________ your phone.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is as not expensive as",
+      "answer_image": null
+    },
+    {
+      "text": "is not as expensive as",
+      "answer_image": null
+    },
+    {
+      "text": "as expensive not as",
+      "answer_image": null
+    },
+    {
+      "text": "is not as expensively as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is not as expensive as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'is not as expensive as' được sử dụng để chỉ điện thoại của tôi không đắt bằng điện thoại của bạn."
+}

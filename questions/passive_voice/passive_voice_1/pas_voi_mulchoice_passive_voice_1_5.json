@@ -1,0 +1,25 @@
+{
+  "question": "We got our mail ____ yesterday.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "been delivered",
+      "answer_image": null
+    },
+    {
+      "text": "delivered",
+      "answer_image": null
+    },
+    {
+      "text": "delivering",
+      "answer_image": null
+    },
+    {
+      "text": "to deliver",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "been delivered",
+  "correct_image": null,
+  "explanation": "Chúng tôi nhận được thư của mình được chuyển đến ngày hôm qua."
+}

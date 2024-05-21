@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/gorgeous.png",
+  "answers": [
+    {
+      "text": "Gorgeous",
+      "answer_image": null
+    },
+    {
+      "text": "Pretty",
+      "answer_image": null
+    },
+    {
+      "text": "Cute",
+      "answer_image": null
+    },
+    {
+      "text": "Ugly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Gorgeous",
+  "correct_image": null,
+  "explanation": "Từ \"gorgeous\" trong tiếng Anh có nghĩa là tuyệt đẹp, lộng lẫy và quyến rũ, thường được sử dụng để miêu tả sự hấp dẫn đặc biệt."
+}

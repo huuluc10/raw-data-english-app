@@ -1,0 +1,25 @@
+{
+  "question": "We ………. TV all evening.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "watch",
+      "answer_image": null
+    },
+    {
+      "text": "have watched",
+      "answer_image": null
+    },
+    {
+      "text": "are watching",
+      "answer_image": null
+    },
+    {
+      "text": "have been watching",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "have been watching",
+  "correct_image": null,
+  "explanation": "Chủ ngữ là We (số nhiều) và câu này cho biết một hành động đã kéo dài từ quá khứ đến hiện tại, nên câu trúc đúng là \"have been watching\"."
+}

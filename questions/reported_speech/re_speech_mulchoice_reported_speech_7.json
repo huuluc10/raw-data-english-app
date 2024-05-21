@@ -1,0 +1,25 @@
+{
+  "question": "I rang my friend in Australia yesterday, and she said it _______ raining there.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "were",
+      "answer_image": null
+    },
+    {
+      "text": "has been",
+      "answer_image": null
+    },
+    {
+      "text": "was",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was",
+  "correct_image": null,
+  "explanation": "Tôi gọi điện cho bạn ở Úc hôm qua, và cô ấy nói rằng trời đã mưa ở đó."
+}

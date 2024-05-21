@@ -1,0 +1,25 @@
+{
+  "question": "We should call Rita, _______________?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "should we",
+      "answer_image": null
+    },
+    {
+      "text": "shouldn’t we",
+      "answer_image": null
+    },
+    {
+      "text": "shall we",
+      "answer_image": null
+    },
+    {
+      "text": "should not we",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "shouldn’t we",
+  "correct_image": null,
+  "explanation": "Chúng ta nên gọi cho Rita, phải không?"
+}

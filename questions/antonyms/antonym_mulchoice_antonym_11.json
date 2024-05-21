@@ -1,0 +1,25 @@
+{
+  "question": "She was always very hard-working at school.\nTừ trái nghĩa của \"hard-working\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "studious",
+      "answer_image": null
+    },
+    {
+      "text": "learned",
+      "answer_image": null
+    },
+    {
+      "text": "lazy",
+      "answer_image": null
+    },
+    {
+      "text": "attentive",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "lazy",
+  "correct_image": null,
+  "explanation": "hard-working: chăm chỉ >< lazy: lười biếng"
+}

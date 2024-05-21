@@ -1,0 +1,17 @@
+{
+  "question": "She is very ________________ in traveling and taking photos.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "interested",
+      "answer_image": null
+    },
+    {
+      "text": "interesting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "interested",
+  "correct_image": null,
+  "explanation": "dùng interested để miêu tả cảm xúc của cô ấy đối với chuyến đi."
+}

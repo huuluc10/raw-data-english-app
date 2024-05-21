@@ -1,0 +1,25 @@
+{
+  "question": "His grandma tried cake for the first time while he ___ in China.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "staying",
+      "answer_image": null
+    },
+    {
+      "text": "is staying",
+      "answer_image": null
+    },
+    {
+      "text": "is stayed",
+      "answer_image": null
+    },
+    {
+      "text": "was staying",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was staying",
+  "correct_image": null,
+  "explanation": "Bà của anh ấy đã thử bánh lần đầu tiên khi anh ấy đang lưu trú tại Trung Quốc."
+}

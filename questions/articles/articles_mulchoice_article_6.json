@@ -1,0 +1,25 @@
+{
+  "question": "She has read ________interesting book.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "the",
+      "answer_image": null
+    },
+    {
+      "text": "x",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "an",
+  "correct_image": null,
+  "explanation": "Cô ấy đã đọc một cuốn sách thú vị."
+}

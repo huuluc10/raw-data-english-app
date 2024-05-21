@@ -1,0 +1,25 @@
+{
+  "question": "The dog is ___________ the bed.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "through",
+      "answer_image": null
+    },
+    {
+      "text": "between",
+      "answer_image": null
+    },
+    {
+      "text": "into",
+      "answer_image": null
+    },
+    {
+      "text": "under",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "under",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'under' được sử dụng để chỉ vị trí của chó, nó nằm dưới cái giường."
+}

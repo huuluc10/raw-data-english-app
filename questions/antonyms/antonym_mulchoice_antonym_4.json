@@ -1,0 +1,25 @@
+{
+  "question": "The majority of people in the town strongly support the plans to build a new school.\nTừ trái nghĩa của \"support\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "in favour of",
+      "answer_image": null
+    },
+    {
+      "text": "refuse",
+      "answer_image": null
+    },
+    {
+      "text": "agree",
+      "answer_image": null
+    },
+    {
+      "text": "endanger",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "refuse",
+  "correct_image": null,
+  "explanation": "support: đồng tình, ủng hộ >< refuse: từ chối, bác bỏ"
+}

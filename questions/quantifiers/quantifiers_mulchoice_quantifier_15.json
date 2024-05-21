@@ -1,0 +1,25 @@
+{
+  "question": "They have _______ money to buy a new car.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "enough",
+      "answer_image": null
+    },
+    {
+      "text": "many",
+      "answer_image": null
+    },
+    {
+      "text": "much",
+      "answer_image": null
+    },
+    {
+      "text": "any",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "enough",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'enough' được sử dụng để chỉ có đủ tiền cần thiết để mua một chiếc xe hơi mới."
+}

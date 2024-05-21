@@ -1,0 +1,25 @@
+{
+  "question": "My clothes ________ hers.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "is as not modern as",
+      "answer_image": null
+    },
+    {
+      "text": "as is modern as",
+      "answer_image": null
+    },
+    {
+      "text": "is as modern as",
+      "answer_image": null
+    },
+    {
+      "text": "as is modern not as",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "is as modern as",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh, 'is as modern as' được sử dụng để so sánh sự hiện đại của quần áo của tôi với của cô ấy."
+}

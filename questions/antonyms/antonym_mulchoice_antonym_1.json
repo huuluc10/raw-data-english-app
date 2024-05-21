@@ -1,0 +1,25 @@
+{
+  "question": "Using Facebook, you can post update sayings about your life every day.\nTrái nghĩa của \"post\" là:",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "locate",
+      "answer_image": null
+    },
+    {
+      "text": "displace",
+      "answer_image": null
+    },
+    {
+      "text": "establish",
+      "answer_image": null
+    },
+    {
+      "text": "put up",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "displace",
+  "correct_image": null,
+  "explanation": "post: đăng tải >< displace: xóa, loại bỏ khỏi vị trí"
+}

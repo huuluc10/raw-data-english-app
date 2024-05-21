@@ -1,0 +1,25 @@
+{
+  "question": "Before the concert started, the audience ______ their seats.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already take",
+      "answer_image": null
+    },
+    {
+      "text": "had already taken",
+      "answer_image": null
+    },
+    {
+      "text": "already taken",
+      "answer_image": null
+    },
+    {
+      "text": "had already take",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already taken",
+  "correct_image": null,
+  "explanation": "Trước khi buổi hòa nhạc bắt đầu, khán giả đã ngồi xuống chỗ ngồi của họ."
+}

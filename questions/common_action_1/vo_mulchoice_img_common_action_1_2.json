@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả hành động gì?",
+  "question_image": "images/objects/common_action/give.png",
+  "answers": [
+    {
+      "text": "Eat",
+      "answer_image": null
+    },
+    {
+      "text": "Drink",
+      "answer_image": null
+    },
+    {
+      "text": "Give",
+      "answer_image": null
+    },
+    {
+      "text": "Cook",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Give",
+  "correct_image": null,
+  "explanation": "“Give” là động từ có nghĩa là cho."
+}

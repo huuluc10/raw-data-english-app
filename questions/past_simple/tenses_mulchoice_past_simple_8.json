@@ -1,0 +1,25 @@
+{
+  "question": "The room was very uncomfortable. I ____________ stay very well.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "didn't",
+      "answer_image": null
+    },
+    {
+      "text": "did",
+      "answer_image": null
+    },
+    {
+      "text": "wasn't",
+      "answer_image": null
+    },
+    {
+      "text": "not",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "didn't",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'didn't' là cách diễn đạt phù hợp để phủ nhận việc ở lại trong căn phòng không thoải mái trong quá khứ."
+}

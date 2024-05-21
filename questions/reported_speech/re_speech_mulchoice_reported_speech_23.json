@@ -1,0 +1,25 @@
+{
+  "question": "I couldn’t move the piano alone, so I asked Tom_______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "giving a hand",
+      "answer_image": null
+    },
+    {
+      "text": "gave a hand",
+      "answer_image": null
+    },
+    {
+      "text": "to give a hand",
+      "answer_image": null
+    },
+    {
+      "text": "give a hand",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to give a hand",
+  "correct_image": null,
+  "explanation": "Tôi không thể di chuyển cái đàn piano một mình, vì vậy tôi đã yêu cầu Tom giúp đỡ."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "We are looking for people with ________experience.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "the",
+      "answer_image": null
+    },
+    {
+      "text": "a",
+      "answer_image": null
+    },
+    {
+      "text": "an",
+      "answer_image": null
+    },
+    {
+      "text": "x",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "x",
+  "correct_image": null,
+  "explanation": "Chúng tôi đang tìm kiếm những người có kinh nghiệm."
+}

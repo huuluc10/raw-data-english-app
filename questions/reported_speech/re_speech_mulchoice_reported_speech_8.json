@@ -1,0 +1,25 @@
+{
+  "question": "The builders have ______ that everything will be ready on time.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "promised",
+      "answer_image": null
+    },
+    {
+      "text": "promise",
+      "answer_image": null
+    },
+    {
+      "text": "promises",
+      "answer_image": null
+    },
+    {
+      "text": "promising",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "promised",
+  "correct_image": null,
+  "explanation": "Các nhà thầu đã hứa rằng mọi thứ sẽ sẵn sàng đúng giờ."
+}

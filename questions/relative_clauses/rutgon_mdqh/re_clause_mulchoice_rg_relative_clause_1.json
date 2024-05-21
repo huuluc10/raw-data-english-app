@@ -1,0 +1,21 @@
+{
+  "question": "The book that was written by J.K. Rowling is very popular.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The book written by J.K. Rowling is very popular.",
+      "answer_image": null
+    },
+    {
+      "text": "The written by J.K. Rowling book is very popular.",
+      "answer_image": null
+    },
+    {
+      "text": "The book that written by J.K. Rowling is very popular.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The book written by J.K. Rowling is very popular.",
+  "correct_image": null,
+  "explanation": "Cuốn sách được viết bởi J.K. Rowling rất phổ biến."
+}

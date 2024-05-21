@@ -1,0 +1,25 @@
+{
+  "question": "___ it ___ when I woke up this morning?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "Is-raining",
+      "answer_image": null
+    },
+    {
+      "text": "Was-raining",
+      "answer_image": null
+    },
+    {
+      "text": "Is-rain",
+      "answer_image": null
+    },
+    {
+      "text": "Were-raining",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Was-raining",
+  "correct_image": null,
+  "explanation": "Có đang mưa khi tôi thức dậy vào buổi sáng này không?"
+}

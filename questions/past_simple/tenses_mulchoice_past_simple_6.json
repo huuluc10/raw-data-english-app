@@ -1,0 +1,25 @@
+{
+  "question": "The police ___________ me on my way home last week.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "was stop",
+      "answer_image": null
+    },
+    {
+      "text": "stopped",
+      "answer_image": null
+    },
+    {
+      "text": "stops",
+      "answer_image": null
+    },
+    {
+      "text": "stopping",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "stopped",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'stopped' là dạng quá khứ của động từ 'stop', và phản ánh hành động đã diễn ra trong quá khứ."
+}

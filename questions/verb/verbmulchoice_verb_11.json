@@ -1,0 +1,21 @@
+{
+  "question": "I would like _____ my grandmother next year.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "visit",
+      "answer_image": null
+    },
+    {
+      "text": "to visit",
+      "answer_image": null
+    },
+    {
+      "text": "visiting",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "to visit",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'to visit' được sử dụng để diễn đạt mục đích hoặc ý định của người nói về việc thăm bà."
+}

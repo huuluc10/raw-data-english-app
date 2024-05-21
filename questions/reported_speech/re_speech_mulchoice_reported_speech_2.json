@@ -1,0 +1,25 @@
+{
+  "question": "She asked me _____ I liked pop music.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "when",
+      "answer_image": null
+    },
+    {
+      "text": "what",
+      "answer_image": null
+    },
+    {
+      "text": "if",
+      "answer_image": null
+    },
+    {
+      "text": "x",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "if",
+  "correct_image": null,
+  "explanation": "Cô ấy hỏi tôi liệu tôi có thích nhạc pop không."
+}

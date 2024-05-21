@@ -1,0 +1,25 @@
+{
+  "question": "The woman wonders ______ doing well at school.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "whether her children are",
+      "answer_image": null
+    },
+    {
+      "text": "if her children were",
+      "answer_image": null
+    },
+    {
+      "text": "whether her children were",
+      "answer_image": null
+    },
+    {
+      "text": "her children are if",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "whether her children are",
+  "correct_image": null,
+  "explanation": "Người phụ nữ tự hỏi liệu con cái của mình có đang học tốt không."
+}

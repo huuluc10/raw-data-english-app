@@ -1,0 +1,17 @@
+{
+  "question": "I haven't seen her ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "late",
+      "answer_image": null
+    },
+    {
+      "text": "lately",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "lately",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'lately' là trạng từ được sử dụng để diễn đạt thời gian gần đây mà người nói không gặp mặt được người đó."
+}

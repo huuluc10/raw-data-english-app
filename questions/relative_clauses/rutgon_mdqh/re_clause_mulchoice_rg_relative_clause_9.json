@@ -1,0 +1,21 @@
+{
+  "question": "The girl who is singing on stage has a beautiful voice.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "The girl who singing on stage has a beautiful voice.",
+      "answer_image": null
+    },
+    {
+      "text": "The singing on stage girl has a beautiful voice.",
+      "answer_image": null
+    },
+    {
+      "text": "The girl singing on stage has a beautiful voice.",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "The girl singing on stage has a beautiful voice.",
+  "correct_image": null,
+  "explanation": "Cô gái đang hát trên sân khấu có một giọng hát đẹp."
+}

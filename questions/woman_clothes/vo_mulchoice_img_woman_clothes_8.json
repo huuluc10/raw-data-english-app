@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-hat.png",
+    "answers": [
+      {
+        "text": "Purse",
+        "answer_image": null
+      },
+      {
+        "text": "Handbag",
+        "answer_image": null
+      },
+      {
+        "text": "Skirt",
+        "answer_image": null
+      },
+      {
+        "text": "Hat",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Hat",
+    "correct_image": null,
+    "explanation": "Hat là một loại mũ được đặt lên đầu để bảo vệ đầu và che chắn khỏi ánh nắng mặt trời hoặc các yếu tố thời tiết khác. Nó cũng có thể được sử dụng như một phụ kiện thời trang."
+  }

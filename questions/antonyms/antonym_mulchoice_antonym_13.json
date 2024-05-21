@@ -1,0 +1,25 @@
+{
+  "question": "She must be very strong to carry such a weight on her back.\nTừ trái nghĩa của \"strong\" là gì?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "weak",
+      "answer_image": null
+    },
+    {
+      "text": "musculous",
+      "answer_image": null
+    },
+    {
+      "text": "sick",
+      "answer_image": null
+    },
+    {
+      "text": "healthy",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "weak",
+  "correct_image": null,
+  "explanation": "strong: mạnh mẽ >< weak: yếu đuối"
+}

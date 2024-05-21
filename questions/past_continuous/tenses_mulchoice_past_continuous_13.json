@@ -1,0 +1,25 @@
+{
+  "question": "Your brother ___ in Myanmar when he met his girlfriend.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "study",
+      "answer_image": null
+    },
+    {
+      "text": "was studying",
+      "answer_image": null
+    },
+    {
+      "text": "were study",
+      "answer_image": null
+    },
+    {
+      "text": "was study",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "was studying",
+  "correct_image": null,
+  "explanation": "Anh trai của bạn đang học tại Myanmar thì anh gặp bạn gái của mình."
+}

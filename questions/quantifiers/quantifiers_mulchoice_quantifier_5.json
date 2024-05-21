@@ -1,0 +1,21 @@
+{
+  "question": "There is ____________ jam left. We have to buy a jar.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "no",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "no",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'no' được sử dụng để chỉ không còn bất kỳ một lượng nào của mứt nào còn lại."
+}

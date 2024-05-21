@@ -1,0 +1,25 @@
+{
+  "question": "You must explain your problem ________.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "as clear as you can",
+      "answer_image": null
+    },
+    {
+      "text": "as clearly as you can",
+      "answer_image": null
+    },
+    {
+      "text": "as clear that you are",
+      "answer_image": null
+    },
+    {
+      "text": "as clearly as you are",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "as clearly as you can",
+  "correct_image": null,
+  "explanation": "Trong câu so sánh hơn, 'as clearly as you can' được sử dụng để yêu cầu bạn giải thích vấn đề của mình một cách rõ ràng nhất có thể."
+}

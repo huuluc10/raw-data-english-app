@@ -1,0 +1,25 @@
+{
+  "question": "The last time I saw Linda, she looked very relaxed. She explained she’d been on holiday the ______ week.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "ago",
+      "answer_image": null
+    },
+    {
+      "text": "following",
+      "answer_image": null
+    },
+    {
+      "text": "next",
+      "answer_image": null
+    },
+    {
+      "text": "previous",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "previous",
+  "correct_image": null,
+  "explanation": "Lần cuối tôi gặp Linda, cô ấy trông rất thư giãn. Cô ấy giải thích rằng cô ấy đã đi nghỉ vào tuần trước."
+}

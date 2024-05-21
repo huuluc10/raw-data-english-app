@@ -1,0 +1,21 @@
+{
+  "question": "You __________ about the decision that you made today.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will be regretting",
+      "answer_image": null
+    },
+    {
+      "text": "will regret",
+      "answer_image": null
+    },
+    {
+      "text": "would regret",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will regret",
+  "correct_image": null,
+  "explanation": "Bạn sẽ hối tiếc về quyết định bạn đã đưa ra hôm nay."
+}

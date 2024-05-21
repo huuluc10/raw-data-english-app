@@ -1,0 +1,21 @@
+{
+  "question": "Are there ____________ pears in the basket?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "any",
+      "answer_image": null
+    },
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "no",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "any",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'any' được sử dụng để hỏi về sự tồn tại của một số loại trái cây."
+}

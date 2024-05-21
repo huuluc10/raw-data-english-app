@@ -1,0 +1,25 @@
+{
+  "question": "How _______ milk is left in the refrigerator?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "many",
+      "answer_image": null
+    },
+    {
+      "text": "no",
+      "answer_image": null
+    },
+    {
+      "text": "some",
+      "answer_image": null
+    },
+    {
+      "text": "plenty of",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "no",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'no' được sử dụng để chỉ không còn bất kỳ một lượng nào của sữa nào còn lại."
+}

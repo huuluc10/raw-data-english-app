@@ -1,0 +1,25 @@
+{
+  "question": "They ___ on the lake when it started to rain so they went home.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "finished",
+      "answer_image": null
+    },
+    {
+      "text": "finishing",
+      "answer_image": null
+    },
+    {
+      "text": "were finishing",
+      "answer_image": null
+    },
+    {
+      "text": "are finishing",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "were finishing",
+  "correct_image": null,
+  "explanation": "Khi mưa bắt đầu rơi, họ đang kết thúc hoạt động trên hồ nên họ đã về nhà."
+}

@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/elegant.png",
+  "answers": [
+    {
+      "text": "Cute",
+      "answer_image": null
+    },
+    {
+      "text": "Elegant",
+      "answer_image": null
+    },
+    {
+      "text": "Beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "Ugly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Elegant",
+  "correct_image": null,
+  "explanation": "Từ \"elegant\" trong tiếng Anh có nghĩa là thanh lịch và tinh tế, thường được sử dụng để miêu tả phong cách và gu thẩm mỹ cao."
+}

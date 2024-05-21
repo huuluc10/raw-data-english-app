@@ -1,0 +1,25 @@
+{
+  "question": "Hình sau mô tả tính từ nào?",
+  "question_image": "images/objects/general_appearance/ugly.png",
+  "answers": [
+    {
+      "text": "Beautiful",
+      "answer_image": null
+    },
+    {
+      "text": "Pretty",
+      "answer_image": null
+    },
+    {
+      "text": "Cute",
+      "answer_image": null
+    },
+    {
+      "text": "Ugly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "Ugly",
+  "correct_image": null,
+  "explanation": "Từ \"ugly\" trong tiếng Anh có nghĩa là xấu xí hoặc không đẹp, thường được sử dụng để miêu tả những gì không thu hút hoặc không được coi là đẹp mắt."
+}

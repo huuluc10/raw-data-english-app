@@ -1,0 +1,25 @@
+{
+    "question": "Đâu là từ bạn nghe được?",
+    "question_image": null,
+    "answers": [
+      {
+        "text": "Think",
+        "answer_image": null
+      },
+      {
+        "text": "Sleep",
+        "answer_image": null
+      },
+      {
+        "text": "Read",
+        "answer_image": null
+      },
+      {
+        "text": "Dance",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Read",
+    "correct_image": null,
+    "explanation": null
+  }

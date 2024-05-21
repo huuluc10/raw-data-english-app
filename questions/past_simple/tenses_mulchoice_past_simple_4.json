@@ -1,0 +1,25 @@
+{
+  "question": "I ___________ to the hospital three times last week.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "was go",
+      "answer_image": null
+    },
+    {
+      "text": "went",
+      "answer_image": null
+    },
+    {
+      "text": "did go",
+      "answer_image": null
+    },
+    {
+      "text": "goed",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "went",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'went' là dạng quá khứ của động từ 'go', và phản ánh hành động đã diễn ra trong quá khứ."
+}

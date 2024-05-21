@@ -1,0 +1,25 @@
+{
+  "question": "Her hometown _______________ a lot of hills and mountains.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "has",
+      "answer_image": null
+    },
+    {
+      "text": "gets",
+      "answer_image": null
+    },
+    {
+      "text": "is",
+      "answer_image": null
+    },
+    {
+      "text": "has got",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "has",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu mô tả tính chất của địa điểm: S + have/has + something"
+}

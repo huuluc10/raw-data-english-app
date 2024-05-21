@@ -1,0 +1,25 @@
+{
+  "question": "Prices ________ in 1995 but then _____ in 1996.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "rised _ falled",
+      "answer_image": null
+    },
+    {
+      "text": "rose _ fell",
+      "answer_image": null
+    },
+    {
+      "text": "have risen _ have fallen",
+      "answer_image": null
+    },
+    {
+      "text": "rose _ have fallen",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "rose _ fell",
+  "correct_image": null,
+  "explanation": "Cấu trúc câu trong thì quá khứ đơn: S + V2. câu này không dùng thì hiện tại hoàn thành vì có năm cụ thể trong quá khứ"
+}

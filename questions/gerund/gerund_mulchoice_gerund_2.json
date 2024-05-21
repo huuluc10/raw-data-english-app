@@ -1,0 +1,17 @@
+{
+  "question": "The models practiced ________ with a book balanced on their heads.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "to walk",
+      "answer_image": null
+    },
+    {
+      "text": "walking",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "walking",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'practiced' đã chỉ ra hành động đang diễn ra nên cần sử dụng dạng động từ -ing."
+}

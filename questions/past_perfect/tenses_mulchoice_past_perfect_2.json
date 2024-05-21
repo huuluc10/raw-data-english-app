@@ -1,0 +1,25 @@
+{
+  "question": "When they got to the restaurant, all the food ______.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "already eaten",
+      "answer_image": null
+    },
+    {
+      "text": "had already eaten",
+      "answer_image": null
+    },
+    {
+      "text": "already eating",
+      "answer_image": null
+    },
+    {
+      "text": "already eat",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "had already eaten",
+  "correct_image": null,
+  "explanation": "Khi họ đến nhà hàng, tất cả đồ ăn đã được ăn hết."
+}

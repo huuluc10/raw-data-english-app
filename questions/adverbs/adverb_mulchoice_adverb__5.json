@@ -1,0 +1,17 @@
+{
+  "question": "Are you ___ frustrated?",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "serious",
+      "answer_image": null
+    },
+    {
+      "text": "seriously",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "seriously",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'seriously' là trạng từ được sử dụng để mô tả mức độ hoặc cách thức của cảm xúc."
+}

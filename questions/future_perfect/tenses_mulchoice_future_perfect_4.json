@@ -1,0 +1,17 @@
+{
+  "question": "Don’t worry. By the time you arrive I _____ up the whole house.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "will tidy",
+      "answer_image": null
+    },
+    {
+      "text": "will have tidied",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "will have tidied",
+  "correct_image": null,
+  "explanation": "Đừng lo. Đến lúc bạn đến, tôi đã dọn dẹp toàn bộ nhà."
+}

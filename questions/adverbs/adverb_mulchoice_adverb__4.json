@@ -1,0 +1,17 @@
+{
+  "question": "You didn't do your work ___.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "correct",
+      "answer_image": null
+    },
+    {
+      "text": "correctly",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "correctly",
+  "correct_image": null,
+  "explanation": "Trong câu này, 'correctly' là trạng từ được sử dụng để mô tả cách thức hoặc phương pháp của việc thực hiện công việc."
+}

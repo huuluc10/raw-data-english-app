@@ -1,0 +1,25 @@
+{
+  "question": "They will come here ______11:30 AM.",
+  "question_image": null,
+  "answers": [
+    {
+      "text": "between",
+      "answer_image": null
+    },
+    {
+      "text": "at",
+      "answer_image": null
+    },
+    {
+      "text": "for",
+      "answer_image": null
+    },
+    {
+      "text": "in",
+      "answer_image": null
+    }
+  ],
+  "correct_answer": "at",
+  "correct_image": null,
+  "explanation": "Trong trường hợp này, 'at' được sử dụng để chỉ thời gian cụ thể, như 'at 11:30 AM'."
+}

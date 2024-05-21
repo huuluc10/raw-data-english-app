@@ -1,0 +1,25 @@
+{
+    "question": "Hình sau mô tả vật gì?",
+    "question_image": "images/objects/clothes/woman-dress-pants.png",
+    "answers": [
+      {
+        "text": "Purse",
+        "answer_image": null
+      },
+      {
+        "text": "Handbag",
+        "answer_image": null
+      },
+      {
+        "text": "Long-sleeve top",
+        "answer_image": null
+      },
+      {
+        "text": "Dress pants",
+        "answer_image": null
+      }
+    ],
+    "correct_answer": "Dress pants",
+    "correct_image": null,
+    "explanation": "Dress pants là một loại quần được thiết kế để mặc trong các dịp trang trọng hoặc công việc. Chúng thường có kiểu dáng thanh lịch và được làm từ vật liệu cao cấp."
+  }
