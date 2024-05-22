@@ -147,7 +147,7 @@ create table if not exists user_question
     make_for ENUM ('LESSON', 'EXAM') default 'LESSON',
     is_correct tinyint not null,
     date_done datetime default current_timestamp,
-    primary key(username, question_id, date_done),
+    primary key(username, question_id, make_for, date_done),
     foreign key(username) references user(username),
     foreign key(question_id) references question(question_id)
 );
