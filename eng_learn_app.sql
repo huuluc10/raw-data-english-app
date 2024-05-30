@@ -160,7 +160,7 @@ create table if not exists jwt_token_blacklist
 
 create table if not exists code_verification
 (
-    email varchar(30) not null ,
+    email varchar(50) not null ,
     code varchar(6) not null,
     expired_at datetime not null,
     primary key(email, code)
