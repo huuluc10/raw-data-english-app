@@ -52,6 +52,17 @@ create table if not exists friend_request
     foreign key(receiver) references user(username)
 );
 
+create table user_feedback (
+    id int primary key auto_increment,
+    username varchar(30) not null,
+    lesson_id int not null,
+    feedback text not null,
+    created_at datetime not null default current_timestamp,
+    updated_at datetime not null default current_timestamp,
+    foreign key (username) references user(username),
+    foreign key (lesson_id) references lesson(lesson_id)
+);
+
 create table if not exists topic
 (
     topic_id tinyint primary key auto_increment,
